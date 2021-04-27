@@ -1,0 +1,75 @@
+--- 
+title: "How to publish in Biological Sciences: A guide for the uninitiated"
+author: "John Measey"
+date: "`r Sys.Date()`"
+documentclass: krantz
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+colorlinks: yes
+lot: yes
+lof: yes
+site: bookdown::bookdown_site
+description: "A book example for a Chapman & Hall book."
+github-repo: yihui/bookdown-crc
+graphics: yes
+#cover-image: images/cover.jpg
+---
+
+```{r setup, include=FALSE}
+options(
+  htmltools.dir.version = FALSE, formatR.indent = 2, width = 55, digits = 4
+)
+
+# install the packages needed by this book; you fill out c(), e.g. c('ggplot2', 'dplyr')
+lapply(c('xfun'), function(pkg) {
+  if (system.file(package = pkg) == '') install.packages(pkg)
+})
+```
+
+
+```{r fig.align='right', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://john.measey.com/'}
+knitr::include_graphics('figures/Cover.png', dpi = NA)
+```
+
+
+
+
+# Welcome {-}
+
+Welcome to my guide on how to publish in the biological sciences. This guide is not here to tell you what to write, but to demystify what goes on in the world of scientific publishing, and more broadly in the academic context. My intention is to demystify publication in the biological sciences, so that readers become aware of what is happening once they have submitted a manuscript, and how to better interpret the decisions made by colleagues who are reviewing and editing your work.
+
+Publishing has become vital for all academics, such that it is recognised that we inhabit a 'publish or perish' academic landscape. Yet for some, the process appears to require little or no stress, while others are left in the cold. This book is meant to be a guide to those uninitiated members of the academic community, postgraduate students and early career researchers, to bring them up to speed with all the background information on publishing. 
+
+## Why read this book {-}
+
+Publishing a paper in an academic journal should simply consist of submitting a publication worthy manuscript. But having a working knowledge of publishing will enable you to make better decisions about what, where and how to submit manuscripts. In this book, I explain the many choices that exist for those wishing to submit a manuscript for publication in the Biological Sciences. I describe publication bias, and how this is evidenced by reviewers and editors. Impact Factors and how the desire to track the performance of academics has led to unethical practices and exploitation of science and scientists. This guide provides an "everything you wanted to know about publishing but were afraid to ask" approach for anyone who still feels that there is more they need to know about publishing that might get them onto an even footing.
+
+## Structure of the book {-}
+
+This book is written in four parts. 
+
+Part 1 - Getting your manuscript ready for submission
+
+Part 2 - Submission, reviews and reviewing, revising and resubmitting
+
+Part 3 - Once your paper is published
+
+Part 4 - Further challenges in academia
+
+## Why 'A guide for the uninitiated'? {-}
+
+I think that most people with doctorates would agree that a PhD is not awarded to people because they are particularly bright or smart. If you had to be a genius then I wouldn’t have a PhD. Indeed, I don’t consider myself to be particularly clever, but I worked very hard to get my PhD. I was hampered by the fact that I didn’t know anything about the goals and aims of the academic process of working towards a PhD, so it took a lot more work, wasted time, and (let’s not mince our words) real pain. The end product was a fraction of the potential that I could have achieved, if I had understood more about the process. If I had only had a guide to tell me what it was all about, I could have saved myself so much time and energy. In short, I feel that I was uninitiated, and this is the guide I wish that I had had.
+
+So, this guide is my practical attempt to help you to get you up to speed in the world of academic publishing, specifically for the biological sciences. Too often, however, it’s a nightmare journey of cul-de-sacs, and groping in the dark.
+
+
+
+## Acknowledgments {-}
+
+There are a great many people that I need to thank. First and foremost are my students, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. I have also been a student, and have been inspired by colleagues around the world who have been exemplary advisors. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community (especially #academicTwitter) for sharing and inspiring. Thanks go to the many reviewers and editors who have taken their time to improve my writing. I am still learning. Lots of the text in this book has been improved by feedback from my students and postdocs. A special mention must go to my brother, Richard, who has hosted my lab website for more than a decade, and especially for saving blog posts from hacking attacks. Thanks also to my wife, Thalassa, who proofread many of the blog posts after I had published them late at night, so that I could correct them over breakfast in the morning. James Baxter-Gilbert, Jack Dougherty, Anthony Herrel, Allan Ellis, Lisa and Mark O’Connell, James Vonesh, Carla Wagener all read or commented on different aspects of the book. Thanks are also due to my colleagues at the Centre for Invasion Biology, the Department of Botany and Zoology, and Stellenbosch University. A special thanks to the librarians who have supported many of my more extreme rantings about publishers.
+
+```{block2, type='flushright', html.tag='p'}
+John Measey  
+Cape Town
+```

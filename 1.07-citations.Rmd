@@ -1,0 +1,39 @@
+# Citations and how to get them {#citations}
+
+Citations matter as they reflect the number of people who found your research useful. Getting your research cited is not always straightforward. We have already mentioned here about publishing your research in journals with higher Impact Factors. This will likely help you get your research read. But there are lots of other tactics and here I have produced a list although I imagine it is not exhaustive. 
+
+## Media release
+Some journals will want you to write a media release that they may use to promote your paper. You can also proactively [write a press release](pressrelease.html) and send it to your Media office at your institution. Writing a release for the media is very different from most of the writing that we've talked about so far and you can find a guide in a chapter below. 
+
+## Social media
+Social media is another way of getting your article to the attention of more people. Twitter has been adopted by many scientists and tweeting out an article that gets retweeted by the right people can get you tens or even hundreds of thousands of views. This is likely to be far in excess of anything your article will get by passively sitting on the journal website. 
+
+## Popular articles
+[Writing popular articles](populararticle.html) is a good way to ensure that your paper gets some media attention. There are outlets like [The Conversation](https://theconversation.com/) that specialise in publishing popular articles written by academics. But you might also find that academic societies that you belong to have newsletters that you can contribute a popular article to about your paper. As long as the circulation of these newsletters is big it should enhance the numbers of people that eventually read about your work. 
+
+## Self-citations 
+Self citation is when you cite a paper that you or one of your co-authors have written or co-authored. This is probably one of the oldest and most widely practised ways of increasing citations to your articles. It is generally frowned upon to have gratuitous self citations. However, it is also true that you are more than likely to cite your own work because you have probably published in the same area previously. By the end of your PhD you will already be citing publications that you produced at the beginning. There is evidence to suggest that the proportion of self citations will change in different disciplines, and that they will increase with increasing numbers of collaborative co-authors [@davarpanah2009author]. 
+
+How do you make sure that their citations are not gratuitous? Simply by only citing a work when you need to. Note that many citation indices will provide your citation scores both with and without self citations. There are some metrics that suggest within what bounds self-citations are reasonable. A study of Norwegian scientific papers found that the mean rate of self citations was 36% [@aksnes2003macro], which seems very high. 
+
+## Organising symposia and having special issues
+Having your research published in a special issue is a great way of getting citations. This is because special issues have research on a theme and so many people will be drawn to the issue and are then more likely to see your work. This includes other people who participate in the special issue and are de facto already interested in this line of research. 
+
+Special issues are often edited by people who have an interest in pulling together this kind of research. They may encourage other authors to cross cite articles in the special issue, and may write an editorial that includes citations to yours and other papers. Of course the best position to be in is when you are one of the organising members. Your name will be associated with the special issue as well as your contribution. 
+
+Probably the easiest way of pulling together a special issue is to organise a symposium at a conference and ask those participating to contribute to the special issue. If this is done long enough in advance and you are good at organising then it can work very well. Talk to your adviser about the possibility of their help in organising a symposium. 
+
+## Traditional Media 
+To get your work cited you need to get people reading it. As scientists read the [traditional media](pressrelease.html) it can be a way of bringing your work to their attention, and result in additional citations. There are other benefits of having your work highlighted by the traditional media then you should always make sure that you get a plug in for your institution and any prominent funders. There are now additional metrics (e.g. [Altmetrics](altmetrics.html)) that track traditional and social media and in the future you might be able to use these to your advantage in getting a job, a promotion or tenure.
+
+## Not so legitimate ways of increasing citations
+As well as the legitimate ways of increasing citations and visibility of your work that I've listed above there are other illegitimate ways that I have heard about. I have heard of certain laboratories that have quid-pro-quo arrangements where they agree to cite each other's publications.
+
+Another way of increasing citations might be to have a co-author that is very well known. Certainly having a co-author that is very well known is likely to increase your citations but only if they actually do something to contribute to the work. See comments about [ghost authorship above](authors.html). 
+
+Journals have also been known to manipulate citations in order to increase their Impact Factors and therefore their perceived level of standing. A group of physics journals from Romania were found to have clearly manipulated self-citations to increase their own impact factors [see @heneberg2016excessive]. There can also be a level of coercive pressure from journal editors to cite papers from their journals published within the 2 year citation window [@chorus2016large-scale]. Such practices are now systematically analysed by the larger literature databases, and clear levels of Impact Factor manipulation result in losing the journal listing in the database ([see part 2](databases.html)). 
+
+## Well cited articles are likely to be cited more
+Articles that already have a lot of citations are more likely to pick up extra citations than the ones that have very few. This phenomenon is exaggerated by search engines like Google Scholar that order the results of searches by the number of times an article is cited. Like people looking for a website, academics looking for a paper are more likely to choose one on the first page of Google Scholar than to keep searching through Google Scholar until they find your study. 
+
+As you read through papers in your specialist area you will notice but there are some papers that seem to get cited over and over again as standard examples of a particular phenomenon. These are often some of the first examples published and also being published in high-ranking journals. If you are the 20th person to have shown a particular phenomenon then it is unlikely that your paper is going to end up being cited the most.

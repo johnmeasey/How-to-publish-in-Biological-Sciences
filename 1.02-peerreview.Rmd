@@ -1,0 +1,68 @@
+# What is peer review? {#peerreview}
+
+Peer review is often considered to be the gold standard of science [@mayden2012peer]. Manuscripts that have passed peer review should be considered to have been scrutinised to the highest level. If one's peers in the scientific community consider that a manuscript is worthy of publication, then it meets the high standards of peer review. The review of peers acts as the gatekeeper to all that is good in science, and excludes all that is bad. 
+
+While the views in the above paragraph are generally held, there is also a general acknowledgement that there are a lot of problems with peer review. That this has been widely acknowledged is probably an understatement as most people who have experienced would likely already know. If you look at the end of this chapter, you will see that there has been a lot of research on peer review, and there’s a lot more out there that I haven’t cited. 
+
+In this chapter, I attempt to explain what peer review is, how to do it, and some of the common problems associated with it. 
+
+## How high is the peer review bar?
+It is difficult to emphasise how high the peer review bar is. When your manuscript is scrutinised by your peers, it is very rare that it will get accepted without modifications. This is because the experience of academics tends to be so wide, and vary so much from individual to individual, that it is almost impossible to predict what a peer reviewer will see when they read your manuscript.
+
+You should expect that your manuscript will not receive an easy ride through peer review. But you should also expect that it will be improved. As we will see later, this improvement might not be immediately obvious to you when you first read the comments.
+
+## Who are your peers?
+Essentially the peers in peer review are people that editors find and persuade to conduct the peer review. it can be difficult to find people to conduct a peer review. Although only 2 or 3 reviews are needed sometimes as many as 20 or 30 individuals can be approached. Perry et al [-@perry2012peer] lamented on the increasing difficulty in persuading colleagues to conduct peer review of manuscripts.
+
+### Professionals
+Peer reviewers are normally professionals. Academics postdocs or postgraduate students. Occasionally there are amateurs who have very high academic standards and who can be contacted to conduct peer review.
+
+### Scholars
+Peer reviews should be familiar with the subject area to a good level of scholarly achievement. Undergraduates and many postgraduate students would not be considered eligible by many editors as selection for peer review. Personally I found that many PhD students, especially those in their final stages of studying are very good peer reviewers.
+
+### Specialists
+Few reviews should be specialists to some degree of the area on which the manuscript is based. often it's not possible to be a specialist in every area of a manuscript. But in the case where you are not proficient it is important to inform the editor.
+
+## History of peer review
+The history of peer review is surprisingly modern. We have already seen that journals themselves only date back to the 17th century (see chapter in [Part IV](whatjournalfor.html)). These journals included a form of peer review in that letters concerning studies could be published, along with comments made at presentations. The type of systematic enforced peer review described in this book is very recent. The journal Nature for example only started systematic peer review for its articles in 1973, and mainstream editor led peer review only really started in the late 1940s [see @tennant2017open]. Typical society journals have followed a similar form of evolution from newsletters to scholarly journals [@measey2011past]. 
+
+## Learn more about peer review by doing it
+
+As an early career researcher, you may well be asked to conduct peer review of an article in your specialist field. If you have never been asked, then tell your mentor to recommend you (usually when they turn down an opportunity to conduct peer review, they have an opportunity to name someone else. If you have told them that you want some manuscripts to review, it should be straightforward for them to add your name when appropriate.
+
+When you register in the editorial manager software for journals that you submit to, there is often an option to state what areas of your field you are particularly specialised in, and whether or not you are interested in conducting peer review in these areas. This is also worth doing if you want to generate requests for conducting peer review.
+
+Good reviews get noticed by editors, and it is a good way of increasing your network through soft power.
+
+## How to conduct peer review
+
+Most modern journals provide reviewers with a guideline for the expected to do. I encourage you to read the specific instructions that are given by journals on how to conduct peer review for them. There are also a number of excellent blogs to read about peer review (including this [one](https://peerj.com/blog/post/73296165864/how-to-become-good-at-peer-review/) and this [one](https://publons.com/blog/6-common-research-flaws-to-watch-out-for-in-peer-review/)). A systematic assessment of these requirements in biomedical journals has been undertaken by Glonti et al [-@glonti2019scoping]. This is worth reading for an overview on the different sorts of statements that peer reviewers come up with. You can see in this quantitative analysis that the overwhelming number of comments are those of skilled critics. This paper also makes it clear that the role of peer reviewer is often ambiguous and that reviews are not consistent in what they deliver.
+
+Essentially peer reviewers are tasked with determining whether or not the manuscript is credible. 
+
+
+- Could the study be repeated?
+- Are the methods legitimate in order to produce the results provided. 
+- Are the results sufficient to respond to the hypothesis posed?
+- Can it be improved?
+- Is the content of the manuscript appropriate to the journal?
+- Does the experimental design contain sufficient controls?
+- Did the authors try and stretch the implications of their results beyond the credibility of the manuscript?
+
+Once you have conducted your peer review, you can log it [publons](https://publons.com/about/home/) in order to get credit later on. Publons also carries your publication output and citations (tied to Web of Science), so can be a useful way of keep track of your own productivity ([but see](impactfactor.html)).
+
+## The spirit of peer review {#spirit}
+At its heart a peer reviewer should be trying their best to improve the manuscript they read as much as they possibly can. This may simply represent an improvement in the way the text is worded. But it may also mean adding extra analyses or even experiments.
+
+As McPeek et al [-@mcpeek2009golden] put it, the golden rule of reviewing is to do unto others as you would have them do unto you. Baglini and Parsons [-@baglini2020if] provide some useful insight into how to remain neutral when making reviewer comments. Again, the emphasis is on being professional.
+
+## There are ethical considerations for reviewers
+- Reviews may not share manuscripts with other scientists unless specific permission is given by the editor.
+- Similarly reviews should not discuss the content of manuscripts that they are reviewing
+- Reviewers should not try to take the work presented in the manuscript and copy it for publication (i.e. do not steal the ideas).
+- Reviews should be conducted within a reasonable time frame. No reviewer should hold on to a manuscript especially if they have a vested interest (like a rival study) in not seeing it published. This should have been declared as conflict of interest.
+- Any other potential conflicts of interest, including those that might make you positively predisposed to the authors.
+- Be aware of their own prejudices and biases and not bring them through to the review process 
+- Whether or not to sign your review. Given the opportunity ~43% of reviewers will provide published open reviews [@wang2016open].
+
+In essence these ethical issues are overcome when reviewers conform to transparency. In order to facilitate transparency in peer review, Parker et al [-@parker2018empowering] have produced a checklist that I encourage you to use if and when you are asked to conduct a review. 

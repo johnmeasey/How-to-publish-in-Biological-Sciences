@@ -1,0 +1,126 @@
+# Responding to reviewers’ comments with a rebuttal {#rebuttal}
+
+Peer review is the basis of guarding and maintaining quality in science. Whether you have just received examiners’ comments on your PhD thesis, or you’ve just got a decision from a journal, you’ll need to respond to the comments. This to and fro between authors and reviewers usually doesn’t exceed two rounds. For examiners of your thesis, you’ll usually only have to respond to the satisfaction of your advisor. In both cases, the approach is essentially the same. As you approach the comments, there are several points that it’s worth bearing in mind. 
+
+Reviewers’ comments can come across as harsh, upsetting, rude and even arrogant. While it isn’t ok for reviewers to be rude, it does sometimes happen. I think that the reason why we find the comments so harsh is usually because we put so much effort into the writing process that it feels very personal whenever we receive criticism. Indeed, I think that there might be a correlation between how much effort you put in and how harsh the reviewers’ comments seem. Just be aware that this is normal. Remember that the reviewers are humans, and they have sat down and given freely of their own time to read your work. The most important thing to be aware of is that all they had was what you had written. No background information, and possibly no information about the species or the system involved. They will be experts at some level, but perhaps not the type you might expect. Importantly, the editor asked them because they thought that their opinion would be of importance in helping them make their decision on your paper. This means that you also need to respect their opinion and comments, even if you don’t agree with them or find them to be offensive, arrogant or even rude. Remember also that some apparent rudeness may just be a reviewer who has a sense of humour that you don’t understand. There are lots of examples of this at [ShitMyReviewersSay](https://shitmyreviewerssay.tumblr.com/). So no matter what you think of each comment, you should respond to it in a professional and courteous manner that shows that you are a professional scientist. 
+
+If you already know what it’s like to receive reviewer comments, but struggle to understand why reviewers say what they do, then it’s time for you to start reviewing papers. You can ask your advisor to mention you as a potential reviewer (especially if they are going to decline because they are too busy). But probably the best way to get started is to participate with your lab or journal club in the review of a preprint ([see part 4](preprint.html)). This has the advantage that you are not the sole reviewer, but will be in a group. Your group will get credit for their review (via a [DOI](doi.html)). You will get to discuss the finer point of reviewing with your team. Especially, you will likely hear remarks that might come across as insulting or unprofessional and it’ll give you a chance to challenge these at source.
+
+Why do scientists make disparaging or unprofessional remarks to their colleagues in peer review? Whenever two or three scientists get together, you hear tales of recent woes associated with peer review. The retelling of such stories is all part of the collective, cathartic unburdening of what can be a traumatic experience especially when we put so much effort into each piece of work [see @hyland2020this]. Reading through a lot of these reviewers’ comments, I can see that there is an attempt at humour (see here). This humour is not appreciated by those who receive the reviews. Perhaps I understand the humour, because I also come from that same culture that dominates STEM, but that is not understood or even recognised as humour by others. Writing humorous reviews is unprofessional, especially if it is used to accentuate negative aspects. Needless to say, we could all do without unprofessional reviews.
+
+## What to expect in your decision letter
+Usually, you will receive a decision letter (email) after ~60 days. This depends on the journal, editors and reviewers, but it’s worth checking with the editorial team after 60 days if you’ve heard nothing. When you finally receive it, the email will contain some stock text about the overall decision, some information about how to resubmit your revised version (if you have this as an option), and a time-frame. After the editor has signed off, you will find comments first from the Associate Editor (AE) who handled the review, and then from (typically) two reviewers, but sometimes three (or even more). 
+
+>Dear Mr Another:
+
+>Thank you for submitting your manuscript entitled "An appropriate title for a reasonable manuscript" to _The Best Journal_.
+
+>All manuscripts are assessed by a specialist member of the Editorial Board, who decides whether the manuscript is suitable for _The Best Journal_.
+
+>Unfortunately, your manuscript has been rejected at this stage of the assessment process. Competition for space is currently extremely severe, and we receive many more manuscripts than we are able to publish. On this occasion it was felt that your manuscript was unlikely to be able to compete successfully for a space in the journal.
+
+>Please find below the specialist Board member's comments. I hope you may find these useful should you wish to submit your manuscript elsewhere.
+
+>Sincerely,
+
+>A.N. Earnest-Editor 
+
+>Editor in Chief
+
+>The Best Journal 
+
+
+Rejections are harsh, but totally normal [@day2011silent]. You will feel bad, and this is also normal. You will need to pick yourself up, and take your manuscript back and try again. Learn as many lessons as you can from your rejection and quickly move on. Certainly, never dwell on a rejection and feel that this is anything more than a minor setback. All of us have been rejected, and continue to deal with rejections throughout our careers. 
+
+If you receive a Reject decision, then some journals will want you to submit to another journal in the same stable. Typically, these are Open Access journals where you have to pay a large sum just to get published. This is rarely a good idea. The standings of these journals is (typically) not great, and you’d probably be better off going back to your original list and selecting the next journal there.
+
+## What to do when you receive your reviewer comments
+Your reviewer comments will arrive in an email when you are busy doing something else. If you have time to read them the same day, then my suggestion is that you read without trying anything further. Remember to forward them to your advisor as soon as possible. Simply read the comments and then close the email and mark it for further attention the next day. Your writing is very personal to you, and you might be surprised at just how hurtful it can feel to have someone critique your writing (and your experiment) without holding back. If you’ve not experienced this before, then prepare yourself. No matter how much effort you put into your text, sending it out for peer review is a really high bar. Make an appointment with your advisor so that you can discuss the comments together. Whether good, bad, or bizarre, it is best to set aside some time to read through the comments carefully, so that you can respond. 
+
+
+>Dear Ms Another,
+
+>Your manuscript has been reviewed for The Best Journal by Dr. Fitz Wilklewood, one of our Handling Editors, who made a recommendation to reject this manuscript with which I concur. As a result, I am unable to accept your paper for publication in _The Best Journal_. However, both Dr. Wilklewood and the reviewers felt that there were exciting and interesting aspects of the work and that if you could address the concerns outlined below, this manuscript could be appropriate for _The Best Journal_. Thus, I would be willing to entertain a resubmission of this manuscript if you can address the concerns described below. If you choose to resubmit, the revised manuscript will be assigned to the same Handling Editor for further review. This decision does not guarantee that a revised manuscript will eventually be recommended for acceptance; indeed a significant fraction of resubmissions are rejected after revision. The comments from Dr. Wilklewood and the reviewers are provided below. 
+
+>If you wish to submit a greatly revised manuscript, address the points raised in the reviews and then resubmit your manuscript by 28 Apr 2021 to https://www.managereditorial.com/. Please provide a detailed response to the previous reviews in the "respond to reviewers" text box. I expect to return the manuscript, along with your response to the original Handling Editor.
+
+>Please review our detailed author instructions for proper manuscript formatting: "_The Best Journal_ Author Instructions General" (Manuscript guidelines) and "_The Best Journal_ Author Instructions Figures" (Artwork instructions). These files are located at
+
+>Please make sure to submit editable source files (e.g. Word). We will return manuscripts which do not follow these guidelines.
+
+>Thank you for considering _The Best Journal_ as an outlet for your research results. If you choose not to undertake these major revisions, then I wish you the best of luck in finding a more suitable outlet for your work.
+
+>Sincerely,
+
+>A.N. Earnest-Editor 
+
+>Editor in Chief
+
+>_The Best Journal_
+
+>Comments to Authors from Handling Editor and Reviewers:
+
+>Handling Editor: These are the comments from the handling editor - in this case the esteemed Dr. Fitz Wilklewood. If you don’t get any comments from the handling editor, I take this as a bad sign for the journal and their editorial regime (see chapter below). 
+
+>Reviewer #1: Comments from reviewer number 1 follow. The order of the reviewers is not really of any consequence, although it does reflect that order in which they accepted to undertake a review. Hence, most often Reviewer #1 will be more positive than subsequent reviewers. The evidence for this comes only from my experience, and if there’s not been a study done yet, then I think that it should be.
+
+>Reviewer #2: Of equal importance to Reviewer #1, but numbered just to make it easier for you to respond to.
+
+>Reviewer #3: You may or may not get three reviews.
+
+
+The reviewers are usually given two boxes to write comments in. One pertains to the comments that you receive in your letter, and the second are confidential comments to the AE. Remember that the AE is acting on both of these sets of comments, and so the decision may reflect something that is said in confidence. This is not really in the spirit of transparency for peer review. The best peer review systems are open and online. 
+
+Once you’ve found the time in your week, sooner is better than later, sit and read the comments again. Normally, they will sound much better, and less harsh, on the second read (if not, try third or fourth). They will seem far more approachable than when you first read them. Most reviews will have a set of major (when applicable) and minor comments that you need to address from each of them. Try sketching a few responses down to the major revision comments before your meeting with your advisor. The easiest way to do this is to copy all of the comments from the email (together with those of the editor), and paste them all into a fresh document. Use a different colour text or a clear set of symbols (e.g. >>>>) to indicate which text is your responses and which is the reviewers or editors. Or number each comment and reply. If it isn’t clear enough, then the editor may well get confused about what is the comment and what is the rebuttal. One of the best ways I’ve seen of doing this was to make a table with all the comments in one column (each on a separate row), and the author responses in a new column. 
+
+Sketch out your responses to the major comments, and use a tick if you are happy with making the suggested minor comments. If there are comments that you don’t know how to handle, simply leave them with a question mark. By making this start before you meet with your advisor, you will have an idea of what is likely to be difficult to tackle in the revision. Even if you’ve received a rejection with reviewers’ comments, it’s well worth having this same meeting with your advisor so that you can decide together what to do next. Skipping on comments from reviewers during a rejection appears to be very common [@crijns2021effect], but is a very uncollegial way of moving forward. I have personally reviewed manuscripts that were rejected, only to see them again as a reviewer in another journal with all of the same errors, even down to ignoring relevant publications. 
+
+At the end of the meeting with your advisor, you should have a clear idea of how to handle all of the comments, or where to go, what to read or who to talk to (perhaps another co-author), to sort out those you don’t know. Together with your advisor, decide whether you need to send out the journal decision to co-authors now, or wait until you have your rebuttal ready to circulate. For me this decision is largely based on how much time the revision is likely to take: if it’s quick, rather send the revision and rebuttal together with the decision. 
+
+Next, when you sit down to write the rebuttal and revise the document, you need to make sure that you have pressed “track changes” on the submitted version of the manuscript. I find it easiest to have both the rebuttal letter and the revised manuscript open side by side on the screen. As you revise the manuscript in response to the comment, make a note to mark that it’s done in the rebuttal letter. Mark any comments that you don’t do. Your revision is written as a rebuttal to the editor. While you don’t write your comments back to the reviewer, it is worth bearing in mind that the reviewer is likely to read them. 
+
+Three watchwords should be your guides for your response to the reviewers:
+
+- professional
+- polite
+- precise
+
+In addition to these, make the entire process easier for everyone by:
+
+- Do make a note of the line number where the revision is made (note that these can shift around in the revision
+- If you have reworded the text, do copy and paste that rewording into the rebuttal using quotes and corresponding line numbers. 
+- Simply use a word like “done” to indicate changes on Minor comments. 
+- Do be polite with your responses, but you don’t get any extra points for wordy thankfulness or praise. So keep it succinct and to the point. 
+- Signal that you agree with the comment and that you have made a change to the text. 
+
+Do bear in mind that your reviewer is a human, and was likely operating under less than ideal conditions when reading your manuscript. They could have been getting constant interruptions. They could have been reading it after having read another three manuscripts. They could suffer from insomnia and read it in the middle of the night with no sleep for a week. Give the reviewer the benefit of the doubt. Do remember to thank your reviewers and editors in your [acknowledgements](acknowledgements.html). They’ve been working and doing the best for your manuscript without any thanks other than what you will give them. So give them a boost and help make their day that much brighter. 
+
+## What if you don’t agree with a reviewer?
+Most of the time, reviewer comments are sensible, helpful and genuine attempts at improving the quality of your contribution. If you don’t agree with particular points, try skipping them and moving ahead with the easy points or those that you do agree with. Discuss any points that you don’t agree with your advisor. Try to get another perspective on the comment. Do your best to try to see the comment from the reviewers standpoint. 
+
+For example, a reviewer might ask for details on a point in the methods, but they are mentioned in another section of the methods. This is a cue for you to add a flag to that point in the manuscript. For example, write: “see section 2.2.3 for an explanation of how this was done”. 
+
+If a reviewer has made a comment that says that they don’t understand something, this means that you need to make a change in your text so that the text is easier to understand. If they don’t understand, then it could be that more people don’t understand and you want your text to be understood by all people that are reading it, so make a change. 
+
+If you and your advisor both don’t agree with the reviewer, then make it clear what exactly you don’t agree with. Again, try to see it from the reviewer’s perspective and write a courteous and clear explanation of why they might have misunderstood or misinterpreted what was written. Back up your comments with citations, even if these aren’t cited in the paper. Provide full references for any citations you give. The more thorough your explanation, the more likely the editor will side with your perspective on the point that you don’t agree with. You may find that you want to include some of this text in the ms, or that you offer to provide it in the [Supp Info](suppinfo.html) (if there’s a word limit on the ms). 
+
+Remember that the reviewer is likely to read exactly what you write in your rebuttal. Your job is to professionally explain why you don’t agree. Forget any of the emotions that you might believe to be there. Revert back to professionalism, because you are a professional.
+
+## When reviewers don’t agree
+Normally, you will have two reviews (possibly three depending on the journal policy) and comments from the Associate Editor (AE). The AE acts as a judge given the opinions of the reviewers, and so if the reviewers disagree, the AE should suggest the correct direction for you to take. Sometimes this means that the AE will consult a third reviewer (and occasionally even more reviewers). See the chapter below on why it is important for editors to read your work. If the AE gives you no direction (as is increasingly the case) then make this decision with your advisor and indicate to the AE the conflict between the reviewers and the reason why you’ve chosen the direction you have. 
+
+## What if you feel that your reviewer is being unprofessional?
+If you really feel that a reviewer is being unprofessional, it is worth flagging this with the editor. I would say that I’ve never had to do this myself, but I am aware that there is some unprofessional behaviour out there (I’ve seen it on [ShitMyReviewersSay](https://shitmyreviewerssay.tumblr.com/)). Discuss it with your advisor, but here are two potential options:
+
+- If it’s just one or two comments, then simply state that you don’t feel that you don’t know how to respond. Ask the reviewer to try again, or ask the editor to interpret the comment for you.
+- If it is every comment from one reviewer, write an email to the handling editor and ask for their guidance. You should find their email address in the journal submission site. They will flag it with the editor and come back with a solution for you. 
+
+## Appealing against a decision that you think is unfair
+From time to time, a decision comes from an editor that is clearly unfair. I’ve had a few. As I’ve mentioned before, scientists are humans and humans do have biases that manifest into their professional lives. This is the reason for double-blind review. Scientists in STEM are predominantly white and male, and express the views of this minority but powerful group. Their prejudices do manifest in their decisions, and it is important to push back against this when you feel that this is the reason for a decision.
+
+Most (good) journals will have an appeals process and you should look this up and see what’s involved. While doing this, it is worth reviewing the journal’s policy on how they handle manuscripts; again good journals should have a clear policy. Of all the rejections and poor decisions I’ve had on my manuscripts over the years, I’ve only felt that decisions were unfair and worth appealing less than a handful of times. 
+
+Normally, an appeal is made to the editor in chief. Be very clear about why you are appealing and what in the decision does not tally with the journal’s own policy. Remain professional and detached from the decision itself, and instead appeal on how the journal’s own policy was not followed. For example, a journal may have a policy that the editor will sum up the reviewers’ comments and use this as the basis for their decision. If the editor seems to have sided with one reviewer while not considering others, this can be the basis of an appeal.
+
+
+Any appeal should be agreed with your advisor and the other co-authors before sending it. 

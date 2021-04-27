@@ -1,0 +1,73 @@
+# Choosing the right journal {#whichjournal}
+
+In this chapter I give you a list of steps to go from a potentially very long list of journals where you might publish, to choosing the one where you will submit your manuscript first. As you work through the list keep notes on why you exclude journals at each step. You may want to revisit these criteria later, or explain to your advisor why a particular journal was not considered.
+
+## Step 1: Indexing
+You want other people to be able to find the work that you publish, and so selecting a journal that is already indexed in one of the major literature databases (Web of Science or Scopus) is important. 
+
+## Step 2: The Subject Area
+No matter what your paper is about it will fall within an existing subject area. A good way of determining your subject area is to look at a [literature database](database.html) like Web of Science or Scopus. These databases have subject areas which contain groups of journals. You can look through the journals that you cite in your references, then check with Web of science or Scopus to see which subject area the majority of them are grouped into.
+
+Journals have different hierarchies of scope. Some journals attempt to take on the full gambit of science (e.g. Science and Nature) while others are only interested in a particular taxonomic group. In general, the impact factor of the journal is likely to be linked to the diversity of the scope. This is not always the case. There are some taxonomically specific journals with high impact factors, and there are some general journals with low impact factors. See chapter below for the importance of the Impact Factor.
+
+Once you have determined your subject area make a list of the journals within this area. Based on your reading of literature pertinent to your manuscript, try to decide whether your manuscript is likely to be accepted by a journal with a high ranking Impact Factor, a medium ranking journal, or a low-ranking journal. Sort the list of journals within the subject area by impact factor and then select the ones that are either high (>10), medium (>4), or low (<4). 
+
+## Step 3: The Journal Scope
+Every journal has a scope that is stated on their website. Your manuscript must fit into the scope of the journal that you select. In order to get your candidate list of journals you now need to visit their websites to look at their scope in detail. 
+
+If your list is long, I suggest that you start with the journals whose articles you have already cited in your manuscript. Your manuscript should clearly fit within the scope. If you are not sure then it probably doesn't fit, but try asking your advisor.
+
+## Step 4: Current Contents
+Now that you have a shorter list, it's time for you to look at the current contents of the journals that are on their website. The contents for the last 2 years should reflect the policy of the current editor for accepting manuscripts. You should be looking for papers that look similar to your manuscript in their scope. 
+
+If you see papers that look directly comparable to your own then make a note of what they are. Your list of journals should now be less than 10.
+
+## Step 5: Society journals
+Academic publishing started with society journals, and I think that they are still worth supporting if you can. Your advisor or co-authors may be members of particular academic societies, and may have a preference therefore to publish in their own society's journal. See below for other potential advantages in publishing in a society journal. 
+
+## Step 6: Transparency credibility
+As we have already seen (part 2), transparency in science is very important and should be part and parcel of your own work. When publishing your work where you have made a real effort to be transparent, you should look for journals that do the same. There is a badge system used for transparency in science [see or @kidwell2016badges, or see @marshall2021make for an example of how this can be applied]. You can find a list of journals that have been approached to join the transparency movement here. It’s interesting to see how many have rejected the idea of transparency, and why!
+
+## Step 7: Knowing the journal from the inside
+Your advisor or co-authors could be an Editor or Associate Editor (past or present) of one of your target journals. Or there may be someone in your department or institute that you could consult. I am not suggesting that you use their influence to help you get published, this is strictly prohibited by most journals. Instead, these people can help you decide whether or not your submission will be welcomed or rejected without review. 
+
+Reject without review is typical for manuscripts whose authors have not followed steps 2 to 4. It can still happen, even if you have. Reject without review is such a waste of everybody’s time that you should avoid it if at all possible.
+
+## Step 8: Financial considerations to publishing
+In an ideal world, there wouldn’t be any more barriers to you publishing your contribution to the collective of scientific knowledge. Not only is it not an ideal world, but I would argue that there has never been a less ideal time for publishing science. Greedy publishers have taken publicly funded science and made the public pay for it time and again. Read more on this in chapters below. The way they scam taxpayers is called “Open Access”:
+
+### Open access
+Some journals are exclusively [Open Access (OA)](openaccess1.html) meaning that you will need to pay in order to publish your accepted manuscript (author pays). Different types of OA are covered in the next chapter.
+
+Your university may have a deal with some OA publishers so it's well worth making a note of this. If in doubt, talk to your librarian. However, watch out for manipulative publisher deals that make you more likely to publish OA when your institution has a “read-and-publish” deal. Remember to ask yourself your motivation for why you are choosing your journal. Choice by publishing company should never be high up on anyone’s list.
+
+### Page charges
+Note that some journals that remain behind paywalls still demand page charges. These can be quite substantial if you come from a lab with no money for publishing costs. In my experience American society journals regularly have page charges.
+
+### Fee Waiver
+Note that with all of the above you may be eligible for a waiver to page charges or Open Access fees. See the chapter below about who gets a waiver.
+
+## Step 9: Type of peer review
+Another factor that may influence your choice of where to publish is the type of reviewing done by each journal. 
+
+### Single blind review
+This is the traditional method of reviewing papers where the reviewers are anonymous but the authors are known to the reviewers. Many studies have suggested that the style of reviewing allows the prejudices of the reviewers to influence whether or not they recommend a paper be accepted. Although this is the most common type of review format it is the least recommended. If you or your advisor feel that there may be potential reviewers who bear a grudge to your laboratory, your institution or your work then it may be better to avoid this kind of review system.
+
+### Double blind review
+In journals that practice double blind review, the author names and acknowledgements are removed from the manuscript before it is seen by the reviewers. This way the reviewers don't know who the authors are. Similarly the names of the reviewers are withheld from the authors. Only the editors and associate editors of the journal know who the different actors are.
+
+This is a good system as it potentially removes prejudices that are known to exist in the mainstream of STEM reviewers (i.e. middle aged, white males). Prejudices that have been noted are against scientists who are not middle aged (or more specifically tenured professors advanced in their careers), white or male. This comprises most of the world’s scientists so you may want to opt for a journal with double-blind review if you have the choice.
+
+### Triple blind review
+Essentially the same as double blind review, except for the fact that the editors also do not know who the authors or reviewers are.
+
+### Open review: named authors and named reviewers
+This could be considered the gold standard for any journal. It has also been called Open Evaluation (OE) by Kriegeskorte et al [-@kriegeskorte2012emerging]. The reviewers know who the authors are, and the authors know who the reviewers are. Moreover, the reviews of the reviewers are a matter of public record that are open access (carrying a [DOI](doi.html)) along with the published paper. PeerJ and ELife are among a very small handful of journals that have tried to instigate this model. Nevertheless it can be very difficult to find reviewers who are prepared to reveal their names to the authors. 
+
+## Impact factor
+The impact factor of the journal may be an important motivation in your choice, or that of your advisor. I’ve left it off my list of stepwise criteria as I hope that it’s not going to influence you according to the San Francisco Declaration on Research Assessment (known as DORA). If [Impact Factor](impactfactor.html) is important to you, include it in the list that you produce and make a note of the most recent impact factor for each journal. There's more about the impact factor in a chapter [below](impactfactor.html). 
+
+## Shortlist
+Once you have your shortlist of journals to consider, take it to your advisor. Together with your advisor rework your list into something that you both agree with and then propose it to your co-authors. Rank your list by journals that you want to try first and those that are your last options at the end. 
+
+Keep the list so that if you are rejected by the first journal on your list you know where you're going to next.

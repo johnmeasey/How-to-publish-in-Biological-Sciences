@@ -1,0 +1,17 @@
+# Altmetrics from traditional and social media  {#altmetrics}
+
+In recent years, more emphasis has been placed on the way that scientists communicate their work. Many institutions now consider the degree to which scientists communicate their work as one of several key performance areas on which they are judged. Because administrators are always looking for simple solutions to evaluate the work of many different types of academics, commercial solutions to measuring the degree of communication for each publication have sprung up. The most ubiquitous of these in biological sciences is altmetrics [@priem2012altmetrics]: alternative metrics that aim to measure activity on the internet through social media (e.g. [Twitter](www.twitter.com), [Facebook](www.facebook.com)), online reference managers (e.g. [Mendeley](https://www.mendeley.com/guides/desktop), [Zotero](https://www.zotero.org/)) blogs and news outlets. Because of the immediacy of these activities, altmetrics tend to accumulate much faster than traditional citations, giving a near immediate impression of the interest generated in an article.
+
+
+A prominent company producing altmetrics for many biological journals is [Altmetric](https://www.altmetric.com/). The whirls they produce, known as ‘Altmetric badges’ are coloured to show the proportions of different media that have been scrapped from the web (Figure \@ref(fig:atlmetric)). 
+
+
+(ref:atlmetric) In this example, a paper by Baxter-Gilbert [-@baxter-gilbert2020shrinking] was covered by many Tweets, news outlets, some blogs and a Facebook mention. Altmetric provides an overall score, but different types of mentions are not, so a news outlet is awarded a higher score than a tweet. Although this paper did not garner interest due to a charismatic species, the story was of general interest to the public as it centred on island dwarfism.
+
+```{r atlmetric, echo=FALSE, out.width='40%', fig.cap="(ref:atlmetric)"}
+ knitr::include_graphics("figures/altmetric.png")
+```
+
+In biological sciences, there is a traditional bias in media coverage towards species with higher charisma [@ducarme2013what]. This means that if you work on whales or roses, your work is likely to generate much higher altmetrics than if you conduct equivalent work on phasmids or grasses. Traditional media is starting to make an effort away from only reporting on science with charismatic species, but they are driven by a public with insatiable demand for kittens and flowers. 
+
+There is a lot that you can do to improve the level of your altmetrics. I have provided this information elsewhere in this book, see preceding chapters. As communication is becoming so important in the careers of scientists, then I’d suggest that you remain aware of altmetrics and how they are used by your institution. Be aware of how to influence and increase your score. For example, if you and your friends tweet about your article, make sure that there is a live link to the article on the publisher’s website. Similarly, if you are contacted by a news outlet about some of your research, you can insist that they place a link to your paper in their article. If the Alemetric scraper cannot find coverage on your paper, you can inform them [here](https://www.altmetric.com/about-our-data/our-sources/).

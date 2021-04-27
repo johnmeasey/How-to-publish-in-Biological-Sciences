@@ -1,0 +1,31 @@
+# When should you retract your paper? {#retract}
+
+A retraction of a paper is when your paper is effectively “unpublished”. This happens at the discretion of the editor (and often the entire editorial board), and is a very serious issue. Retractions are rare. They normally only happen when fraud is involved (especially the fabrication of results) or ethical guidelines have been transgressed (such as when authors lacked required permits or ethics permission). 
+
+(ref:retraction1) You should not cite a retracted paper. Once papers are retracted they don’t disappear. They continue to be available at the publisher’s website, but with a clear notice that they have been retracted (see below). In addition, a separate publication is made announcing the retraction of the work.
+
+```{r retraction1, echo=FALSE, out.width = '50%',  fig.cap="(ref:retraction1)"}
+knitr::include_graphics('figures/retracted1.png')
+```
+
+(ref:retraction2) You can however, cite the retraction which is published under a separate citation string, like this one [@costa-pereira2020retraction].
+
+```{r retraction2, echo=FALSE, out.width = '50%', fig.cap="(ref:retraction2)"}
+knitr::include_graphics('figures/retracted2.png')
+```
+
+
+If you downloaded the article before it was retracted, then you will not be aware of what has happened unless you are following that particular publication. Similarly, if you get your search results from Google Scholar, there is no indication that a paper has been retracted. Contrast this with search results of Scopus and Web of Science, both of which clearly indicate if an article has been retracted. The problem that even highly publicised retrations continue to be cited by articles that follow [@piller2021disgraced]. This is likely to be a problem that both authors and editors move on once an article is accepted. Clearly, the community is still responsible for watching what happens to the literature, even once a paper is cited. Of course, the publishers could be using items such as DOIs to track retracted papers and query their citations. 
+
+## A corrigendum is more likely
+It is very unlikely that you will be in a position where you will need to think about retracting your paper. If you notice a mistake, especially one that results in a difference to how the results are presented, then you should approach the editor about publishing a correction (also termed a corrigendum). 
+
+## Retraction Watch
+To learn more about retractions in science, I encourage you to read the blog at Retraction Watch (https://retractionwatch.com/). This will give you an idea of the reasons why retractions are made, and give you some perspectives about the practices (and malpractices) that go on in the scientific environment. 
+
+## Fabrication of data
+The fabrication of data does happen. A growing body of retractions and alleged evidence on the tampering of data in spreadsheets has led to the suspension of a top Canadian researcher, Jonathan Pruitt. Pruitt’s case is becoming increasingly untenable as more editors backed by co-authors are retracting papers where he contributed data (see here). For Pruitt, this has become a threat to his career and livelihood. Similarly, his university is facing the possibility that they hired a fraud. Consequently, this whole debacle has slipped into the legal world. 
+
+Some have suggested that the pressure to obtain a permanent academic position is enough to drive some scientists to commit fraud (Husemann et al 2017; Kun 2018). The idiom ‘publish or perish’ is one that we have already come across (see part 1), and the importance of publishing will be made later under the chapter about looking for a job. However, I hope that by shedding some light on unethical practices, this book equips you to avoid these together with those that may espouse them, and instead show you that there is a better path to success.
+
+Pruitt’s case highlights another issue which is that, while it might be easy to fabricate data, it is hard to make it stick. Reading the evidence posted by the concerns of Pruitt’s co-authors, it seems that Pruitt made up numbers relating to behavioural observation data, and that the distribution of these numbers didn’t stand up to scrutiny. Thus, if you are worried about the veracity of the data contributed by a collaborator, this would seem to be a good point to start. 
