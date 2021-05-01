@@ -497,14 +497,13 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </div>
 <div id="who-posts-preprints-on-biorxiv" class="section level2" number="9.2">
 <h2><span class="header-section-number">9.2</span> Who posts preprints on bioRxiv?</h2>
-<p>In an analysis by Abdill et al <span class="citation">(<a href="references.html#ref-abdill2019tracking" role="doc-biblioref">2019</a>)</span> back in 2018, there were 37648 preprints uploaded to bioRxiv. But in the world of preprints, this information is quite dated as back then there were only ~2000 uploads each month. Luckily, these same authors regularly scrape data regarding submissions to bioRxiv and I’m able to reproduce these live data below.</p>
+<p>In an analysis by Abdill and Blekhman <span class="citation">(<a href="references.html#ref-abdill2019tracking" role="doc-biblioref">2019</a>)</span> back in 2018, there were 37648 preprints uploaded to bioRxiv. But in the world of preprints, this information is quite dated as back then there were only ~2000 uploads each month. Luckily, these same authors regularly scrape data regarding submissions to bioRxiv and I’m able to reproduce these live data below.</p>
 
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="preprints2.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span>(knitr<span class="sc">::</span><span class="fu">is_html_output</span>(<span class="at">excludes=</span><span class="st">&quot;markdown&quot;</span>)) knitr<span class="sc">::</span><span class="fu">include_url</span>(<span class="st">&quot;https://johnmeasey.github.io/bioRxiv-line-annotated/index.html&quot;</span>, <span class="at">height=</span><span class="st">&quot;400px&quot;</span>) <span class="cf">else</span> knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">&quot;figures/bioRxiv-line-annotated/annotated-line-example.png&quot;</span>)</span></code></pre></div>
 <div class="figure"><span id="fig:bioRxiv-line-annotated"></span>
-<iframe src="https://johnmeasey.github.io/bioRxiv-line-annotated/index.html" width="672" height="400px">
+<iframe src="https://johnmeasey.github.io/bioRxiv-line-annotated/index.html" width="672" height="375px">
 </iframe>
 <p class="caption">
-FIGURE 9.1: The growth of bioRxiv submissions in time. Explore the <a href="https://johnmeasey.github.io/How-to-publish-in-Biological-Sciences/preprints2.html#who-posts-preprints-on-biorxiv">interactive version</a>.
+FIGURE 9.1: <strong>The growth of bioRxiv submissions in time.</strong> Note how the rate of submission rocketed at the beginning of the pandemic lockdown, and has remained high ever since. Explore the <a href="https://johnmeasey.github.io/How-to-publish-in-Biological-Sciences/preprints2.html#who-posts-preprints-on-biorxiv">interactive version</a>.
 </p>
 </div>
 <p>What you see is a doubling of bioRxiv submissions dating back to May 2020, a few months after the start of the global COVID pandemic. (Go to the <a href="https://rxivist.org/stats">RXivist website</a> to see the incredible spike in <a href="https://www.medrxiv.org/">medRxiv</a> data at the same point in time.) Many scientists had spent a few months working from home. Some had been productive, and many decided to move this productivity for the first time onto bioRxiv.</p>
