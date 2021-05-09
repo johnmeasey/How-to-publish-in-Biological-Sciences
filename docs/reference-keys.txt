@@ -237,8 +237,10 @@ if-more-is-being-published-will-impact-factors-increase
 retract
 corrigendum
 a-retraction-is-unusual
+how-do-you-know-if-a-paper-you-cited-is-later-retracted
 retraction-watch
 fabrication-of-data
+what-to-do-if-you-suspect-others
 bullying
 how-to-spot-a-bully
 what-to-do-about-bullying
