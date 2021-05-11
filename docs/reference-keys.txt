@@ -55,7 +55,7 @@ push-back-against-if
 authors
 ghost-authorship
 honorary-authorship
-a-need-for-transparency---dora-dora
+DORA
 who-should-be-an-author
 rescognito-orcid-and-the-credit-contributor-checklist
 citations
@@ -114,6 +114,7 @@ fee-waiver
 step-9-type-of-peer-review
 impact-factor
 noif
+plos-one
 shortlist
 suggestreviewers
 who-should-you-not-suggest
