@@ -1,3 +1,4 @@
+fig:publishing-triangle
 fig:One-round-of-peer-review
 eq:Impact-Factor
 fig:bioRxiv-line-annotated
@@ -8,6 +9,7 @@ fig:atlmetric
 fig:scavans
 fig:PhilTransRoySoc
 fig:journal-video
+fig:authors-writing-more
 fig:life-sciences-retractions
 fig:retraction1
 fig:retraction2
@@ -25,6 +27,11 @@ specialists
 the-role-of-the-editor
 what-do-editors-get-out-of-participation
 flavours
+blind-reviewers
+double-blind-reviewers
+tripple-blind-reviewers
+open-reviewers
+public-reviewers
 learn-more-about-peer-review-by-doing-it
 what-do-peer-reviewers-get-out-of-participation
 transparency2
@@ -105,10 +112,6 @@ open-access
 page-charges
 fee-waiver
 step-9-type-of-peer-review
-single-blind-review
-double-blind-review
-triple-blind-review
-open-review-named-authors-and-named-reviewers
 impact-factor
 noif
 shortlist
@@ -197,6 +200,7 @@ what-do-publishers-do
 what-is-publishing-then
 are-you-convinced
 problempeerreview
+ad-hominem-attacks
 demonstrated-biases-in-peer-review-include-the-following
 all-reviews-are-not-equal
 decisions-rest-with-editors
@@ -221,6 +225,7 @@ to-spot-a-predatory-journal-use-the-following-list-in-a-stepwise-fashion
 what-do-you-do-if-you-have-already-published-in-a-journal-that-others-consider-predatory
 paywall2
 why-dont-all-society-journals-do-without-publishers-and-go-open-access-independently
+how-do-publishers-make-their-money
 what-will-it-take-to-break-the-vicious-cycle
 can-we-afford-not-to-change
 societies-need-money.-editors-cant-be-publishers.
