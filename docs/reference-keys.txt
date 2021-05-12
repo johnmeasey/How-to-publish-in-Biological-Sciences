@@ -1,3 +1,4 @@
+tab:iris
 fig:publishing-triangle
 fig:One-round-of-peer-review
 eq:Impact-Factor
@@ -6,10 +7,12 @@ fig:Paywall-graphic
 fig:Piwowar
 fig:Editorial-work-flow
 fig:atlmetric
+tab:Bias
 fig:scavans
 fig:PhilTransRoySoc
 fig:journal-video
 fig:authors-writing-more
+tab:retract
 fig:life-sciences-retractions
 fig:retraction1
 fig:retraction2
@@ -202,7 +205,7 @@ what-is-publishing-then
 are-you-convinced
 problempeerreview
 ad-hominem-attacks
-demonstrated-biases-in-peer-review-include-the-following
+demonstrated-biases-in-peer-review
 all-reviews-are-not-equal
 decisions-rest-with-editors
 the-social-side-of-peer-review
