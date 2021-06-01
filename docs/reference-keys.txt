@@ -4,6 +4,8 @@ fig:open-science
 fig:One-round-of-peer-review
 fig:review-article
 eq:Impact-Factor
+tab:cite
+fig:Dimensions
 fig:Olaf-SA-invasive-fish
 fig:bioRxiv-line-annotated
 fig:Paywall-graphic
@@ -65,11 +67,12 @@ letters
 editorials
 impactfactor
 from-a-simple-score-to-a-way-of-life
+year-impact-factor
 what-can-you-do-if-you-publish-a-journal-with-high-if
 why-is-it-so-important
 editors-try-to-increase-if
 negotiating-your-if
-push-back-against-if
+pushback
 authors
 ghost-authorship
 honorary-authorship
@@ -81,8 +84,10 @@ citations
 what-are-your-citation-metrics
 total-citations
 h-index
+normalisaing-the-h-index-and-other-citation-metrics
 g-index
 r-index
+a-index
 i10-index
 other-metrics
 how-to-increase-your-citations
@@ -204,6 +209,7 @@ VoR
 what-does-this-mean
 accepted
 proofs
+the-doi-for-your-paper
 once-you-have-a-publication-date
 on-the-day-you-publish
 pressrelease
