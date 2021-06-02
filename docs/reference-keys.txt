@@ -28,6 +28,9 @@ fig:Mental-health
 closedtoopen
 three-fundamentals-of-publishing-in-biological-sciences
 gatekeepers
+peer-review
+impact-factor
+citations
 citations-and-impact-factor
 impact-factor-and-citations
 impact-factor-and-peer-review
@@ -51,7 +54,7 @@ double-blind-reviewers
 tripple-blind-reviewers
 open-reviewers
 public-reviewers
-learn-more-about-peer-review-by-doing-it
+reviewit
 what-do-peer-reviewers-get-out-of-participation
 transparency2
 removing-the-prejudice-around-confirmatory-bias
@@ -70,7 +73,7 @@ from-a-simple-score-to-a-way-of-life
 year-impact-factor
 what-can-you-do-if-you-publish-a-journal-with-high-if
 why-is-it-so-important
-editors-try-to-increase-if
+increaseIF
 negotiating-your-if
 pushback
 authors
@@ -80,7 +83,6 @@ DORA
 who-should-be-an-author
 rescognito-orcid-and-the-credit-contributor-checklist
 if-you-suspect-irregularities-in-authorship
-citations
 what-are-your-citation-metrics
 total-citations
 h-index
@@ -150,7 +152,7 @@ open-access
 page-charges
 fee-waiver
 step-9-type-of-peer-review
-impact-factor
+impact-factor-1
 noif
 plos-one
 shortlist
@@ -298,3 +300,4 @@ doctor-of-science-dsc
 tenure
 leavingacademia
 key-insights-if-you-are-looking-for-a-career-outside-academia
+how-easy-is-it-to-purge-the-publishers
