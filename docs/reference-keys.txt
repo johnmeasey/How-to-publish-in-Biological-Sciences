@@ -28,9 +28,10 @@ fig:Mental-health
 closedtoopen
 three-fundamentals-of-publishing-in-biological-sciences
 gatekeepers
+how-easy-is-it-to-purge-the-publishers
 peer-review
 impact-factor
-citations
+cite
 citations-and-impact-factor
 impact-factor-and-citations
 impact-factor-and-peer-review
@@ -47,7 +48,10 @@ professionals
 scholars
 specialists
 the-role-of-the-editor
+boards
 what-do-editors-get-out-of-participation
+what-do-associate-editors-get-from-participation
+what-do-advisory-board-members-get-from-participation
 flavours
 blind-reviewers
 double-blind-reviewers
@@ -83,6 +87,7 @@ DORA
 who-should-be-an-author
 rescognito-orcid-and-the-credit-contributor-checklist
 if-you-suspect-irregularities-in-authorship
+citations
 what-are-your-citation-metrics
 total-citations
 h-index
@@ -146,6 +151,7 @@ scope
 step-4-current-contents
 step-5-society-journals
 step-6-transparency-credibility
+copyright
 step-7-knowing-the-journal-from-the-inside
 step-8-financial-considerations-to-publishing
 open-access
@@ -198,7 +204,7 @@ time-take-to-receive-your-decision
 what-to-do-when-you-receive-your-reviewer-comments
 what-if-you-dont-agree-with-a-reviewer
 when-reviewers-ask-for-additional-analyses-or-experiments
-when-reviewers-dont-agree
+conflict
 what-if-you-feel-that-your-reviewer-is-being-unprofessional
 appealing-against-a-decision-that-you-think-is-unfair
 editors
@@ -208,10 +214,13 @@ ive-been-on-the-other-end-too
 there-is-worse-that-goes-on-in-economics
 summing-up-on-editorial-blunders
 VoR
-what-does-this-mean
+registration-to-obtain-a-doi
+what-does-having-a-vor-mean
 accepted
 proofs
-the-doi-for-your-paper
+DOI
+doi-tools
+ORCID
 once-you-have-a-publication-date
 on-the-day-you-publish
 pressrelease
@@ -282,7 +291,7 @@ corrigendum
 a-retraction-is-unusual
 how-do-you-know-if-a-paper-you-cited-is-later-retracted
 notification-of-retraction
-retraction-watch
+retractionwatch
 fabrication-of-data
 who-is-responsible
 fraud
@@ -300,4 +309,3 @@ doctor-of-science-dsc
 tenure
 leavingacademia
 key-insights-if-you-are-looking-for-a-career-outside-academia
-how-easy-is-it-to-purge-the-publishers
