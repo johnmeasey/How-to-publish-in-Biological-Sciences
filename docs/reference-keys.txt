@@ -68,6 +68,7 @@ novel-research
 introducing-transparency-in-peer-review
 removing-profit-from-academic-publishing
 whattowrite
+standard-articles
 reviews
 commentaries-or-opinion-pieces
 letters
@@ -101,7 +102,7 @@ how-to-increase-your-citations
 media-release
 social-media
 popular-articles
-self-citations
+self
 symposium
 traditional-media
 not-so-legitimate-ways-of-increasing-citations
@@ -240,7 +241,7 @@ nature-publishing---pay-for-review
 the-problem
 what-do-publishers-do
 what-is-publishing-then
-making-the-change
+change
 problempeerreview
 ad-hominem-attacks
 demonstrated-biases-in-peer-review
@@ -273,6 +274,7 @@ how-could-such-a-profitable-business-lead-to-making-a-loss
 making-a-profit---in-summary
 what-about-academic-books
 what-will-it-take-to-break-the-vicious-cycle
+societies
 can-we-afford-not-to-change
 societies-need-money.-editors-cant-be-publishers.
 a-paywall-is-never-acceptable-wherever-you-put-it
@@ -282,6 +284,7 @@ layout
 giving-up-the-obsession-with-metrics
 publishmore
 are-some-authors-unfeasibly-prolific
+salami
 is-writing-a-lot-of-papers-a-good-strategy
 badscience
 at-what-rate-is-the-literature-increasing
