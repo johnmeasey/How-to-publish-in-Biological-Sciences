@@ -8,6 +8,7 @@ tab:cite
 fig:Dimensions
 fig:Olaf-SA-invasive-fish
 fig:bioRxiv-line-annotated
+fig:Prisma-flow
 fig:Paywall-graphic
 fig:Piwowar
 fig:Editorial-work-flow
@@ -198,16 +199,19 @@ tell-them-to-cite-other-papers-from-the-journal
 justify-comments-with-their-own-beliefs-and-opinions
 assess-aspects-of-the-manuscript-that-are-beyond-their-competence
 ignore-what-is-good
-rebuttal
+decision
 what-to-expect-in-your-decision-letter
+desk
 rejection
 time-taken-to-receive-your-decision
 what-to-do-when-you-receive-your-reviewer-comments
+rebuttal
 what-if-you-dont-agree-with-a-reviewer
 when-reviewers-ask-for-additional-analyses-or-experiments
 conflict
+more-than-two-rounds-of-peer-review
 what-if-you-feel-that-your-reviewer-is-being-unprofessional
-appealing-against-a-decision-that-you-think-is-unfair
+unfair
 editors
 why-is-reading-so-important
 if-you-are-going-to-be-an-editor-then-you-must-be-prepared-to-read
@@ -243,6 +247,7 @@ what-do-publishers-do
 what-is-publishing-then
 change
 problempeerreview
+upsetting-comments
 ad-hominem-attacks
 demonstrated-biases-in-peer-review
 all-reviews-are-not-equal
