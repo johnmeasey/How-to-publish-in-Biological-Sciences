@@ -1,0 +1,43 @@
+# Should you submit your manuscript as a preprint? {#preprint}
+
+Later on in the book ([part 5](preprints2.html)) there is a chapter that deals with preprints, explaining what they are and how they function - essentially a place for manuscripts prior to peer review. However, the question of whether or not you should submit your paper as a preprint is relevant now. Essentially, there is no right or wrong answer, and it’s entirely up to you, your advisor and your team of authors. 
+
+Here are some reasons for and against submitting your manuscript as a preprint:
+
+## For:
+
+- Your manuscript needs to be cited by another that you are submitting and you are worried that the peer review process will take too long.
+  + This is especially appropriate in the need to be [transparent](transparency2.html) to demonstrate that you are not '[salami slicing](#salami)' your work.
+- You are applying for a scholarship, a grant or job and want to be able to show that you have a body of work that is ready to be published, even if it is not formally published yet. Using preprints, you can allow the hiring committee or potential employer access to your work. This is really much more impressive than claiming manuscripts are 'in preparation' on your CV.
+- You are presenting some unpublished work at a [conference](#conference) and you want people to be able to access it (e.g. through scanning a QR code)
+- You are submitting a grant application and want to demonstrate that you have sufficient data, although it isn't yet published
+- You are aware that another lab is working on a similar project and are worried that submitting to peer review will scoop your findings. 
+- Your work has immediacy that it might not have after (potentially) 3 months of peer review. It may be that by releasing your preprint you can contribute to an ongoing debate that otherwise you’ll potentially miss.
+- It's free. No APC or other fees are involved with depositing your preprint
+- You have the potential to increase your network when people you have never met read your work.
+- You are concerned that you’ve missed something important or perhaps analysed something in a novel way that others might be able to help with. You want this chance at feedback before submitting to peer review.
+- Your manuscript crashed out of peer review with comments that you felt were unfair or unsubstantiated. You are looking for more balanced comments.
+- In the above case, you might be able to use your preprint as leverage to persuade an editor that your contribution should be fast tracked into their journal.
+- If you can generate enough buzz and positive feedback, you might be able to get leverage on an editor for submission to a journal with a higher impact factor.
+- You have a working group that you actively want to share your publication with, even before it is published
+- This is the only submission route for 'Overlay Journals'
+  + [PCI-Evol Biol](##PCI-EvolBiol) in Biological Sciences
+  + [JMIRx|Bio](https://bio.jmirx.org/) accepts any preprint published on [bioRxiv](#bioRxiv) since 2020
+- This is the only submission route for some other journals [e.g. eLife @eisen2020implementing]
+
+## Against:
+
+- Any of your co-authors don’t want the manuscript submitted as a preprint before peer review
+- You feel that public access might mean that your results are misinterpreted
+ + this should be on you to get it right before you submit it
+- There is a real chance that others can use the access to your work and publish it before you
+ + It's worth adding here that while you might believe that there are lots of people out there who might want to steal your work, this is a general paranoia that is very common in early career researchers. Few fields in biological sciences really have valid examples of data theft or idea theft. 
+ - Preprints are another example of how everything is too rushed these days.
+  + I've heard this opinion, but wonder why these authors wouldn't simply hold onto their manuscript until they feel that it's ready. 
+
+I can’t really come up with a lot of reasons against submitting a preprint (I've had to add some I have heard other people saying). This is possibly because I’m broadly in favour of preprints and see that there is value there. However, I’ve done it with only a fraction of papers submitted in the last 5 years. Why? 
+
+My experience of preprints, in terms of feedback and reviews, is disappointing. Although these get widely shared on social media, and garner a large number of downloads, they don’t generate comments from colleagues. Even when we have sent links of preprints to colleagues asking directly for feedback, we’ve received little to nothing. This does not mean that preprints are worthless. I think that they have great potential, and they may work better for you in your field than for me in mine. Moreover, preprint servers now hold the potential to free academics from the tyranny of profit hungry publishing houses ([more on this later](#overlay)).
+
+At this point, I should say that I have not (yet) made any public comments on a preprint. When I have looked at preprints, I (generally) have downloaded them in order to look at some of the details (often the methods or analyses), when there’s a dearth of peer reviewed (published) material. There are a few references to preprints in this book. I’ll replace them if I find that they have been published. But what should I do if the published version doesn’t contain the point that I’m citing on? In this case, I’ll delete the citation and no longer make the claim because there is the chance that the result did not stand up to the rigours of peer review.
+

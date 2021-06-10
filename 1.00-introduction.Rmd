@@ -1,6 +1,6 @@
 # (PART) Part 1: Getting ready for submission {-}
 
-# The reasons for publishing your work {-}
+# The reasons for publishing your work {- #part1}
 
 I assume that you will all want to publish the work from your thesis, but it’s worth going through the points here about why publication is so important. 
 
@@ -16,12 +16,14 @@ I assume that you will all want to publish the work from your thesis, but it’s
 - There is a lot of satisfaction to be had by seeing your work published. It has been argued that this depends on who you are and where you come from [@husemann2017publicationism]. 
 - The satisfaction of having someone say how enjoyable or inspiring your work is to read will certainly not be as frequent as if you managed to publish a novel or newspaper column. But when it does happen, it will bring a smile to your face.
 
-This is by no means an exhaustive list, but I hope it will give you some insight into the importance of publishing your results. To counter this assertion, please be aware that there is also research that suggests that publication driven science is not healthy, and that we need a new way to motivate science [e.g. @stergiou2014impact]. Indeed, it has been suggested that the ‘publish or perish’ mentality of academia has resulted in the retention (and even deterioration) of poor experimental design, and hence higher false positives in the behavioural sciences [@smaldino2016natural]. We will come back to this later in part 4. However, before you can join the debate about the future, I’d argue that you need to provide your credentials for the present.
+This is by no means an exhaustive list, but I hope it will give you some insight into the importance of publishing your results. To counter this assertion, please be aware that there is also research that suggests that publication driven science is not healthy, and that we need a new way to motivate science [e.g. @stergiou2014impact]. Indeed, it has been suggested that the ‘publish or perish’ mentality of academia has resulted in the retention (and even deterioration) of poor experimental design, and hence higher false positives in the behavioural sciences [@smaldino2016natural]. We will come back to this later in [part 4](#badscience). However, before you can join the debate about the future, I’d argue that you need to provide your credentials for the present.
 
 Given that you are reading this book, I will assume that you plan to publish your work. However, there are still some basics that I think it is worth considering in this first part of the book:
 
- - What is a journal for?
- - What is it possible to publish?
- - What is the journal Impact Factor?
- - Why are citations important?
- 
+ - [What is a journal for?](whatjournalfor.html)
+ - [What is it possible to publish?](whattowrite.html)
+ - [What is peer review](peerreview.html)
+ - [What is the journal Impact Factor?](impactfactor.html)
+ - [Why are citations important?](citations.html)
+
+

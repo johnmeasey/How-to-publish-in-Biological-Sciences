@@ -6,7 +6,7 @@ It’s a relatively simple calculation as seen in equation \@ref(eq:Impact-Facto
 
 
 \begin{equation*} 
-\frac{Sigma  citations  in  journal X for  year Y}{(Number of publications in journal X for year Y-1) + (Number of publications in journal X for year Y-2)}\left( \int_{a}^{x} f(u)\,du\right)=f(x)
+\frac{\mbox{The sum of all  citations  in  journal X for  year Y }}{(\mbox{No. pubs in journal X for year Y-1}) + (\mbox{No. pubs in journal X for year Y-2})}
 (\#eq:Impact-Factor)
 \end{equation*} 
 
@@ -21,25 +21,32 @@ Do remember that there are a number of other citation indices including Scopus a
 
 ## From a simple score to a way of life
 
-When IF was originally devised, it wasn’t supposed to govern the lives of academics. It was a calculation for librarians to help them decide which journals to keep and which to ditch under ever constrained budgets (caused by publishers' ever increasing prices). But along the way, this very simple index is now considered by many people to be a measure of quality, prestige and even academic success [@garfield1999journal]. Many people have highlighted how wrong these beliefs are (see here and here), but the growing trouble is that not only have many academics been misled, but so have administrators responsible for hiring and promotions. 
+> "Like nuclear energy, the impact factor has become a mixed blessing."
+>
+> ---Eugene Garfield [-@garfield1999journal]
 
-In a paper by McKiernan et al [-@mckiernan2019use], they found that this metric features in the guidelines of many university panels responsible for the fate of academics jobs and therefore lives. Worryingly, many of these institutions don’t actually talk about what IF measures. Instead they equate it with values and qualities that it certainly does not represent. Thus you may find that your career is influenced by a simple metric that almost all who use it don’t actually understand what it means. The undue influence on lives of scientists that IF has led directly to the San Francisco Declaration on Research Assessment (known as DORA) in which many institutions and publishers signed up to. You should read this very simple declaration and find out whether your institution is a signatory.
+When IF was originally devised by Eugene Garfield in 1955, it wasn’t supposed to govern the lives of academics, it was simply intended to be a way of deciding which journals to include in the Science Citation Index [@garfield1999journal]. I then became useful for librarians to help them decide which journals to keep and which to ditch under ever constrained budgets (caused by publishers' ever increasing prices). But along the way, this very simple index is now considered by many people to be a measure of quality, prestige and even academic success [@garfield1999journal]. Many people have highlighted [how wrong these beliefs are](#money), but the growing trouble is that not only have many academics been misled, but so have administrators responsible for [hiring and promotions](#DORA). 
+
+In a paper by McKiernan et al [-@mckiernan2019use], they found that this metric features in the guidelines of many university panels responsible for the fate of academics jobs and therefore lives. Worryingly, many of these institutions don’t actually talk about what IF measures. Instead they equate it with values and qualities that it certainly does not represent. Thus you may find that your career is influenced by a simple metric that almost all who use it don’t actually understand what it means. The undue influence on lives of scientists that IF has led directly to the San Francisco Declaration on Research Assessment (known as [DORA](#DORA)) in which many institutions and publishers signed up to. You should read this very simple declaration and find out whether your institution is a signatory. 
+
+The Impact Factor now dominates many aspects of life for Early Career Researchers, where the pay-off for a high impact publication might make the difference between having a job or leaving science altogether. The pressure is so high that it leads to [misconduct and fraud](#pruittdata). 
+
+## 5 Year Impact Factor
+Many journals report their 5 Year Impact Factor in addition the the standard 2 year timeframe (as seen in equation \@ref(eq:Impact-Factor)). This is because many disciplines, such as biological sciences, don't have maximum impact of articles within the first 2 years of publication as do subjects like medicine and physics. Although the 5 Year Impact Factor might be much more appropriate, most people do ignore this statistic. Although this statistic might be more appropriate, because of the bad ways in which people have used impact factor, it is probably better to [push back](#pushback) against this metric as you should others.
 
 ## What can you do if you publish a journal with high IF?
-
 Very high ranking journals for Impact Factor are publications like Cell, Nature, Science and PNAS. This is because these publications are read by a very great number of people, and so are widely cited. Articles that get published in them receive a lot of attention from the press and media. This results in the prestige that a hiring institution might be looking for. If your academics publish in this journal, your institution may well receive lots of positive publicity. In some countries, notably China, there may be a cash incentive towards publishing in a journal with a high IF [@quan2017publish].
 
-One frightening trend that we are seeing in biological sciences is that the higher the Impact Factor the more the journal will charge you to publish in it. At the time of writing in November 2020 nature has just announced that they will charge $9500 to publish in the highly-ranked journal (see [part 5](openaccess.html). This is more money than it cost to publish in any other journal at the moment. 
+One frightening trend that we are seeing in biological sciences is that the higher the Impact Factor the more the journal will charge you to publish in it. At the time of writing in November 2020 nature has just announced that they will charge $9500 to publish in the highly-ranked journal (see [part 2](openaccess.html)). This is more money than it cost to publish in any other journal at the moment. 
 
 ## Why is it so important?
-
-Academics are measured by their productivity but also about the quality of their output. Because there are so many different academic disciplines the bean pushers who administer us need some way of ranking academics against each other. This is why they use the Impact Factor of the journals that the academic publishing in order to determine the quality of their output. Even though there are other metrics of the actual quality of an academic, most administrators continue to cling to IF and their beliefs of what it stands for (see blog post here).
+Academics are measured by= their productivity but also about the quality of their output. Because there are so many different academic disciplines the bean pushers who administer us need some way of ranking academics against each other. This is why they use the Impact Factor of the journals that the academic publishing in order to determine the quality of their output. Even though there are other metrics of the actual quality of an academic, most administrators continue to cling to IF and their beliefs of what it stands for (see blog post here).
 
 Some countries reward their academics if they publish in high ranking journals. This can result in a salary bonus. It may also help with promotion, getting tenure or even just getting an interview for a job. If you're going to publish and you want a career in academia then you need to be aware of Impact Factors and what they mean to different stakeholders. 
 
 Many people will complain that their particular sub-discipline has a range of very low ranking journals with low impact factors. Others complain that journals with high impact factors tend to be edited by an old boys club that facilitates the members. In some cases like PNAS this is certainly true. 
 
-## Editors try to increase IF
+## Editors try to increase IF {#increaseIF}
 It's important to remember that editors care about Impact Factor [see @ioannidis2019user]. There are several reasons for this. Firstly, as the editor the impact factor of the journal can be used (by the publisher or society) as a simple measure of how well the editor is doing. Secondly, the higher the impact factor of the journal, the better quality of submissions of manuscripts to publish. Being the editor of a journal with a low (or no) impact factor can result in a lot of mediocre manuscripts that are being submitted. Poor manuscripts take up much more time than good ones: more rounds of review, more disagreements among reviewers and more time spent making editorial decisions. Thus, by increasing the IF of the journal that you edit, you are likely to increase both the number of submissions (allowing you to reject more poor ones) and retain better ones.
 
 All this means that if they think your paper will not garner the same or more citations in two years as the current Impact Factor they are likely to reject it often without even sending it out to review. Editors also have been known to manipulate impact factors and there are a number of established ways of doing this [see @metze2010bureaucrats; @martin2016editors]: 
@@ -52,7 +59,10 @@ All this means that if they think your paper will not garner the same or more ci
 1. Encourage review articles
 1. Editorials that cite every paper in the journal. This tactic is frequently used in special issues. 
 
-Just like any metric, Impact Factor is liable for abuse. You need to be aware of how IF is used and abused by many people in the academic community. 
+Just like any metric, Impact Factor is liable for abuse. You need to be aware of how IF is used and abused by many people in the academic community. You also need to be aware of what the rewards are for these individuals. Our problem with Impact Factor is not really the way in which it is manipulated by individuals to achieve their own ends. Instead, we should be worried about the way in which it leads the scientific community towards [bad science](#badscience) and [dishonesty](#pruittdata). Moreover, that this happens not to our benefit, but for the benefit of the publishing industry who uses this metric (that they now own and police themselves) to extort money from taxpayers earmarked for research into their own pockets (more on this in [Part IV](part4.html)).
 
-## Push back against IF
+### Negotiating your IF
+As the number of citations from your published content is divided by the number of papers, one way of improving the IF of a journal is to reduce the number of papers that are counted towards the denominator in the calculation made by the [citations database](database.html). It has been known for some time that those journals with the highest IF negotiate the removal of all of their editorial and news content from their denominators, making the number of publications much smaller and hence the IF larger [@adam2002counting; @garfield1999journal]. On the other hand, if any of these news or commentaries get citations, these are included in the addition to the numerator. Thus our favourite high impact journals, _Nature_ and _Science_, can publish very citable news at the front of their magazine, but negotiate with the commerically minded Thomson Reuters about exactly which of their content counts towards their IF [@brembs2013deep]. Later, we will see evidence of the financial leverage that these negotiations can reward the top tier journals (see [Part IV](paywall2.html)).
+
+## Push back against IF {#pushback}
 One very simple way that you can push back is to calculate IF scores for your papers and show how they relate to the IF of the journal that you publish in. In this way you are simply comparing your actual citations in the 2 years after your paper is published with the mean for the journal. There is a good chance that you generally get more citations than the mean for the journal, and with some statistics you can convincingly show that your citations are significantly higher than the IF. For this to be true, you might need to help your work get cited. [That’s the subject of another chapter](citations.html).

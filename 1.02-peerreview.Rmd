@@ -1,18 +1,32 @@
 # What is peer review? {#peerreview}
 
-Peer review is often considered to be the gold standard of science [@mayden2012peer]. Manuscripts that have passed peer review should be considered to have been scrutinised to the highest level. If one's peers in the scientific community consider that a manuscript is worthy of publication, then it meets the high standards of peer review. The review of peers acts as the gatekeeper to all that is good in science, and excludes all that is bad. 
+Peer review is often considered to be the gold standard of science [@mayden2012peer]. Manuscripts that have passed peer review should be considered to have been scrutinised to the highest level. If one's peers in the scientific community consider that a manuscript is worthy of publication, then it meets the high standards of peer review. The review of peers acts as the gatekeeper to all that is good in science, and excludes all that is bad. A lot has been written about peer review (>23000 articles!), and if you'd like to read more [@eve2021reading].
 
-While the views in the above paragraph are generally held, there is also a general acknowledgement that there are a lot of problems with peer review. That this has been widely acknowledged is probably an understatement as most people who have experienced would likely already know. If you look at the end of this chapter, you will see that there has been a lot of research on peer review, and there’s a lot more out there that I haven’t cited. 
+While the views in the above paragraph are generally held, there is also a general acknowledgement that there are a lot of problems with peer review. That this has been widely acknowledged is probably an understatement as most people who have experienced would likely already know. These problems will be address in a [another chapter](problempeerreview.html) in the last section of this book.
 
-In this chapter, I attempt to explain what peer review is, how to do it, and some of the common problems associated with it. 
+Peer review is a fundamental aspect of publishing, and so there are several chapters in this book that are dedicated to different aspects. In this chapter, I attempt to explain what peer review is. Elsewhere there are descriptions:
+
+- [what to expect from peer reviewers](peerreview2.html)
+- [how to respond to peer review](rebuttal.html)
+- [how to conduct peer review](howpeerreview.html)
+- [problems with peer review](problempeerreview.html)
+
+This chapter provides an overview of the topic, but you may need to refer to the other chapters first depending on what your current need is. 
+
+## History of peer review
+The history of peer review is surprisingly modern. We have already seen that journals themselves only date back to the 17th century (see chapter in [Part IV](whatjournalfor.html)). These journals included a form of peer review in that letters concerning studies could be published, along with comments made at presentations. However, the type of systematic enforced peer review described in this book is very recent [@eve2021reading]. The journal Nature for example only started systematic peer review for its articles in 1973, and mainstream editor led peer review only really started in the late 1940s [see @tennant2017open]. Typical society journals have followed a similar form of evolution from newsletters to scholarly journals [@measey2011past]. 
 
 ## How high is the peer review bar?
 It is difficult to emphasise how high the peer review bar is. When your manuscript is scrutinised by your peers, it is very rare that it will get accepted without modifications. This is because the experience of academics tends to be so wide, and vary so much from individual to individual, that it is almost impossible to predict what a peer reviewer will see when they read your manuscript.
 
 You should expect that your manuscript will not receive an easy ride through peer review. But you should also expect that it will be improved. As we will see later, this improvement might not be immediately obvious to you when you first read the comments.
 
+It is also important to note that as the author, you are the net beneficiary of the peer review process, and that once you press the submit button (free for the vast majority of us, but see [part IV](paywall.html)), a cascade of events happen all of which are done in the name of you and your submission. It stands to reason then that you should be sure that your manuscript is as ready as it can be for submission.
+
 ## Who are your peers?
 Essentially the peers in peer review are people that editors find and persuade to conduct the peer review. it can be difficult to find people to conduct a peer review. Although only 2 or 3 reviews are needed sometimes as many as 20 or 30 individuals can be approached. Perry et al [-@perry2012peer] lamented on the increasing difficulty in persuading colleagues to conduct peer review of manuscripts.
+
+While your 'peer' might sound like someone who is in an equivalent position to you, this may well not be the case. If you are junior, your peer reviewers may be very senior. Equally, senior authors may have peer reviewers that may be very junior. Does this make a difference? For some people it might, especially when they know the other party and assign some level of competence associated with their seniority. Of course, both junior and senior researchers are capable of getting points in peer review wrong, just as both are also capable of providing insightful feedback. The editors are those in the hotseat about what it all means. 
 
 ### Professionals
 Peer reviewers are normally professionals. Academics postdocs or postgraduate students. Occasionally there are amateurs who have very high academic standards and who can be contacted to conduct peer review.
@@ -21,48 +35,121 @@ Peer reviewers are normally professionals. Academics postdocs or postgraduate st
 Peer reviews should be familiar with the subject area to a good level of scholarly achievement. Undergraduates and many postgraduate students would not be considered eligible by many editors as selection for peer review. Personally I found that many PhD students, especially those in their final stages of studying are very good peer reviewers.
 
 ### Specialists
-Few reviews should be specialists to some degree of the area on which the manuscript is based. often it's not possible to be a specialist in every area of a manuscript. But in the case where you are not proficient it is important to inform the editor.
+Peer reviewers should be specialists to some degree of the area on which the manuscript is based. often it's not possible to be a specialist in every area of a manuscript. But in the case where you are not proficient it is important to inform the editor.
 
-## History of peer review
-The history of peer review is surprisingly modern. We have already seen that journals themselves only date back to the 17th century (see chapter in [Part IV](whatjournalfor.html)). These journals included a form of peer review in that letters concerning studies could be published, along with comments made at presentations. The type of systematic enforced peer review described in this book is very recent. The journal Nature for example only started systematic peer review for its articles in 1973, and mainstream editor led peer review only really started in the late 1940s [see @tennant2017open]. Typical society journals have followed a similar form of evolution from newsletters to scholarly journals [@measey2011past]. 
 
-## Learn more about peer review by doing it
+## The role of the editor
+The editor has an important role to play (see Figure \@ref(fig:One-round-of-peer-review)):
 
-As an early career researcher, you may well be asked to conduct peer review of an article in your specialist field. If you have never been asked, then tell your mentor to recommend you (usually when they turn down an opportunity to conduct peer review, they have an opportunity to name someone else. If you have told them that you want some manuscripts to review, it should be straightforward for them to add your name when appropriate.
+ - To assess your submission
+   + Does it align with the journal?
+   + Is it sound enough to send to peer review?
+   + Whether to use a specialist associate editor
+ - To choose the peer reviewers
+   + Without potential conflicts of interest
+   + Who can cover the content of the manuscript
+   + Who agree to doing the review within the prescribed time
+ - To assess the reviews of the reviewers
+   + Mitigate for potential bias in the reviews
+   + Judge what is in the manuscript against what reviewers have found
+   + Determine whether sufficient merit remains in order to undergo a decision (including more peer review)
+ - Write the decision: When you bear in mind that the decision is likely to involve some arbitration between different reviewer opinions, and to direct the authors about what changes need to be made to a ms in order to make it acceptable, the decision is not a simple exercise. Making an editorial decision will require [careful reading of the manuscript](editors.html), as well as looking past potential [biases of reviewers](#problempeerreview).  
+
+ 
+## Who are the Gatekeepers (Advisory & Editorial Boards) {#boards}
+
+The Advisory Board (sometimes referred to confusingly as the Editorial Board) together with the editor and associate editors, make up the [gatekeepers](#gatekeepers) of scientific knowledge. Through their combined influence, they determine what knowledge is published by screening submissions and allowing only a proportion of them to make it to being published. The Advisory Board are invited academics who are often considered to be leaders in the field relating to the journal, and are invited to join by the editor and/or the society. In theory, they are ambassadors for the journal, encouraging authors to submit their manuscripts (for example following talks at conferences), identifying new topics for editorials and special issues, and generally supporting the editor and associate editors. The Advisory Board are also there in the case of dispute (especially between authors and editors), or for complaints coming from third parties (against editors). In general, most issues involving a journal are dealt with by the editor. Only in exceptional circumstances are the Advisory Board consulted. Practically, the role of the Editorial Board is largely passive, and hence many think of the gatekeepers as being only the editor and associate editors.
+
+Here, I refer to the editor and associate editors collectively as the "Editorial Board". 
+
+The editorial board are said to support orthodox views in their fields and could be thought of as representing the 'establishment' [@crane1967gatekeepers]. The argument continues that like supports like, and that editorial boards in science tend to be composed of white men at US universities. One real problem with gatekeepers is their lack of diversity [@potvin2018diversity]. In a study of 250 science journals, only one country on the African continent had gatekeepers represented at 0.16%, while the USA had 53.87% of the gatekeepers [@braun2005counting]. Increasing the geographic diversity of the editorial board leads to an increase in the diversity of the authors [@demeter2018changing; @goyanes2020how; @potvin2018diversity]. 
+
+Editors, sometimes referred to as editors-in-chief (presumably to distinguish them from associate editors) are usually alone in their position at journals. Increasingly, journals with large numbers of submissions have joint editors-in-chief, or even another tier of editorial oversight under the editor-in-chief. The major part of their job is screening the submissions to the journal and assigning the most appropriate associate editor. In most journal models, they review the information provided by the associate editor and make a final decision on whether or not a manuscript is accepted to the journal - see Figure \@ref(fig:Editorial-work-flow). Their gatekeeping role comes with the many decisions that they have influence over, for example what [kinds of articles](#scope) that they will accept, the decision to amend the description of the journal on the website, which will impact how you [choose your journal](whichjournal.html). This is the reason why you are always advised to look at the current content of your journal choice. There is also the important role that the editor takes [when things go wrong](#pruittdata), which can be very time consuming. 
+
+The information on characterising associate editors comes from an illuminating study by Kelsey Poulson-Ellestad and colleagues [-@poulson-ellestad2020illuminating]. Associate Editors are most likely to be tenure-track faculty in a US research intensive university. Most are within 10 years of earning their PhD, and are therefore still Early Career Researchers, and have published ~20 papers and conducted >50 reviews. Rewards include a better understanding of the publication system, improved communication skills, keeping current in the journal area and giving back to the scientific community. Most of the costs involved time around finding reviewers, reading manuscripts and making difficult decisions, especially around [conflicting peer review comments](#conflict). But [editing takes time](editors.html), and can be burdensome in this respect especially for Early Career Researchers who have so much else on their plate. The advice of many Associate Editors in the study was for others not to take on editing unless they are sure that they can commit enough time [@poulson-ellestad2020illuminating]. Gender equality in Associate Editors of ecological journals has been improving over time, as has the gender equality of reviewers [@fox2019gendera], although other surveys have found huge disparity of only 16% of subject editors being women in 10 environmental biology and natural resource management journals [@cho2014women]. However, women are more likely to refuse an invitation to become an Associate Editor [@fox2019gendera]. The gender imbalance in gatekeepers is indicative of the general imbalance in gender across STEM subjects (for more studies see [here](https://collections.plos.org/collection/gender-imbalance/)). 
+ 
+
+(ref:One-round-of-peer-review) **A simple schematic for one round of peer review**. In this figure, you (yellow circle) start by submitting your manuscript (ms) to an editor of a journal (pink circle), who assesses it and send it out to 3 reviewers (green circles). Each reviewer independently generates an opinion in the form of a review (rev). They each pass this back to the editor, who then makes a decision on your ms. Each light grey arrow going out may be quite quick (a few days or weeks), but the dark grey return arrows might take a long time (often counted in months). Reviewers come in different flavours ([see below](#flavours)), generally at the discretion of the editor.
+
+```{r One-round-of-peer-review, echo=FALSE, out.width = '85%', fig.cap="(ref:One-round-of-peer-review)"}
+ knitr::include_graphics("figures/One-round-of-peer-review.png")
+```
+
+All of the above processes need to be worked around the editor's existing job, professional and research commitments (i.e. the day job), and their home life.
+
+**To summarise**: here are what I consider to be the main motivations for the various Gatekeepers:
+
+### What do Editors get out of participation?
+- The prestige associated with editing a journal
+- Increase your network
+- By being a good editor, you'll increase your soft power
+- Participate in the production of knowledge
+- Give back to a system in which you've benefited as an author
+
+### What do Associate Editors get from participation?
+- Being an editor of a journal is one of the requirements of the US [tenure track system](habilitation.html).
+- Editors-in-Chief are usually selected from among the ranks of the Associate Editors
+- a better understanding of the publication system
+- Improved communication skills
+- Keeping current in the journal area 
+- Giving back to the scientific community
+
+### What do Advisory Board members get from participation?
+- Prestige of having your name listed on the journal website
+- Some advisory board members may get complimentary copies of the journal (or web access)
+- An opportunity to use soft power at conferences and other meetings
+- Recognition of being influential in your field
+- Another lever to use in arguing for promotion
+
+
+## Reviewer models {#flavours}
+Reviewers themselves come in different flavours that are (mostly) predetermined by the journal regulations. 
+
+### Blind reviewers
+Blind reviewers know who the authors are, but are anonymous to the author, but known to the editor. This can be considered the 'standard model' in peer review. There are plenty of problems with this model as reviewers may use their anonymity to [hide their biases](#problempeerreview) and are even known to [become abusive](#problempeerreview). Although reviewers may be anonymous, sometimes communities are so small that authors might guess who these people are, simply by their comments and suggestions. Although this is the most common type of review format it is the least recommended. If you feel that there may be potential reviewers who bear a grudge to your laboratory, your institution or your work then it may be better to avoid this kind of review system.
+
+### Double blind reviewers
+Double blind reviewers do not know who the authors are, and are anonymous to the author, but known to the editor. The double blind model was conceived to remove some of the potential biases (particularly around gender, nationality and race) that might come about through the identification of the authors and their addresses. Again, it has been mooted, and it is my also experience, that in a small community one tends to know who authors and reviewers are simply by the subject of the manuscript and the comments [see also @eve2021reading]. However, even when groups can be identified, it is not always possible to determine the author or author combination, and so biases around gender and race may still be avoided with this model.
+
+### Tripple blind reviewers
+In theory, it is possible for the editor, after having chosen the reviewers, to be blinded from their identity once they submit their review. This may prevent the editor putting more importance to a more senior reviewer, and ignoring more junior viewpoints. 
+
+### Open reviewers
+Open reviewers know who the authors are, and are known by the authors and editor. Note that this is a simplification of a complex set of potential openness. For a thorough discussion see [@ross-hellauer2017what]. The open reviewer model does encourage good behaviour (or the avoidance of some of the worst problems) on the part of reviewers. However, reviewers remain brutally direct even when they are named, such that these comments may be construed as bruising by the authors [@eve2021reading].
+
+### Public reviewers
+Public reviewers know who the authors are, and are known by the authors and editor, and their names (and often their reviews) are made available to the public. This model is relatively recent, and comes along with the possibility of making the reviews with their own [DOIs](#DOI) available along with the accepted manuscript. It is worth noting that, to date, reviews for manuscripts that are rejected do not get posted using this or any other current publishing model. It does exist in the world of [preprints](preprints2.html). 
+
+This could be considered the most transparent system for any journal. It has also been called Open Evaluation (OE) by Kriegeskorte et al [-@kriegeskorte2012emerging]. PeerJ and [ELife](https://elifesciences.org/) are among a very small handful of journals that have tried to instigate this model. Nevertheless it can be very difficult to find reviewers who are prepared to reveal their names to the authors. A study that compared PeerJ publications in which reviews were made public, compared to those that authors chose to keep closed, suggested that the subsequent number of citations increased by a third for open reviews [@zong2020does]. It is only possible to speculate about why this might be. The decision at [PeerJ](www.peerj.com) to open reviews is made first both by reviewers (who opt not to be anonymous), and then by authors (who opt to open reviews). In studies where both groups co-operate, we might hope that this results in a higher quality product. Indeed, public reviews tend to be longer, although positive comments are more frequent in closed reviews [@bornmann2012closed]. It is equally possible that authors who choose to open their peer review are more progressive and active within research (leading to more citations).
+
+## Learn more about peer review by doing it {#reviewit}
+
+As an early career researcher, you may well be asked to conduct peer review of an article in your specialist field. If you have never been asked, then tell your mentor to recommend you. Usually when they turn down an opportunity to conduct peer review, they have an opportunity to name someone else. If you have told them that you want some manuscripts to review, it should be straightforward for them to add your name when appropriate. 
+
+Another option is to volunteer to conduct peer review for an independent peer review site, like [Review Commons](https://www.reviewcommons.org/) or [Peerage of Science](https://www.peerageofscience.org/). Here you can register your interest and then take your pick of articles that get submitted. A nice aspect is that Review Commons have Referee Cross-commenting, so that you get to see the other reviewer comments and make additional comments on these as you see fit. Review Commons and Peerage of Science are both excellent platforms on which to get some experience with reviewing. 
+
+Similarly, you could post your reviews of [preprints](preprints2.html) online. You might be shy to do this at first, so consider sitting with a lab mate and doing a review together. You can always ask your [mentor](#mentor) to take a look at your review if you are unsure whether or not it should be posted publicly. 
 
 When you register in the editorial manager software for journals that you submit to, there is often an option to state what areas of your field you are particularly specialised in, and whether or not you are interested in conducting peer review in these areas. This is also worth doing if you want to generate requests for conducting peer review.
 
+Another way of getting noticed to to sign up to society training programmes for peer review. These might happen at conferences, or could be [web based courses](#onlinecourse). Although it should be noted that such courses may have little impact to improve peer review [@schroter2004effects]. You will need to register to conduct such training, with the result (sometimes) that your name will be entered into the editorial management software, together with your trained status. Some courses actually have 'live' mentors who read through and critique reviews that you conduct. All of these are a good idea, but be sure to check out the time commitment required before you start.
+
 Good reviews get noticed by editors, and it is a good way of increasing your network through soft power.
 
-## How to conduct peer review
+We will look in more detail about how to conduct peer review [later in this book](#howpeerreview).
 
-Most modern journals provide reviewers with a guideline for the expected to do. I encourage you to read the specific instructions that are given by journals on how to conduct peer review for them. There are also a number of excellent blogs to read about peer review (including this [one](https://peerj.com/blog/post/73296165864/how-to-become-good-at-peer-review/) and this [one](https://publons.com/blog/6-common-research-flaws-to-watch-out-for-in-peer-review/)). A systematic assessment of these requirements in biomedical journals has been undertaken by Glonti et al [-@glonti2019scoping]. This is worth reading for an overview on the different sorts of statements that peer reviewers come up with. You can see in this quantitative analysis that the overwhelming number of comments are those of skilled critics. This paper also makes it clear that the role of peer reviewer is often ambiguous and that reviews are not consistent in what they deliver.
+### What do peer reviewers get out of participation?
+Reviewers receive: 
 
-Essentially peer reviewers are tasked with determining whether or not the manuscript is credible. 
+ - the opportunity to increase their networks (particularly important for ECRs)
+ - participate in the generation of knowledge
+ - generate some soft power (especially if you renounce your anonymity)
+ - learn about new and upcoming literature
+ - give back to the community what they expect to receive (i.e. they are also authors and will benefit from peer review)
+ - learn about the inside of the peer review system (particularly important for ECRs)
+ 
+Note that what reviewers get out of participating in peer review is almost identical to editors. Editors benefit at a higher level, mostly as their names are seen more often by more people, but with the drawback that they do a lot more work than the peer reviewer.
 
+I have heard some members of the community claim that they will continue to accept peer review requests until these cover what they are demanding of the community (i.e. reviews offered per year = submissions per year x ~2.5). Although this sounds very fair, I would suggest that the reality is more subtle. You shouldn't be accepting to conduct peer reviews for articles where you feel that you lack specialist knowledge. Neither should you be conducting peer review when you feel that you have a conflict of interest. For me, this eliminates around a third of my invitations. 
 
-- Could the study be repeated?
-- Are the methods legitimate in order to produce the results provided. 
-- Are the results sufficient to respond to the hypothesis posed?
-- Can it be improved?
-- Is the content of the manuscript appropriate to the journal?
-- Does the experimental design contain sufficient controls?
-- Did the authors try and stretch the implications of their results beyond the credibility of the manuscript?
-
-Once you have conducted your peer review, you can log it [publons](https://publons.com/about/home/) in order to get credit later on. Publons also carries your publication output and citations (tied to Web of Science), so can be a useful way of keep track of your own productivity ([but see](impactfactor.html)).
-
-## The spirit of peer review {#spirit}
-At its heart a peer reviewer should be trying their best to improve the manuscript they read as much as they possibly can. This may simply represent an improvement in the way the text is worded. But it may also mean adding extra analyses or even experiments.
-
-As McPeek et al [-@mcpeek2009golden] put it, the golden rule of reviewing is to do unto others as you would have them do unto you. Baglini and Parsons [-@baglini2020if] provide some useful insight into how to remain neutral when making reviewer comments. Again, the emphasis is on being professional.
-
-## There are ethical considerations for reviewers
-- Reviews may not share manuscripts with other scientists unless specific permission is given by the editor.
-- Similarly reviews should not discuss the content of manuscripts that they are reviewing
-- Reviewers should not try to take the work presented in the manuscript and copy it for publication (i.e. do not steal the ideas).
-- Reviews should be conducted within a reasonable time frame. No reviewer should hold on to a manuscript especially if they have a vested interest (like a rival study) in not seeing it published. This should have been declared as conflict of interest.
-- Any other potential conflicts of interest, including those that might make you positively predisposed to the authors.
-- Be aware of their own prejudices and biases and not bring them through to the review process 
-- Whether or not to sign your review. Given the opportunity ~43% of reviewers will provide published open reviews [@wang2016open].
-
-In essence these ethical issues are overcome when reviewers conform to transparency. In order to facilitate transparency in peer review, Parker et al [-@parker2018empowering] have produced a checklist that I encourage you to use if and when you are asked to conduct a review. 
+If you do have to turn down the invitation of peer review, then do it as soon as possible, and do suggest someone else that you think could do it. 

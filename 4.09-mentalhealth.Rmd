@@ -1,0 +1,48 @@
+# Keeping track of your mental health {#mentalhealth}
+
+I have already published this chapter as part of a previous book for PhD students, but I have retained much of the content here as it is clear that mental health is also an important aspect for early career researchers. 
+
+Stress is a natural part of life and many people are at their most productive when they are under some degree of pressure, such as a deadline. Although deadlines don’t work for everyone. 
+
+Problems arise when we become overwhelmed by stress and are unable to fully respond. When this occurs productivity can drop off and survival responses can be triggered as if responding to an actual physical attack. These responses include fight, flight or freeze responses. Anxiety and panic can be triggered. In this state additional demands on your time may also push your life off balance, so that you start to neglect your personal wellbeing which can negatively impact on relationships, exercise regime, or even nutrition and personal hygiene. Some people can find that the additional stress can cause physical symptoms that may even need medical treatment. Your sense of competence and mastery can be negatively impacted such that you may even suffer from feelings of inadequacy or imposter syndrome. Impostor syndrome is an experience you have when you believe that you are not as competent as you think others perceive you to be. It is not uncommon in many professions, and especially prevalent in academia [@clance1978imposter]. This is now widely recognised and there are lots of useful shared experience out there to read [e.g. @dickerson2019how].
+
+
+Although there are not many studies on mental health for PhD students, those that exist (as well as surveys: [Nature 2019](https://www.nature.com/articles/d41586-019-03459-7)) all suggest that there is a significant toll, which is proportionately higher than for others in society [@levecque2017work]. Whatever your prior experience of stress in a working environment, academia is known to be particularly stressful, and as a PhD student you are likely to absorb a significant amount of this stress into your own life [@stubb2011balancing]. 
+
+The General Health Questionnaire (see GHQ-12 in Table \@ref(tab:GHQ)) is an instrument used to measure psychological distress. It is quick, reliable and simple to score, so you can use it at any time during your PhD studies as an indicator of whether you need to reach out to personal, occupational or professional support networks. 
+
+Right now, I suggest you complete the GHQ-12 (Table \@ref(tab:GHQ)) and record your answers as a baseline. Keep the scores somewhere safe. During the course of your PhD, if you feel that your scores may have changed, take the test again and compare them with your baseline scores. Although there are no hard rules, if three or more of your scores have moved by two or more points it could be worth discussing with your support network to help you decide whether or not to seek professional help.  
+
+Table: (\#tab:GHQ) A General Health Questionnaire with 12 questions (GHQ-12) that you can use to keep track of your mental health
+
+| General Health Questionnaire: Have you recently... | 0 | 1 | 2 | 3 |
+|-|-|-|-|-|
+| been feeling reasonably happy, all things considered? | Better than usual | Same as usual | Less than usual | Much less than usual |
+| lost much sleep over worry? | Not at all | No more than usual | More than usual | Much more than usual | 
+| been feeling unhappy and depressed? | Not at all | No more than usual | More than usual | Much more than usual |
+| felt you couldn’t overcome your difficulties? | Not at all | No more than usual | More than usual | Much more than usual |
+| felt under constant strain? | Not at all | No more than usual | More than usual | Much more than usual | 
+| felt capable of making decisions about things? | Better than usual | Same as usual | Less than usual | Much less than usual |
+| been able to face up to your problems? | Better than usual | Same as usual | Less than usual | Much less than usual | 
+| been thinking of yourself as a worthless person? | Not at all | No more than usual | More than usual | Much more than usual |
+| been losing confidence in yourself? | Not at all | No more than usual | More than usual | Much more than usual | 
+| been able to enjoy your normal day-to-day activities? | Better than usual | Same as usual | Less than usual | Much less than usual |
+| been able to concentrate on whatever you are doing? | Better than usual | Same as usual | Less than usual | Much less than usual |
+| felt that you are playing a useful part in things? | Better than usual | Same as usual | Less than usual | Much less than usual |
+
+  
+
+Even if you don't feel you need the support of your institution now, it is worth finding out how they can support your mental health in the future if needed. Although there has been some stigma attached to difficulties with mental health in the past, most institutions accept that pressures are mounting on postgraduate students and that they may require support. Most institutions have experienced councillors available to support you if needed. Importantly, you should realise that none of these symptoms are unusual and that there is a high probability that many of your colleagues may also be struggling. Knowing that your problems are shared and reaching out to support networks early is an excellent way to prevent them from escalating beyond your control. 
+
+A study into the mental health of PhD students in Belgium exemplifies the kinds of difficulties that they face when compared with other similar groups [@levecque2017work]. 
+
+(ref:Mental-health) **You are still high risk for mental health worries even after you've stopped being a student.** A comparison of the mental health of PhD students [data from @levecque2017work] with highly educated general population, highly educated employees and higher education students using the General Health Questionnaire. The Risk Ratio (RR: adjusted for age and gender) in PhD students in Flanders, Belgium is consistently higher (>1) when compared to any of the other surveyed groups.
+
+```{r Mental-health, echo=FALSE, out.width='80%', fig.cap="(ref:Mental-health)"}
+ knitr::include_graphics("figures/Mental-health.png")
+```
+
+
+No matter how well you think of your own abilities to cope with mental health issues, doing a PhD will cause you additional stress and can trigger maladaptive coping mechanisms. Learning how to cope with additional stress early in your career can be beneficial for future personal development.
+
+Academia is recognised as a particularly stressful environment; you will likely take on some of this environmental stress in addition to any stress associated with your studies. Additional stressors come from home and family situations. Your best means of coping will be to try and develop a support network and to understand where and with whom you can discuss any difficulties as they arise. Knowing who this is and how and when to approach them will put you in a stronger position if you need them in future.
