@@ -102,8 +102,11 @@ other-metrics
 how-to-increase-your-citations
 media-release
 social-media
+academic-social-media-sites
 popular-articles
 self
+citing-papers-submitted-and-in-press
+conference
 symposium
 traditional-media
 not-so-legitimate-ways-of-increasing-citations
@@ -155,7 +158,8 @@ step-5-current-contents
 step-6-society-journals
 step-7-transparency-credibility
 step-8-knowing-the-journal-from-the-inside
-step-9-financial-considerations-to-publishing
+step-9-is-there-a-specail-issue
+step-10-financial-considerations-to-publishing
 open-access
 page-charges
 fee-waiver
@@ -296,6 +300,7 @@ at-what-rate-is-the-literature-increasing
 if-more-is-being-published-will-impact-factors-increase
 retract
 corrigendum
+expression-of-concern
 a-retraction-is-unusual
 how-do-you-know-if-a-paper-you-cited-is-later-retracted
 notification-of-retraction
