@@ -2,7 +2,7 @@
 
 I am going to talk about academic bullying because it is currently prevalent in academia, and because most of the bullies are unaware of what they are doing. In a 2019 survey of graduate students (see [here](https://www.nature.com/articles/d41586-019-03459-7) Figure \@ref(fig:bully)), 22% felt that they had experienced bullying during their PhD program. The only way of improving the situation around academic bullying is for everyone to become more aware. It may not be happening to you, but it may be happening to people around you either in your lab or in another lab in the same department or faculty. If you think that this is very rare behaviour in academia, think again [@devlin2018hundreds].
 
-(ref:bully) Responses to a survey of graduate students (in 2019) demonstrates the changes in bullying propensity in different research cultures. 
+(ref:bully) **Do you feel that you have experienced bullying in your PhD program?** Responses to a survey of graduate students (in 2019) demonstrates the changes in bullying propensity in different research cultures. 
 
 ```{r bully, echo=FALSE, out.width = '95%', fig.cap="(ref:bully)"}
  knitr::include_graphics("figures/bully.png")
@@ -16,13 +16,13 @@ What you should ask yourself is if someone were to observe this behaviour from t
 ## What to do about bullying
 First, you need to find the rules that your institution has regarding bullying. If your institution has no rules, then they will need them and so helping them achieve this would be a good place to start [@mahmoudi2021filling]. No one wants to be the first case study, but there may need to be a first in order to set up a protocol. 
 
-Avoid the bully when asking for your institutional rules, but you should be able to find them via your departmental secretary, administrative support staff in the department or faculty. Read the documentation carefully and learn about how and by whom such reports are dealt with. Become aware of resources that are available; [paritymovement.org](https://paritymovement.org/) is a great place to start. Read more about other people’s experiences and be aware that you are not alone [@mahmoudi2020survivor, @malaga2004meyer].
+Avoid the bully when asking for your institutional rules, but you should be able to find them via your departmental secretary, administrative support staff in the department or faculty. Read the documentation carefully and learn about how and by whom such reports are dealt with. Become aware of resources that are available; [paritymovement.org](https://paritymovement.org/) is a great place to start. Read more about other people’s experiences and be aware that you are not alone [@mahmoudi2020survivor; @malaga2004meyer].
 
-Next, document your case. Make some notes about the incident(s), when they happened, what was said, how you were made to feel and what power you feel the person has over you.
+Next, document your case. Make some notes about the incident(s), when they happened, what was said, how you were made to feel, and what power you feel the person has over you.
 
 Share your burden with a trusted friend or colleague. It is worth sharing the incident with others to see what they think about your predicament. In the survey mentioned above, more than half of the respondents who said that they experienced bullying felt that they could not discuss their experience for fear of reprisals. However, you do not have to discuss it inside the workplace, and often it’s better to talk to people outside as the context is not so important in bullying. In your description, attempt to strip down the interaction into the component parts.
 
-Follow your university’s rules about who to go to with your complaint. Don’t leave it to the next person in your lab to experience, they may not be as strong or as resourceful as you. It may not be your career that is destroyed, but the next student might not be so lucky.
+Follow your university’s rules about who to go to with your complaint. Don’t leave it to the next person in your lab to experience, they may not be as strong or as resourceful as you. It may not be your career that is destroyed, and the next student might not be so lucky.
 
 ## What to do if the procedure against bullying at your institution doesn’t work?
 My worst experience of bullying happened when I was a PhD student. It happened to me, and I witnessed it happening to other members of my lab. It wasn’t hard to spot. Students would come out of my advisor’s office in tears, and recount horrific stories of how he had debased and humiliated them. At the time, our department had no specific code on bullying, but there was a complaints procedure which started with the head of department. Unfortunately, as my advisor was also the head of the department, I could not follow the procedure as it was supposed to be done. Instead, I went to the academic who was responsible for postgraduates. The first two times, that staff member simply went to the head of department (yes, my advisor) and I was called in both times and bullied some more: how dare I complain about him?

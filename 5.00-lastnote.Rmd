@@ -1,11 +1,11 @@
 # Last note {- #lastnote}
 
-I really hope that this book has been helpful and that it has achieved what I set out to do: provide you with the guide on how to publish in biological sciences. If you feel that this book has important items missing, out-of-date or simply wrong, then please [contribute](#contribute). Any good guide relies upon the people that use it to keep it viable. My special plea to those of you who are Early Career Scientists is to become part of the solution for shifting from the [closed to open models](#openscience) of scientific publishing. In doing so, you will make science more transparent, open and equitable. While there is much that is currently wrong in the system, the vast majority of the actors in it are working for the good of science. There are some simple steps to achieving this.
+I really hope that this book has been helpful and that it has achieved what I set out to do: provide you with the guide on how to publish in biological sciences. If you feel that this book has important items missing, is out-of-date or simply wrong, then please [contribute](#contribute). Any good guide relies upon the people that use it to keep it viable. My special plea to those of you who are Early Career Scientists is to become part of the solution for shifting from the [closed to open models](#openscience) of scientific publishing. In doing so, you will make science more transparent, open and equitable. While there is much that is currently wrong in the system, the vast majority of the actors in it are working for the good of science. There are some simple steps to achieving this.
 
 As scientists, we need to go back to our core concerns: **the scientific method, independence, transparency and reproducibility**. Join your disciplinary [academic society](#societies) and stand for election to a position where your voice will be heard. Join the [gatekeepers](#gatekeepers) of the society's journals (if you have time to read), and use your soft power to help bring about change.
 
-1. Make more use of archiving services: [preprints](preprints2.html), data and proposals
-1. Make use of independent peer review services: peer community in & peer commons
-1. Persuade your society to move to a [Diamond Access](#diamond) [overlay](#overlay) journal model
+1. Make more use of archiving services: [preprints](#preprints2), data and proposals
+1. Make use of independent peer review services: peer community in, and  peer commons
+1. Persuade your society to move to a [Diamond Open Access](#diamond) [overlay](#overlay) journal model
 
-If I could emphasise one really important aspect of all of your Early Career; that is to enjoy it! 
+If I could emphasise one really important aspect of all of your Early Career; that is to try to enjoy it! 

@@ -2,7 +2,7 @@
 
 # Now that your manuscript has been accepted {- #part3}
 
-This part of the book gives you some things that you might want to do after your paper is accepted for publication. Much of this chapter is concerned with publicising the results and content beyond academia and for non-academic audiences. Even if you feel that there would be no interest beyond your academic niche, it would still be worth making some effort to popularise your study. 
+This part of the book gives you information on some actions that you might want to do after your paper is accepted for publication. Much of this section is concerned with publicising the results and content beyond academia and for non-academic audiences. Even if you feel that there would be no interest beyond your academic niche, it would still be worth making some effort to publicise and popularise your study. 
 
 ## The Version of Record {#VoR}
 
@@ -17,6 +17,6 @@ If the publisher is a [Crossref](https://www.crossref.org/) member (most are), t
 
 ### What does having a VoR mean?
 
- - This means that if you wanted to make any changes to this first printed version (the VoR), you'd need to publish a separate [corrigendum](#corrigendum). 
- - The date of the VoR has an impact on primacy
-  + for example in taxonomy, if there are two descriptions of a species, the earliest one counts as the valid one.
+ - This means that if you wanted to make any changes to this first printed version (the VoR), you'd need to publish a separate [corrigendum](#corrigendum)
+ - The date of the VoR has an impact on [primacy](#whatjournalfor)
+  + in taxonomy, for example, if there are two descriptions of a species, the earliest one counts as the valid one
