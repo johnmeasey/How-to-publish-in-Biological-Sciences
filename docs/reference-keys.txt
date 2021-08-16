@@ -1,3 +1,4 @@
+tab:iris
 fig:publishing-triangle
 fig:open-science
 fig:culture-change
@@ -29,7 +30,7 @@ fig:bully
 closedtoopen
 three-fundamentals-of-publishing-in-biological-sciences
 gatekeepers
-how-easy-is-it-to-purge-the-publishers
+is-it-possible-to-purge-the-publishers
 peer-review
 impact-factor
 cite
@@ -175,10 +176,11 @@ no-impact-factor-journal-noif
 shortlist
 openaccess1
 closed
+gratis
 libre
 green
 bronze
-delayed-oa
+delayed
 gold
 hybrid-oa
 diamond
@@ -188,14 +190,6 @@ supplementary-information-and-data
 unsure-what-you-can-legally-do-with-a-published-paper
 submit
 a-typical-submmission-work-flow
-part-a---formatting-and-submitting
-part-b---editorial-assistant-andor-editor-check-the-manuscript
-part-c---associate-editor-takes-over
-part-d---reading-the-reviews
-part-e---revising-and-resubmitting-your-manuscript
-part-f---associate-editor-recommends-to-editor-in-chief
-part-g---acceptance
-rejected
 remember-that-peer-review-is-conducted-by-humans
 peerreview2
 what-are-peer-reviewers-asked-to-do
@@ -288,7 +282,7 @@ what-do-you-do-if-you-have-already-published-in-a-journal-that-others-consider-p
 paywall2
 why-dont-all-society-journals-do-without-publishers-and-go-open-access-independently
 money
-how-could-such-a-profitable-business-lead-to-making-a-loss
+loss
 what-about-academic-books
 what-will-it-take-to-break-the-vicious-cycle
 societies
@@ -321,6 +315,8 @@ how-to-spot-a-bully
 what-to-do-about-bullying
 what-to-do-if-the-procedure-against-bullying-at-your-institution-doesnt-work
 mentalhealth
+being-physically-active-improves-mental-wellbeing
+time-to-think
 habilitation
 habilitation-1
 doctor-of-science-dsc
