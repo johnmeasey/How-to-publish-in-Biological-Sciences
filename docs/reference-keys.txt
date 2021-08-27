@@ -1,4 +1,3 @@
-tab:iris
 fig:publishing-triangle
 fig:open-science
 fig:culture-change
@@ -15,6 +14,7 @@ fig:Paywall-graphic
 fig:Piwowar
 fig:Editorial-work-flow
 fig:atlmetric
+fig:impactstory
 tab:Bias
 fig:scavans
 fig:PhilTransRoySoc
@@ -74,7 +74,7 @@ letters
 editorials
 impactfactor
 from-a-simple-score-to-a-way-of-life
-year-impact-factor
+five-year-impact-factor
 what-can-you-do-if-you-publish-a-journal-with-high-if
 why-is-if-so-important
 increaseIF
@@ -97,6 +97,7 @@ g-index
 r-index
 a-index
 i10-index
+h-frac
 other-metrics
 increasingcitations
 media-release
@@ -195,7 +196,7 @@ peerreview2
 what-are-peer-reviewers-asked-to-do
 the-review
 reviewers-confidential-comments-to-the-editor
-reviewers-opinion-of-what-the-editorial-decision-should-be
+AKP
 what-do-good-reviews-look-like
 shit
 what-are-reviewers-not-asked-to-do
@@ -317,7 +318,11 @@ what-to-do-if-the-procedure-against-bullying-at-your-institution-doesnt-work
 mentalhealth
 being-physically-active-improves-mental-wellbeing
 time-to-think
+jobinacademia
+key-insights-if-you-want-a-career-in-academia
 habilitation
 habilitation-1
 doctor-of-science-dsc
 tenure
+leavingacademia
+key-insights-if-you-are-looking-for-a-career-outside-academia
