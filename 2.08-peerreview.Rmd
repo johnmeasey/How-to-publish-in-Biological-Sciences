@@ -5,7 +5,7 @@ Once your manuscript is submitted and has passed the initial rounds of checks (A
 It is widely acknowledged that peer reviews are [likely to be biased in some way](#problempeerreview), and so you should expect this of every review that you get. Try to look over these biases and aim to receive the wisdom that they likely also contain.
 
 ## What are peer reviewers asked to do?
-The peer review report consists of three major parts: the review, confidential comments to the editor, and the reviewer's opinion of what decision should be made. You will only have access to the first of these three. Understanding peer review is greatly aided by conducting peer review, which is covered by a section in [Part 4](#howpeerreview). Reading about [how to conduct peer review](#howpeerreview) may help with your interpretation of the reviews that you receive.
+The peer review report consists of three major parts: the review, confidential comments to the editor, and the reviewer's opinion of what decision should be made. You will only have access to the first of these three. Understanding peer review is greatly aided by conducting peer review, which is covered by a section in [Part IV](#howpeerreview). Reading about [how to conduct peer review](#howpeerreview) may help with your interpretation of the reviews that you receive.
 
 ### The review
 Peer reviewers should sum up the manuscripts in their own words to demonstrate that they have understood the contents. This is important because being able to summarise what you have read demonstrates the reviewer’s comprehension. If the reviewer gets this summary wrong, then it is either a flag to the editor that they lacked the necessary comprehension to make their review meaningful. Or, because there are two sides to comprehension, a flag to the authors that they failed to write their manuscript in a way that made it easy for the reader to comprehend. 
@@ -15,8 +15,10 @@ The reviewer should then provide a general critique including positive and any n
 ### Reviewer's confidential comments to the editor
 The reviewers are provided with a box where they can write to the editor without text being seen by the authors. It is worth bearing in mind that the editor can act on these (unseen) comments. I'm not a big fan of confidential comments but sometimes they are warranted. Many reviewers avoid making comments in these boxes, in accordance with trends for [transparency](#transparent). 
 
-### Reviewer's opinion of what the editorial decision should be
-In many journals, the reviews are directly asked whether the manuscript should be rejected and resubmitted major or minor revisions. Personally I don't think that reviewers should be asked these questions as this is a decision for the editor after having read the reviewers comments and the manuscript.
+### Reviewer's opinion and the editorial decision {#AKP}
+In many journals, the reviewers are directly asked whether the manuscript should be rejected or resubmitted (major or minor revisions). This opinion is given in a set of 'radio buttons' in the editorial management software. Depending on the journal, a number of additional qualitative questions are asked of reviewers that may be pivotal to the progress of a manuscript. These questions are set by the gatekeepers for the journal in question, and may ask whether the manuscript is worthy of publication in that journal, in the top 5% of important findings, or similar. Bornmann and Marx [-@bornmann2012anna] found that some journals require that all reviewers respond with a positive criterion on these questions, or the manuscript will not be considered further. They term this the 'Anna Karenina Principle' (AKP) of peer review because it requires 'positive selection' on all criteria, whereas previously papers were selected by meeting minimum standards; 'negative selection', which is now the overriding principle for '[no impact factor](#noIF)' journals.
+
+Unless you know someone who can tell you the editorial practice of the journal you submitted to, you will not know whether or not your manuscript has been judged on the answers to these questions. However, if you receive all positive reviews and a rejection, it may well be that one or more of the positive reviewers did not select a criterion high enough on one of these questions. Personally, I don't think that reviewers should be asked these subjective questions, as this potentially trivialises decision making for gatekeepers. [Editors must read](#editors) the manuscript and all reviewer comments in order to reach decisions. Certainly, all journals need to provide [transparent criteria](#transparent) for selection of manuscripts, without which the black box nature via AKP workings of peer review will only perpetuate.
 
 ## What do good reviews look like?
 Good reviews are those where authors improve their manuscript. It may be that the good review doesn't immediately show the way on the first reading (although clearly the best ones should), but it may be that the authors require some work rethinking their manuscript before they understand the comments of a reviewer. I would say that usually on first reading, even a good review might not sound that good. 
@@ -42,7 +44,7 @@ I would say that it is up to you as an author to decide whether the suggestions 
 Sadly, this is something that a lot of peer reviewers do, and are part of a suite of not so legitimate ways in which people [manipulate citations](#notlegitimate). The reviewers’ own work can be cited, but only when relevant, and the authors should be able to choose whether or not they want to make any additional citations.
 
 ### Tell them to cite other papers from the journal
-This also happens [see section on Impact Factor](#impactfactor) often at the request of the editor.
+This also happens [see section on Impact Factor](#increaseIF) often at the request of the editor. It is part of IF manipulation, and you should not act on this.
 
 ### Justify comments with their own beliefs and opinions 
 Peer review should always be an objective critique of a manuscript. It's not really the place of the reviewer to express their opinion or their beliefs about a particular study that they are reviewing. Watch out for statements that begin with "I believe..." or "In my opinion...".
@@ -58,4 +60,3 @@ Some manuscripts are cross-cutting across several subjects or may contain analys
 Is often thought that peer review provides only negative criticism [see @eve2021reading]. This should not be the case as peer reviewers should also be able to accentuate the positive aspects of manuscripts that they read. Even if a manuscript is not considered publishable the positive attributes should be bought the attention of the editors as well as those that are negative.
 
 It is important for authors to understand what aspects of their manuscript are good. This kind of feedback from peer review will likely influence future versions of this manuscript as well as future studies from these research groups.
-

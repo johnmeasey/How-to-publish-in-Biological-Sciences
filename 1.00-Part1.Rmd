@@ -1,6 +1,6 @@
 \mainmatter
 
-# (PART) Part 1: Getting ready for submission {-}
+# (PART) Part I: Getting ready for submission {-}
 
 # Submitting your work to a journal {- #part1}
 

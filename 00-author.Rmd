@@ -24,7 +24,7 @@ One of the amazing potentials for [bookdown books](https://bookdown.org/) is tha
 **[How to write a PhD in Biological Sciences: a guide for the uninitiated](http://www.howtowriteaphd.org/)** by John Measey 
 
 ```{r fig.align='left', out.width = '45%', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='http://www.howtowriteaphd.org'}
-knitr::include_graphics('figures/cover.jpg', dpi = NA)
+knitr::include_graphics('figures/Cover1.jpg', dpi = NA)
 ```
 
 Embarking on a PhD is intimidating as, for most students, it will be their first experience working within the academic system. The voyage of discovery is often made very frustrating as much of what goes on in academia is assumed knowledge. Academics accumulate knowledge throughout their careers, but what can be done for those who are uninitiated? What is needed is a guide that postgraduate students can refer to before, during and while making decisions about their time within academia. Note that this is not a rulebook. There are times when the guide will be accurate and others when it will be vague, but providing some insight to point you in directions where you can explore more. The intention then is to provide you with a starting point from which you can establish your confidence in the academic writing process, and build your own creativity.
@@ -36,9 +36,3 @@ Embarking on a PhD is intimidating as, for most students, it will be their first
 
 Although I have tried to make the information is this book as accurate as possible, it is provided without any warranty. The author and publisher have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this book.
 
-```{r iris}
-knitr::kable(
-  head(iris), caption = 'We must have the iris data and some R code, otherwise it would not seem right',
-  booktabs = TRUE
-)
-```

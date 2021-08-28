@@ -17,10 +17,10 @@ Once accepted, metadata about your manuscript lies at the heart of the ability f
 
 ## A typical submmission work-flow
 
-The Parts A to G (below) all refer back to letters in circles in Figure \@ref(fig:Editorial-work-flow). Remember that most of the actions described below are also the subject of later sections in [Parts 2](#part2) [and 3](#part3) of this book.
+The steps A to G (below) all refer back to letters in circles in Figure \@ref(fig:Editorial-work-flow). Remember that most of the actions described below are also the subject of later sections in [Parts II](#part2) [and III](#part3) of this book.
 
 
-### Part A - formatting and submitting
+**A - formatting and submitting**
 
  - Targeting journals for submission: there are a lot of journals out there, and you need to make sure that you are submitting your paper to a journal in the right subject area ([there is a detailed chapter on this subject](#whichjournal)). Remember to keep your ordered list of journals that you prepare so that you can refer back to this in the case of [rejection](#rejection).
  - Prepare your manuscript according to the journal guidelines: this may require a lot of work especially if the journal requires full formatting on first submission. Some journals require additional items such as graphical abstracts, so make sure that you know what is needed before you start to submit. A checklist to run through before submission is [available here](#formatting), to which you should add any journal checklist from their instructions to authors. Circulate this final version among your co-authors. This is a good time to gather the needed meta-data for submission. 
@@ -28,26 +28,26 @@ The Parts A to G (below) all refer back to letters in circles in Figure \@ref(fi
  - For the purposes of this section, I am assuming that you are the corresponding author. This is something that you should learn to do. Being the corresponding author carries some extra duties as they are responsible for making sure that all the other authors are in agreement about the contents of the paper before submission. They are responsible for gathering all of the necessary information about each of the authors on the title page. 
  - Uploading your manuscript to the editorial management software requires time and preparation. Give yourself a good couple of hours for this process, and be aware that it can be frustrating. Friday afternoon might not be the best time. You may well need to refer back to your co-authors if you don’t have their relevant information. As corresponding author, it is courteous at this point to send a copy of the submitted version (usually the journal provides a pdf of the submission) to all of the other authors for their records. 
 
-### Part B - Editorial assistant and/or editor check the manuscript
+**B - Editorial assistant and/or editor check the manuscript**
 
  - Once submitted to the system, your manuscript is usually checked. In bigger journals, this will often be done by an editorial assistant, while in smaller journals, the editor-in-chief may be responsible for moving all manuscripts.  before being passed to the editor. You may get it sent back if the meta-data is wrong. 
  - Once the editor (often Editor-in-Chief) has your manuscript, they will decide which Associate Editor (AE) will handle it. 
 
-### Part C - Associate Editor takes over
+**C - Associate Editor takes over**
 
- - The AE [should read the manuscript](#editors) and may [desk reject](#desk) it if they feel that it won’t make it through review. An AE [rejection](#rejection) isn’t great news as AEs don’t always have the best experience in knowing what will and what won’t make it through the review process. The editor usually has more experience. Hopefully, this won’t have taken long ([1-2 weeks](#timetaken)) and so won’t be very painful. This rejection may be fair or unfair, but it’s done and there’s nothing much you can do except return to Part A (above), but see [later sections](#rejection).
+ - The AE [should read the manuscript](#editors) and may [desk reject](#desk) it if they feel that it won’t make it through review. An AE [rejection](#rejection) isn’t great news as AEs don’t always have the best experience in knowing what will and what won’t make it through the review process. The editor usually has more experience. Hopefully, this won’t have taken long ([1-2 weeks](#timetaken)) and so won’t be very painful. This rejection may be fair or unfair, but it’s done and there’s nothing much you can do except return to  **A** (above), but see [later sections](#rejection).
  - Normally, your manuscript will be sent out to review and you can expect to wait 4-6 weeks (good), but sometimes [up to 3 months](#timetaken), for a decision. If it’s away for over 3 months, you should definitely make a query on the editorial management system. Unsurprisingly, authors feel more unhappy with the review results the longer the process takes [@jiang2021understanding]. 
 
 
-### Part D - Reading the reviews
+**D - Reading the reviews**
 
  - Once back from review, you’ll get an email from the editorial management system with the decision.
  - __Reject and resubmit:__ This is a category that means you need major revision, but the journal doesn’t want the time that it takes to do this on their journal processing statistics. In many journals, this result has replaced ‘major revision’. Back to step 3 with a track changes manuscript and response letter to reviewer comments.
  - __Major revision:__ essentially the same as 6b. Both 6b and 6c result in your manuscript being reviewed again. You’ll need to carefully prepare both the manuscript and the response to reviewers as the reviewers will see both. Back to step 3 with a response letter.
- - __Minor revision:__ is unusual at this stage, but your manuscript should now only be assessed by the AE, so you should address your responses to them.
- - __Accept without revision:__ is practically unheard of. Possibly, your manuscript has already undergone some peer review (maybe as a preprint or in another journal). However, if you get this result after the first round of peer review, it's time to eat cake.
+ - __Minor revision:__ is unusual after the first round of review, so if you get this decision first time it's something to celebrate. You may have already done one (or more) rounds of Major revision before you get here. After addressing the Minor revisions, your manuscript should now only be assessed by the AE, so you should address your responses to them.
+ - __Accept without further revision:__ is practically unheard of on first submission. Your manuscript may have already undergone some peer review (maybe as a preprint or in another journal), or in previous rounds of review. This decision is likely a recommendation from the AE to the Editor-in-Chief. 
 
-### Part E - Revising and resubmitting your manuscript
+**E - Revising and resubmitting your manuscript**
 
  - If you are resubmitting, aim to prioritise this to get it done in 2 to 3 weeks if possible. 
   + The reason is that the same reviewers are likely to be willing to look at your manuscript again within a month, and will remember all the points that they made. Similarly, the AE will remember all of the issues that they had. It’s hard to stress how valuable this is, as keeping it all fresh will result in a swift response.
@@ -56,23 +56,23 @@ The Parts A to G (below) all refer back to letters in circles in Figure \@ref(fi
   - In either case, your [rebuttal](#rebuttal) letter will be a very important part of your resubmission, and this will be covered in a [later section](#rebuttal). 
   
   
-### Part F - Associate Editor recommends to Editor-in-Chief
+**F - Associate Editor recommends to Editor-in-Chief**
 
 - When the AE is happy with all of your Minor Revisions, they will make a recommendation to the Editor-in-Chief. The Editor-in-Chief may have some extra revisions that they would like to see, but these will likely be minor. 
 - It is unlikely that the Editor-in-Chief would disagree with the acceptance of any paper that an AE has signed off on. 
 - It is worth bearing in mind that the Editor-in-Chief does have the final say on whether or not your manusctipt can be accepted to the journal.
 
 
-### Part G - acceptance
+**G - acceptance**
 
-- Hopefully your manuscript will now be accepted, and you are entering the last stages of the process. Your accepted manuscript should be sent to the publishers for typesetting, and you can get the proofs back very quickly (for some publishers). Most demand that the proofs are returned very quickly (often within 48 hours), and you should try to prioritise this if you can. If you can, please also send it to the co-authors. The more eyes the better at this stage for spotting errors. Don’t expect to be able to change a lot in the proof process, it’s really just for catching errors. Carefully check all figures, tables and legends. It’s not unknown that typesetters cause problems when they make proofs (tables can be disasters). A detailed section is provided in [Part 3](#accepted) on what to do once your manuscript is accepted.
-- If you (or a co-author) spot a fundamental error with your data or analyses at this point (or any of the other steps above), you should discuss it with all co-authors and decide what to do. It’s better to withdraw the manuscript now than to have to retract it later ([see part 4](#retract)).
+- Hopefully your manuscript will now be accepted, and you are entering the last stages of the process. Your accepted manuscript should be sent to the publishers for typesetting, and you can get the proofs back very quickly (for some publishers). Most demand that the proofs are returned very quickly (often within 48 hours), and you should try to prioritise this if you can. If you can, please also send it to the co-authors. The more eyes the better at this stage for spotting errors. Don’t expect to be able to change a lot in the proof process, it’s really just for catching errors. Carefully check all figures, tables and legends. It’s not unknown that typesetters cause problems when they make proofs (tables can be disasters). A detailed section is provided in [Part III](#accepted) on what to do once your manuscript is accepted.
+- If you (or a co-author) spot a fundamental error with your data or analyses at this point (or any of the other steps above), you should discuss it with all co-authors and decide what to do. It’s better to withdraw the manuscript now than to have to retract it later ([see part IV](#retract)).
 
 
-### Rejected
+**Rejected**
 
 - If your manuscript is [Rejected](#rejection), take the comments of the reviewers on board. Think about it for a couple of days, and then set about revising the manuscript. However unfair you think the reviewers have been, there should be some important messages for you to consider carefully and discuss among the co-authors before going back to step 2 with the next journal on your list. More information to reflect on regarding a rejection is provided in a [later section](#rejection).
 
-## Remember that peer review is conducted by humans
+### Remember that peer review is conducted by humans
 
 The peer review process is not ideal, but it is worth remembering that it’s there to help improve your manuscript. The most prominent problems involve the [time](#timetaken) that the editorial team take to find reviewers and have them agree to complete reviews in a [timely manor](#timetaken). In Figure \@ref(fig:Editorial-work-flow), only four of the arrows are in the control of the authors, while at least 16 are within the editorial management process. Each one could be the source of your manuscript getting stuck. Throughout the process, you should be able to track the progress of your manuscript using the editorial management software online. More information on delays in the handling of manuscripts is provided in a [later section](#timetaken).

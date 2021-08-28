@@ -1,6 +1,6 @@
 # How to conduct peer review {#howpeerreview}
 
-Here I will assume that you have been given a peer review assignment. If you aren't getting asked to do any reviews, there are some suggestions in [Part 1](#reviewit).
+Here I will assume that you have been given a peer review assignment. If you aren't getting asked to do any reviews, there are some suggestions on how to get started in [Part I](#reviewit).
 
 Most modern journals provide reviewers with a guideline for the expected to do. I encourage you to read the specific instructions that are given by journals on how to conduct peer review for them. There are also a number of excellent blogs to read about peer review [including this on @raff2013how]. A systematic assessment of these requirements in biomedical journals has been undertaken by Glonti et al. [-@glonti2019scoping] and Eve et al. [-@eve2021reading]. These accounts are worth dipping into for an overview on the different sorts of statements that peer reviewers come up with. You can see, in this quantitative analysis of Eve et al. [-@eve2021reading], that the overwhelming number of comments are those of skilled critics. This paper also makes it clear that the role of peer reviewer is often ambiguous and that reviews are not consistent in what they deliver.
 
@@ -14,10 +14,10 @@ Essentially peer reviewers are tasked with determining whether or not the manusc
 - Does the experimental design contain sufficient controls?
 - Did the authors try and stretch the implications of their results beyond the credibility of the manuscript?
 
-Once you have conducted your peer review, you can log it [publons](https://publons.com) in order to get credit later on. Publons also carries your publication output and citations (tied to Web of Science), so can be a useful way of keep track of your own productivity ([but see this section on Impact Factor](#impactfactor)).
+Once you have conducted your peer review, you can log it [publons](https://publons.com) in order to get credit later on. Publons also carries your publication output and citations (tied to Web of Science), so can be a useful way of keep track of your own productivity for reporting purposes ([but see this section on Impact Factor](#impactfactor)).
 
 ## Novelty or repeatability?
-At the heart of scientific enquiry is that studies done should be repeatable, with the presumption that if they have been done in the same way they should acheive the same results [given the bounds of significance testing - see @forstmeier2017detecting]. Hence, you must examine and report on whether or not the study's materials and methods are sufficient for someone else to repeat the study. This appears to be surprisingly rare in peer review [at ~4% according to @eve2021reading] For some [no impact journals](#noif), this technical soundness will be enough to allow them to pass peer review.
+At the heart of scientific enquiry is that studies done should be repeatable, with the presumption that if they have been done in the same way they should achieve the same results [given the bounds of significance testing - see @forstmeier2017detecting]. Hence, you must examine and report on whether or not the study's materials and methods are sufficient for someone else to repeat the study. This appears to be surprisingly rare in peer review [at ~4% according to @eve2021reading] For some [no impact journals](#noif), this technical soundness will be enough to allow them to pass peer review.
 
 Many journals that aspire to increase their [Impact Factor](#impactfactor), ask for a comment on how novel the study is. This is a somewhat subjective question, as individuals have biased opinions of what constitutes something novel, noteworthy, of significance or of relevance to the audience of a particular journal. Hence, this is really going to be a point that you can decide based on your own understanding of the literature (remembering that you have been chosen because your opinion counts). 
 
@@ -65,7 +65,7 @@ Your job as a reviewer will be to remain objective about the manuscript that you
 
 Psychologists have argued that as humans we cannot be expected to be rational, and that we are not particularly good at being objective. But this doesn't mean that we shouldn't try, and it also means that by being aware of the [potential problems in peer review](#problempeerreview), we are in a better position to learn how to avoid them. 
 
-**Write every review as if it will be public.** Ask yourself whether every statement that you make can be backed up either by other references in the literature, or with line numbers corresponding to erroneous logic on the part of the authors. Although this strategy is not guaranteed to produce an unbiased review, it will be an intellectually honest way to approach the manuscript.
+**Write every review as if it will be public.** Ask yourself whether every statement that you make can be backed up either by other references in the literature, or with line numbers corresponding to erroneous logic on the part of the authors. Although this strategy is not guaranteed to produce an unbiased review, it will be an intellectually honest way to approach the manuscript. If you have the choice, then do make your review public to hold with the Open Communication ethos of [Open Science](#openscience).
 
 ## Remember to accentuate the positive
 Peer review is often thought of as being brutal, where anonymous reviewers have the opportunity to vent their darkest thoughts. Certainly, there are plenty of reviewers who are unprofessional in what they say [@eve2021reading; @hyland2020this]. When conducting peer review, you have the opportunity to be one of the goodies. You can point out where the authors have done due diligence, in their experimental design, reporting, analyses, etc. This is likely to benefit the authors far more than pointing out only the problems - especially those that cannot be fixed. 
@@ -76,7 +76,7 @@ Quite simply, you need to write enough until you have reviewed the manuscript. T
 If you submit your review to a service like [publons](https://publons.com), you can compare the lengths of your reviews get charted against those of the 'average reviewer', and I would suggest that you should aim to keep your reviews above average length when the extra words are used to help the authors. There's no point in just writing extra words to increase your character count!
 
 ## What to do if you suspect fraud?
-The [Committee on Publication Ethics](https://publicationethics.org/) (COPE) has published some useful flowcharts to guide reviewers who suspect fraud in manuscripts they are reading. A list of these is provided [in Part 4](#fraud).
+The [Committee on Publication Ethics](https://publicationethics.org/) (COPE) has published some useful flowcharts to guide reviewers who suspect fraud in manuscripts they are reading. A list of these is provided [in Part IV](#fraud).
 
 ## Further help with conducting peer review {#onlinecourse}
 A number of publishers and academic institutes have provided online resources to help train those undertaking peer review. I provide links to some of these here: 

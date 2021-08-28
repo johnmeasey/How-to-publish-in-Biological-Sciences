@@ -2,7 +2,7 @@
 
 ## What are Preprints?
 
-So far in this book, I have explained about the process of [peer review](#peerreview) how important this is and later I explain why it's the [silver](#fixing) (and not gold) standard in science. Preprints came to us from the world of physics. An academic world that is moving so quickly that many inside it don't want to wait for peer review before making their work public. They date back to 1991, and were the brainchild of Paul Ginsparg with his preprint server, arXiv. Today, arXiv hosts nearly 2 million articles in 8 subject areas: Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science and Economics. 
+So far in this book, I have explained about the process of [peer review](#peerreview) how important this is and later I explain why it's the [silver](#fixing) (and not gold) standard in science. Preprints came to us from the world of physics. An academic world that is moving so quickly that many inside it don't want to wait for peer review before making their work public. They date back to 1991, and were the brainchild of Paul Ginsparg with his preprint server, *arXiv*. Today, *arXiv* hosts nearly 2 million articles in 8 subject areas: Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science and Economics.
 
 In addition to making your work open access, it allows anyone to read and review it. This is unlike the traditional publishing model where editors invite selected reviewers. Many consider preprints as a kind of open peer-review system. 
 
@@ -14,7 +14,7 @@ In biological sciences the most prominent preprint server is called [bioRxiv](ht
 
 ## Who posts preprints on bioRxiv? {#bioRxiv}
 
-In an analysis by Abdill and Blekhman [-@abdill2019tracking] back in 2018, there were 37648 preprints uploaded to bioRxiv. But in the world of preprints, this information is quite dated as back then there were only ~2000 uploads each month. Luckily, these same authors regularly scrape data regarding submissions to bioRxiv and I'm able to reproduce these live data below. It is interesting to look back at the concern back in 2015 that preprint servers like bioRxiv might not catch on in the biological sciences [@vale2015accelerating], and it is still true to say that the number of preprints in the life sciences is still dwarfed by the annual number of publications, whereas physics has seen the opposite trend. 
+In an analysis by Abdill and Blekhman [-@abdill2019tracking] back in 2018, there were 37648 preprints uploaded to *bioRxiv*. But in the world of preprints, this information is quite dated as back then there were only \~2000 uploads each month. Luckily, these same authors regularly scrape data regarding submissions to *bioRxiv* and I'm able to reproduce these live data below. It is interesting to look back at the concern back in 2015 that preprint servers like *bioRxiv* might not catch on in the biological sciences [@vale2015accelerating], and it is still true to say that the number of preprints in the life sciences is still dwarfed by the annual number of publications, whereas physics has seen the opposite trend. 
 
 (ref:bioRxiv-line-annotated) **The growth of bioRxiv submissions in time.** Note how the rate of submission rocketed at the beginning of the pandemic lockdown, and has remained high ever since. 
 
@@ -60,14 +60,14 @@ If you choose to publish in an [overlay journal](#overlay), then you'll have to 
 
 ## Could these comments pages really replace peer review?
 
-Peer review is held as a gold standard in scientific publishing (although a [silver standard](#fixing) would be a more realistic), and there’s certainly a lot to that. It ensures that published material has been read and its contents assessed independently. But peer review is fallible, because scientists are all humans. These problems are discussed at length in [Part IV](#problempeerreview).
+Peer review is often regarded as a gold standard in scientific publishing (although a [silver standard](#fixing) would be a more realistic), and there’s certainly a lot to that. It ensures that published material has been read and its contents assessed independently. But peer review is fallible, because scientists are all humans. These problems are discussed at length in [Part IV](#problempeerreview).
 
 In 2003, Stefano Mizzaro proposed changing peer review to the format that we now see in preprint journals. Let every reader become a reviewer. Another take on this same theme is provided by Heesen and Bright [-@heesen2020peer] who argue for a more subtle change in the date of publication (prior to peer review as seen in preprints) instead of after peer review. Here their emphasis is on removing the wasted time spent reviewing and then rejecting manuscripts that will never be published. Their discourse is very persuasive, yet given that both models currently exist, we need more ideas on how we could drive a preprint model forwards. More ideas do exist, and I encourage you to explore those proposed in a special issue edited by Kriegeskorte et al. [-@kriegeskorte2012emerging].
 
 In the preprint model, [several peer review problems](#problempeerreview) might be overcome as no-one chooses the reviewers. Instead they choose themselves, and are motivated to do the work. Their competence to cover all aspects of the manuscript is not assured, but one assumes that independently motivated reviewers will only comment on parts that they are able to assess.
 
 All of this is very good, but will people actually read and comment?
-A quick look at the sites will tell you a lot about the level of reviewing that is currently going on in biosciences preprints. Looking at the top 10 articles on BioRxiv (zoology section) confirmed my suspicions. Plenty of tweets about the articles, but none of them had any comments, let alone reviews. Indeed, a further trawl through PeerJ Preprints, also found no comments. 
+A quick look at the sites will tell you a lot about the level of reviewing that is currently going on in biosciences preprints. Looking at the top 10 articles on _BioRxiv_ (zoology section) confirmed my suspicions. Plenty of tweets about the articles, but none of them had any comments, let alone reviews. Indeed, a further trawl through PeerJ Preprints, also found no comments. 
 
 When reviewers aren't chosen, there's potential for manipulation. This could promote a culture for comments to preprints for well known labs, and (conceivably) a certain amount of trolling for labs with ongoing disputes or rivalries. This would make preprint peer review a sort of trial by popularity. But I don’t see a situation where potential reviewers will take time-out once a week (for example) and hunt for manuscripts that have received no comments. It seems far more likely that the authors will have reciprocal agreements with other groups to review each other’s manuscripts. This nepotistic tendency then puts us back into the area of [problems in peer review](#problempeerreview) that we’ve been working hard to overcome now for sometime. 
 
@@ -128,6 +128,8 @@ As this has already happened (for the journal _Discrete Analysis_), it would be 
 
 One of the original electronic journals, [Journal of Medical Internet Research (JMIR)](https://www.jmir.org/), announced in 2019 that it will launch an overlay journal covering biology, a so called 'superjournal', JMIRx [@eysenbach2019celebrating]. This overlay journal operates by editors choosing preprints that they want to publish ('editorial prospecting'), and then approaching authors and reviewers, and also by authors pitching their preprints to the editors. Today [JMIRx|Bio](https://bio.jmirx.org/) accepts any preprint published on [bioRxiv](#bioRxiv). Although JMRIx|Bio, and sister journal [JMRIx|Psy](https://psy.jmirx.org/), were launched in 2020, I cannot find any articles submitted (by mid-2021). The sister journal [JMIRx|Med](https://med.jmirx.org/), launched at the same time and in the same area as other JMIR journals, and has a rapidly expanding publication base.
 
+Another preprint led service is _F1000Research_ (f1000research.com), which grew (via a buy out by Taylor & Francis) from the peer recommendation site Faculty Opinions (facultyopinions.com). _F1000Research_ requires preprint submission on their server, and then co-ordinates postprint peer review which is all accessible online in the same location. Like other [Gold OA](#gold) journals, _F1000Research_ charges an impressive Article Processing Charge, and does not aspire to an [Impact Factor](#noIF).
+
 There's an excellent tie-in here with [transparency](#transparency). Because preprints are [Diamond OA](#diamond), and reviews are OA, the process is all transparent. 
 
 A nearly 'overlay' model is [Peer Community in Evolutionary Biology](https://evolbiol.peercommunityin.org/), launched in January 2017. This comes very close to the 'arXiv Overlay Journal' model described above. These preprints are submitted to PCI-Evol Biol, and are reviewed and (if they aren't rejected), a recommendation is given. The site then publishes the recommendation from peers as well as pointing to the preprint. However, unlike _Discrete Analysis_, the preprint remains 'unpublished' despite the peer review and can then be taken onto a traditional journal. There is a  growing [list of journals](https://evolbiol.peercommunityin.org/about/about) whose editors will accept recommendations from PCI-EvolBiol, and may use the reviews when appropriate. However, it's also worth noting that there are a small number of journals that will not accept preprints recommended by PCI-EvolBiol. While Peer Community in Evolutionary Biology does not publish their peer reviewed articles, another initiative from Peer Community In takes a step backwards to get a step closer ([see below](#commitment)). 
@@ -172,7 +174,7 @@ Here are some reasons for and against submitting your manuscript as a preprint:
 - This is the only submission route for 'Overlay Journals'
   + [PCI-Evol Biol](##PCI-EvolBiol) in Biological Sciences
   + [JMIRx|Bio](https://bio.jmirx.org/) accepts any preprint published on [bioRxiv](#bioRxiv) since 2020
-- This is the only submission route for some other journals [e.g. eLife @eisen2020implementing]
+- This is the only submission route for some other journals [e.g. _eLife_ @eisen2020implementing]
 
 ### Against:
 

@@ -1,0 +1,303 @@
+\contentsline {fm}{List of Tables}{xv}{chapter*.1}%
+\contentsline {fm}{List of Figures}{xvii}{chapter*.2}%
+\contentsline {fm}{Under Contract}{xxiii}{chapter*.3}%
+\contentsline {fm}{Welcome}{xxv}{chapter*.4}%
+\contentsline {fm}{About the Author}{xxxi}{chapter*.10}%
+\contentsline {part}{I\hspace {1em}Part I: Getting ready for submission}{1}{part.1}%
+\contentsline {fm}{Submitting your work to a journal}{3}{chapter*.16}%
+\contentsline {chapter}{\numberline {1}The transition from closed to open}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Three fundamentals of publishing in Biological Sciences}{5}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Gatekeepers}{6}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Is it possible to purge the publishers?}{6}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Peer review}{8}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Impact factor}{9}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Citations}{9}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Open Science - a vision of the future}{9}{section.1.5}%
+\contentsline {chapter}{\numberline {2}What is a scientific journal for?}{13}{chapter.2}%
+\contentsline {chapter}{\numberline {3}What is peer review?}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}History of peer review}{16}{section.3.1}%
+\contentsline {section}{\numberline {3.2}How high is the peer review bar?}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Who are your peers?}{17}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Professionals}{17}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Scholars}{17}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Specialists}{17}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}The role of the editor}{18}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Who are the Gatekeepers (Advisory \& Editorial Boards)}{18}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Reviewer models}{21}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Blind reviewers}{21}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Double blind reviewers}{23}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Triple blind reviewers}{23}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Open reviewers}{23}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}Public reviewers}{23}{subsection.3.6.5}%
+\contentsline {section}{\numberline {3.7}Learn more about peer review by doing it}{24}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}What do peer reviewers get out of participation?}{25}{subsection.3.7.1}%
+\contentsline {chapter}{\numberline {4}Transparency in publishing}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Removing the prejudice around confirmatory bias}{27}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Accepting the alternative hypothesis}{28}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Inadvertent bias}{28}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Novel research}{29}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Introducing transparency in peer review}{30}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Removing profit from academic publishing}{30}{section.4.3}%
+\contentsline {chapter}{\numberline {5}What can you publish?}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Standard articles}{33}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Reviews}{34}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Commentaries or Opinion pieces}{34}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Letters}{36}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Editorials}{36}{section.5.5}%
+\contentsline {chapter}{\numberline {6}What is Impact Factor, and why is it so important?}{39}{chapter.6}%
+\contentsline {section}{\numberline {6.1}From a simple score to a way of life}{40}{section.6.1}%
+\contentsline {section}{\numberline {6.2}5 Year Impact Factor}{41}{section.6.2}%
+\contentsline {section}{\numberline {6.3}What can you do if you publish a journal with high IF?}{41}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Why is IF so important?}{42}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Editors try to increase IF}{42}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Negotiating your IF}{43}{subsection.6.5.1}%
+\contentsline {section}{\numberline {6.6}Push back against IF}{44}{section.6.6}%
+\contentsline {chapter}{\numberline {7}When should you be an author?}{45}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Ghost authorship}{45}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Paper mills}{46}{subsection.7.1.1}%
+\contentsline {section}{\numberline {7.2}Honorary authorship}{46}{section.7.2}%
+\contentsline {section}{\numberline {7.3}A need for transparency - DORA}{47}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Who should be an author?}{48}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Rescognito, ORCID and the CRediT Contributor Checklist}{48}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}If you suspect irregularities in authorship}{49}{subsection.7.4.2}%
+\contentsline {chapter}{\numberline {8}Citations and metrics}{51}{chapter.8}%
+\contentsline {section}{\numberline {8.1}What are your citation metrics?}{51}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Total Citations}{52}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}H-index}{52}{subsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.2.1}Normalisaing the H-index and other citation metrics}{53}{subsubsection.8.1.2.1}%
+\contentsline {subsection}{\numberline {8.1.3}G-index}{54}{subsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.1.4}R-index}{55}{subsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.1.5}a-index}{55}{subsection.8.1.5}%
+\contentsline {subsection}{\numberline {8.1.6}i10-index}{55}{subsection.8.1.6}%
+\contentsline {subsection}{\numberline {8.1.7}Other metrics}{55}{subsection.8.1.7}%
+\contentsline {section}{\numberline {8.2}How to increase your citations}{56}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Media release}{56}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Social media}{56}{subsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.2.1}Academic social media sites}{57}{subsubsection.8.2.2.1}%
+\contentsline {subsection}{\numberline {8.2.3}Popular articles}{57}{subsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.2.4}Self-citations}{58}{subsection.8.2.4}%
+\contentsline {subsection}{\numberline {8.2.5}Citing papers submitted and in press}{58}{subsection.8.2.5}%
+\contentsline {subsection}{\numberline {8.2.6}Presenting the results of your paper at a confrence}{59}{subsection.8.2.6}%
+\contentsline {subsection}{\numberline {8.2.7}Organising symposia and having special issues}{59}{subsection.8.2.7}%
+\contentsline {subsection}{\numberline {8.2.8}Traditional Media}{60}{subsection.8.2.8}%
+\contentsline {subsection}{\numberline {8.2.9}Not so legitimate ways of increasing citations}{60}{subsection.8.2.9}%
+\contentsline {section}{\numberline {8.3}Well cited articles are likely to be cited more}{61}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Growing your network}{63}{chapter.9}%
+\contentsline {section}{\numberline {9.1}What to look for in a mentor?}{63}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Questions to put to your mentor?}{64}{section.9.2}%
+\contentsline {section}{\numberline {9.3}The importance of networks in your academic career}{65}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Calculating the size of your network}{66}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}Using social-networks to grow your nework}{68}{subsection.9.3.2}%
+\contentsline {section}{\numberline {9.4}Creating your own website}{68}{section.9.4}%
+\contentsline {chapter}{\numberline {10}Preprints}{71}{chapter.10}%
+\contentsline {section}{\numberline {10.1}What are Preprints?}{71}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Who posts preprints on bioRxiv?}{72}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Why might you want to post a preprint?}{73}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Upload newer versions}{74}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Will you have to post a preprint?}{74}{section.10.5}%
+\contentsline {section}{\numberline {10.6}Could these comments pages really replace peer review?}{75}{section.10.6}%
+\contentsline {section}{\numberline {10.7}Preprints are here to stay}{76}{section.10.7}%
+\contentsline {section}{\numberline {10.8}When should evaluation end?}{76}{section.10.8}%
+\contentsline {section}{\numberline {10.9}Are preprints published?}{77}{section.10.9}%
+\contentsline {section}{\numberline {10.10}The exciting new world of Overlay Journals}{78}{section.10.10}%
+\contentsline {subsection}{\numberline {10.10.1}What do traditional publishers think of `Overlay Journals'?}{79}{subsection.10.10.1}%
+\contentsline {subsection}{\numberline {10.10.2}What is happening in biological sciences?}{79}{subsection.10.10.2}%
+\contentsline {subsection}{\numberline {10.10.3}Preregistration and a commitment to publish}{80}{subsection.10.10.3}%
+\contentsline {subsection}{\numberline {10.10.4}Beware of publishers' preprint servers}{81}{subsection.10.10.4}%
+\contentsline {section}{\numberline {10.11}Peeriodicals - another twist on the idea of an Overlay Journal}{82}{section.10.11}%
+\contentsline {section}{\numberline {10.12}Should you submit your manuscript as a preprint?}{82}{section.10.12}%
+\contentsline {subsection}{\numberline {10.12.1}For:}{82}{subsection.10.12.1}%
+\contentsline {subsection}{\numberline {10.12.2}Against:}{83}{subsection.10.12.2}%
+\contentsline {chapter}{\numberline {11}Writing a literature review}{85}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Having a purpose}{85}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Systematic reviews}{86}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Using Google Scholar}{86}{section.11.3}%
+\contentsline {section}{\numberline {11.4}The meta-analysis}{88}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}Combining topics by combining people}{88}{subsection.11.4.1}%
+\contentsline {section}{\numberline {11.5}Don't try to do too much}{89}{section.11.5}%
+\contentsline {section}{\numberline {11.6}In summary}{89}{section.11.6}%
+\contentsline {part}{II\hspace {1em}Part 2: Publishing your work}{91}{part.2}%
+\contentsline {fm}{Submitting your work to a journal}{93}{chapter*.26}%
+\contentsline {chapter}{\numberline {12}Formatting your submission}{95}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Must do check-list before submitting your manuscript:}{95}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Mistakes people make:}{97}{section.12.2}%
+\contentsline {chapter}{\numberline {13}Writing your cover letter}{99}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Do editors read cover letters?}{101}{section.13.1}%
+\contentsline {section}{\numberline {13.2}What not to do in your cover letter}{101}{section.13.2}%
+\contentsline {chapter}{\numberline {14}Suggesting reviewers}{103}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Who should you not suggest?}{103}{section.14.1}%
+\contentsline {section}{\numberline {14.2}Who should you oppose?}{104}{section.14.2}%
+\contentsline {section}{\numberline {14.3}Who will the editor use?}{104}{section.14.3}%
+\contentsline {chapter}{\numberline {15}Choosing the right journal}{107}{chapter.15}%
+\contentsline {subsection}{\numberline {15.0.1}Indexing}{108}{subsection.15.0.1}%
+\contentsline {subsection}{\numberline {15.0.2}The Subject Area}{108}{subsection.15.0.2}%
+\contentsline {subsection}{\numberline {15.0.3}The Journal Scope}{108}{subsection.15.0.3}%
+\contentsline {subsection}{\numberline {15.0.4}Ownership of the content}{109}{subsection.15.0.4}%
+\contentsline {subsection}{\numberline {15.0.5}Current Contents}{109}{subsection.15.0.5}%
+\contentsline {subsection}{\numberline {15.0.6}Society journals}{110}{subsection.15.0.6}%
+\contentsline {subsection}{\numberline {15.0.7}Transparent credibility}{110}{subsection.15.0.7}%
+\contentsline {subsection}{\numberline {15.0.8}Knowing the journal from the inside}{110}{subsection.15.0.8}%
+\contentsline {subsection}{\numberline {15.0.9}Is there a specail issue?}{110}{subsection.15.0.9}%
+\contentsline {subsection}{\numberline {15.0.10}Avoiding the predators}{111}{subsection.15.0.10}%
+\contentsline {subsection}{\numberline {15.0.11}Financial considerations to publishing}{111}{subsection.15.0.11}%
+\contentsline {subsection}{\numberline {15.0.12}Type of peer review}{111}{subsection.15.0.12}%
+\contentsline {subsection}{\numberline {15.0.13}Time to first decision}{111}{subsection.15.0.13}%
+\contentsline {subsection}{\numberline {15.0.14}Open access}{111}{subsection.15.0.14}%
+\contentsline {subsection}{\numberline {15.0.15}Page charges}{112}{subsection.15.0.15}%
+\contentsline {subsection}{\numberline {15.0.16}Fee Waiver}{112}{subsection.15.0.16}%
+\contentsline {subsection}{\numberline {15.0.17}Impact factor}{112}{subsection.15.0.17}%
+\contentsline {subsection}{\numberline {15.0.18}No impact factor journal \#NOif}{112}{subsection.15.0.18}%
+\contentsline {section}{\numberline {15.1}Shortlist}{113}{section.15.1}%
+\contentsline {chapter}{\numberline {16}Open Access or a paywall for your manuscript?}{115}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Closed Access: i.e.\nobreakspace {}The Paywall}{115}{section.16.1}%
+\contentsline {subsection}{\numberline {16.1.1}Gratis OA}{116}{subsection.16.1.1}%
+\contentsline {subsection}{\numberline {16.1.2}Libre OA}{117}{subsection.16.1.2}%
+\contentsline {subsection}{\numberline {16.1.3}Green OA}{117}{subsection.16.1.3}%
+\contentsline {subsection}{\numberline {16.1.4}Bronze OA}{118}{subsection.16.1.4}%
+\contentsline {subsection}{\numberline {16.1.5}Delayed OA}{118}{subsection.16.1.5}%
+\contentsline {subsection}{\numberline {16.1.6}Gold OA}{118}{subsection.16.1.6}%
+\contentsline {subsection}{\numberline {16.1.7}Hybrid OA}{119}{subsection.16.1.7}%
+\contentsline {subsection}{\numberline {16.1.8}Platinum or Diamond OA}{119}{subsection.16.1.8}%
+\contentsline {subsection}{\numberline {16.1.9}Black OA}{120}{subsection.16.1.9}%
+\contentsline {subsection}{\numberline {16.1.10}Grey OA}{120}{subsection.16.1.10}%
+\contentsline {section}{\numberline {16.2}Supplementary Information and Data}{120}{section.16.2}%
+\contentsline {section}{\numberline {16.3}Unsure what you can legally do with a published paper?}{121}{section.16.3}%
+\contentsline {chapter}{\numberline {17}Submitting a paper to a journal for peer review}{123}{chapter.17}%
+\contentsline {section}{\numberline {17.1}A typical submmission work-flow}{124}{section.17.1}%
+\contentsline {subsection}{\numberline {17.1.1}Remember that peer review is conducted by humans}{128}{subsection.17.1.1}%
+\contentsline {chapter}{\numberline {18}Expectations of peer review?}{129}{chapter.18}%
+\contentsline {section}{\numberline {18.1}What are peer reviewers asked to do?}{129}{section.18.1}%
+\contentsline {subsection}{\numberline {18.1.1}The review}{129}{subsection.18.1.1}%
+\contentsline {subsection}{\numberline {18.1.2}Reviewer's confidential comments to the editor}{130}{subsection.18.1.2}%
+\contentsline {subsection}{\numberline {18.1.3}Reviewer's opinion of what the editorial decision should be}{130}{subsection.18.1.3}%
+\contentsline {section}{\numberline {18.2}What do good reviews look like?}{130}{section.18.2}%
+\contentsline {subsection}{\numberline {18.2.1}The myth of the `shit sandwich'}{130}{subsection.18.2.1}%
+\contentsline {section}{\numberline {18.3}What are reviewers not asked to do?}{131}{section.18.3}%
+\contentsline {subsection}{\numberline {18.3.1}Peer review is not a trial by committee}{131}{subsection.18.3.1}%
+\contentsline {subsection}{\numberline {18.3.2}Correct English grammar}{131}{subsection.18.3.2}%
+\contentsline {subsection}{\numberline {18.3.3}Tell the authors to cite their papers}{132}{subsection.18.3.3}%
+\contentsline {subsection}{\numberline {18.3.4}Tell them to cite other papers from the journal}{132}{subsection.18.3.4}%
+\contentsline {subsection}{\numberline {18.3.5}Justify comments with their own beliefs and opinions}{132}{subsection.18.3.5}%
+\contentsline {subsection}{\numberline {18.3.6}Assess aspects of the manuscript that are beyond their competence}{132}{subsection.18.3.6}%
+\contentsline {subsection}{\numberline {18.3.7}Ignore what is good}{133}{subsection.18.3.7}%
+\contentsline {chapter}{\numberline {19}Receiving the editor's decision}{135}{chapter.19}%
+\contentsline {section}{\numberline {19.1}What to expect in your decision letter}{135}{section.19.1}%
+\contentsline {subsection}{\numberline {19.1.1}The desk rejection}{136}{subsection.19.1.1}%
+\contentsline {subsection}{\numberline {19.1.2}Take a rejection seriously}{136}{subsection.19.1.2}%
+\contentsline {subsection}{\numberline {19.1.3}Time taken to receive your decision}{137}{subsection.19.1.3}%
+\contentsline {section}{\numberline {19.2}What to do when you receive your reviewer comments}{139}{section.19.2}%
+\contentsline {section}{\numberline {19.3}Responding to reviewers' comments with a rebuttal}{139}{section.19.3}%
+\contentsline {subsection}{\numberline {19.3.1}What if you don't agree with a reviewer?}{141}{subsection.19.3.1}%
+\contentsline {subsection}{\numberline {19.3.2}When reviewers ask for additional analyses or experiments}{142}{subsection.19.3.2}%
+\contentsline {subsection}{\numberline {19.3.3}When reviewers don't agree}{143}{subsection.19.3.3}%
+\contentsline {subsection}{\numberline {19.3.4}More than two rounds of peer review}{143}{subsection.19.3.4}%
+\contentsline {subsection}{\numberline {19.3.5}What if you feel that your reviewer is being unprofessional?}{143}{subsection.19.3.5}%
+\contentsline {subsection}{\numberline {19.3.6}Appealing against a decision that you think is unfair}{144}{subsection.19.3.6}%
+\contentsline {chapter}{\numberline {20}Why should an editor read your submission?}{145}{chapter.20}%
+\contentsline {section}{\numberline {20.1}Why is reading so important?}{145}{section.20.1}%
+\contentsline {section}{\numberline {20.2}If you are going to be an editor, then you must be prepared to read}{146}{section.20.2}%
+\contentsline {section}{\numberline {20.3}I've been on the other end too}{147}{section.20.3}%
+\contentsline {section}{\numberline {20.4}There is worse that goes on in economics}{147}{section.20.4}%
+\contentsline {section}{\numberline {20.5}Summing up on editorial blunders}{148}{section.20.5}%
+\contentsline {part}{III\hspace {1em}Part 3: After your paper is accepted}{149}{part.3}%
+\contentsline {fm}{Now that your manuscript has been accepted}{151}{chapter*.30}%
+\contentsline {section}{\numberline {20.6}The Version of Record}{151}{section.20.6}%
+\contentsline {subsection}{\numberline {20.6.1}Registration to obtain a DOI}{151}{subsection.20.6.1}%
+\contentsline {subsection}{\numberline {20.6.2}What does having a VoR mean?}{152}{subsection.20.6.2}%
+\contentsline {chapter}{\numberline {21}Once your paper is accepted}{153}{chapter.21}%
+\contentsline {section}{\numberline {21.1}Take your time with proofs}{153}{section.21.1}%
+\contentsline {section}{\numberline {21.2}The DOI for your paper}{155}{section.21.2}%
+\contentsline {subsection}{\numberline {21.2.1}DOI Tools}{156}{subsection.21.2.1}%
+\contentsline {section}{\numberline {21.3}Add your paper to your ORCID account}{157}{section.21.3}%
+\contentsline {section}{\numberline {21.4}Once you have a publication date}{157}{section.21.4}%
+\contentsline {section}{\numberline {21.5}On the day you publish}{157}{section.21.5}%
+\contentsline {chapter}{\numberline {22}Writing a press release}{159}{chapter.22}%
+\contentsline {chapter}{\numberline {23}Why write a popular article?}{161}{chapter.23}%
+\contentsline {section}{\numberline {23.1}Here's a quick guide on how to get started writing a popular article.}{162}{section.23.1}%
+\contentsline {subsection}{\numberline {23.1.1}What's the hook?}{162}{subsection.23.1.1}%
+\contentsline {subsection}{\numberline {23.1.2}Don't get complex or technical}{162}{subsection.23.1.2}%
+\contentsline {subsection}{\numberline {23.1.3}Always refer to your published work}{162}{subsection.23.1.3}%
+\contentsline {subsection}{\numberline {23.1.4}Pictures, videos and even sound files}{162}{subsection.23.1.4}%
+\contentsline {chapter}{\numberline {24}Altmetrics from traditional and social media}{165}{chapter.24}%
+\contentsline {part}{IV\hspace {1em}Part 4: Further challenges in academia}{167}{part.4}%
+\contentsline {fm}{Continuing your career in academia}{169}{chapter*.32}%
+\contentsline {chapter}{\numberline {25}Is Open Access good?}{171}{chapter.25}%
+\contentsline {section}{\numberline {25.1}So what is open access?}{171}{section.25.1}%
+\contentsline {subsection}{\numberline {25.1.1}\emph {PLOS ONE}}{171}{subsection.25.1.1}%
+\contentsline {section}{\numberline {25.2}So does that mean that OA journals are now free?}{173}{section.25.2}%
+\contentsline {section}{\numberline {25.3}Nature Publishing - pay for review}{174}{section.25.3}%
+\contentsline {section}{\numberline {25.4}The problem}{175}{section.25.4}%
+\contentsline {subsection}{\numberline {25.4.1}What do publishers do?}{176}{subsection.25.4.1}%
+\contentsline {subsection}{\numberline {25.4.2}What is publishing then?}{176}{subsection.25.4.2}%
+\contentsline {section}{\numberline {25.5}Making the change}{177}{section.25.5}%
+\contentsline {chapter}{\numberline {26}How to conduct peer review}{179}{chapter.26}%
+\contentsline {section}{\numberline {26.1}Novelty or repeatability?}{180}{section.26.1}%
+\contentsline {section}{\numberline {26.2}Parts of your review}{180}{section.26.2}%
+\contentsline {subsection}{\numberline {26.2.1}A positive appraisal of the study}{180}{subsection.26.2.1}%
+\contentsline {subsection}{\numberline {26.2.2}Major comments}{181}{subsection.26.2.2}%
+\contentsline {subsection}{\numberline {26.2.3}Minor concerns}{181}{subsection.26.2.3}%
+\contentsline {section}{\numberline {26.3}The spirit of peer review}{181}{section.26.3}%
+\contentsline {section}{\numberline {26.4}There are ethical considerations for reviewers}{182}{section.26.4}%
+\contentsline {section}{\numberline {26.5}Remain objective and rational}{182}{section.26.5}%
+\contentsline {section}{\numberline {26.6}Remember to accentuate the positive}{183}{section.26.6}%
+\contentsline {section}{\numberline {26.7}How long should your review be?}{184}{section.26.7}%
+\contentsline {section}{\numberline {26.8}What to do if you suspect fraud?}{184}{section.26.8}%
+\contentsline {section}{\numberline {26.9}Further help with conducting peer review}{184}{section.26.9}%
+\contentsline {chapter}{\numberline {27}The problems with peer review}{187}{chapter.27}%
+\contentsline {section}{\numberline {27.1}Upsetting comments}{188}{section.27.1}%
+\contentsline {section}{\numberline {27.2}\emph {Ad hominem} attacks}{189}{section.27.2}%
+\contentsline {section}{\numberline {27.3}Demonstrated biases in peer review}{189}{section.27.3}%
+\contentsline {section}{\numberline {27.4}All reviews are not equal}{191}{section.27.4}%
+\contentsline {section}{\numberline {27.5}Decisions rest with editors}{192}{section.27.5}%
+\contentsline {section}{\numberline {27.6}The social side of peer review}{193}{section.27.6}%
+\contentsline {subsection}{\numberline {27.6.1}The `invisible hand' of peer review}{193}{subsection.27.6.1}%
+\contentsline {section}{\numberline {27.7}Fixing peer review}{194}{section.27.7}%
+\contentsline {chapter}{\numberline {28}What are predatory journals?}{197}{chapter.28}%
+\contentsline {section}{\numberline {28.1}If the line is so grey, how is it possible to tell whether or not a journal is predatory?}{197}{section.28.1}%
+\contentsline {subsection}{\numberline {28.1.1}To spot a predatory journal, use the following list in a stepwise fashion}{198}{subsection.28.1.1}%
+\contentsline {subsection}{\numberline {28.1.2}If predatory journals are becoming more like legitimate journals, where's the harm in publishing with them?}{199}{subsection.28.1.2}%
+\contentsline {section}{\numberline {28.2}What do you do if you have already published in a journal that others consider predatory?}{200}{section.28.2}%
+\contentsline {chapter}{\numberline {29}Why did some journals go behind paywalls?}{201}{chapter.29}%
+\contentsline {section}{\numberline {29.1}Why don't all society journals do without publishers, and go Open Access independently?}{204}{section.29.1}%
+\contentsline {section}{\numberline {29.2}How do publishers make their money?}{204}{section.29.2}%
+\contentsline {subsection}{\numberline {29.2.1}How could such a profitable business lead to making a loss?}{208}{subsection.29.2.1}%
+\contentsline {section}{\numberline {29.3}What about academic books?}{209}{section.29.3}%
+\contentsline {section}{\numberline {29.4}What will it take to break the vicious cycle?}{209}{section.29.4}%
+\contentsline {subsection}{\numberline {29.4.1}A role for scolarly societies and libraries}{210}{subsection.29.4.1}%
+\contentsline {section}{\numberline {29.5}Can we afford not to change?}{211}{section.29.5}%
+\contentsline {section}{\numberline {29.6}Societies need money. Editors can't be publishers.}{212}{section.29.6}%
+\contentsline {section}{\numberline {29.7}A paywall is never acceptable wherever you put it}{212}{section.29.7}%
+\contentsline {section}{\numberline {29.8}The answer lies inside our University Libraries}{213}{section.29.8}%
+\contentsline {section}{\numberline {29.9}Do we need a fancy layout?}{214}{section.29.9}%
+\contentsline {section}{\numberline {29.10}Giving up the obsession with metrics}{215}{section.29.10}%
+\contentsline {chapter}{\numberline {30}Are researchers writing more, and is more better?}{217}{chapter.30}%
+\contentsline {subsection}{\numberline {30.0.1}At what rate is the literature increasing?}{218}{subsection.30.0.1}%
+\contentsline {subsection}{\numberline {30.0.2}If more is being published, will Impact Factors increase?}{219}{subsection.30.0.2}%
+\contentsline {section}{\numberline {30.1}Are some authors unfeasibly prolific?}{219}{section.30.1}%
+\contentsline {section}{\numberline {30.2}Salami-slicing}{220}{section.30.2}%
+\contentsline {section}{\numberline {30.3}Is writing a lot of papers a good strategy?}{221}{section.30.3}%
+\contentsline {subsection}{\numberline {30.3.1}Natural selection of bad science}{222}{subsection.30.3.1}%
+\contentsline {chapter}{\numberline {31}When should you correct or retract your paper?}{225}{chapter.31}%
+\contentsline {section}{\numberline {31.1}Making a correction to a published paper}{226}{section.31.1}%
+\contentsline {section}{\numberline {31.2}Expression of concern}{227}{section.31.2}%
+\contentsline {section}{\numberline {31.3}A retraction is unusual}{227}{section.31.3}%
+\contentsline {subsection}{\numberline {31.3.1}How do you know if a paper you cited is later retracted?}{228}{subsection.31.3.1}%
+\contentsline {subsection}{\numberline {31.3.2}Notification of retraction}{231}{subsection.31.3.2}%
+\contentsline {section}{\numberline {31.4}Retraction Watch}{231}{section.31.4}%
+\contentsline {section}{\numberline {31.5}Fabrication of data}{232}{section.31.5}%
+\contentsline {subsection}{\numberline {31.5.1}Who is responsible?}{233}{subsection.31.5.1}%
+\contentsline {section}{\numberline {31.6}What to do if you suspect others}{234}{section.31.6}%
+\contentsline {section}{\numberline {31.7}Confirmation Bias and the paradox of high-flying academic careers}{235}{section.31.7}%
+\contentsline {chapter}{\numberline {32}Are you bullying or being bullied?}{239}{chapter.32}%
+\contentsline {section}{\numberline {32.1}How to spot a bully}{239}{section.32.1}%
+\contentsline {section}{\numberline {32.2}What to do about bullying}{241}{section.32.2}%
+\contentsline {section}{\numberline {32.3}What to do if the procedure against bullying at your institution doesn't work?}{242}{section.32.3}%
+\contentsline {chapter}{\numberline {33}Keeping track of your mental health}{243}{chapter.33}%
+\contentsline {section}{\numberline {33.1}Being physically active improves mental wellbeing}{244}{section.33.1}%
+\contentsline {section}{\numberline {33.2}Time to think}{244}{section.33.2}%
+\contentsline {chapter}{\numberline {34}Habilitation, DSc and Tenure}{247}{chapter.34}%
+\contentsline {section}{\numberline {34.1}Habilitation}{247}{section.34.1}%
+\contentsline {section}{\numberline {34.2}Doctor of Science (DSc)}{248}{section.34.2}%
+\contentsline {section}{\numberline {34.3}Tenure}{248}{section.34.3}%
+\contentsline {fm}{Last note}{251}{chapter*.41}%
+\contentsline {fm}{Bibliography}{253}{chapter*.42}%

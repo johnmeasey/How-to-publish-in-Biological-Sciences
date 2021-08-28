@@ -33,10 +33,11 @@ Table: (\#tab:Bias) **There are as many biases in peer review as there are human
 | Against female authors | @tregenza2002gender; @manlove2018authors; @fox2019gender; @budden2008double-blind; @morgan2018foundation; @hagan2020women |
 | Against female reviewers | @helmer2017gender; @fox2019gendera |
 | Towards author reputation, favouring acceptance of manuscripts despite poor reviews | @bravo2018hidden; @okike2016single-blind |
-| Towards authors from more prestigious institutions, also called prestige bias | @ceci1982peer; @travis1991new; @tomkins2017single; @manlove2018authors ; @lee2013bias |
-| Nationality and language bias | @lee2013bias; @manlove2018authors; @nunez2021monolingual; @link1998us |
-| Confirmation bias (the tendency for journals and reviewers to favour significant results) | @mahoney1977publication; @fanelli2010positive; @fanelli2012negative; [see Part 1](transparency.html) |
-| Publication bias (the literature contains a bias in published results) | @munafo2007association; @dongen2011associations; @fanelli2017meta-assessment; @franco2014publication; [see Part 4](#badscience) |
+| Towards authors from more prestigious institutions, also called prestige bias | @ceci1982peer; @travis1991new; @garfunkel1994effect; @tomkins2017single; @manlove2018authors ; @lee2013bias |
+| Nationality and language bias | @song2000publication; @lee2013bias; @manlove2018authors; @nunez2021monolingual; @link1998us |
+| Confirmation bias (the tendency for journals and reviewers to favour significant results) | @mahoney1977publication; @fanelli2010positive; @fanelli2012negative; [see Part I](transparency.html) |
+| Publication bias (the literature contains a bias in published results) | @jennions2002publication; @munafo2007association; @dongen2011associations; @franco2014publication; @fanelli2017meta-assessment; @sanchez-tojar2018meta-analysis; [see Part IV](#badscience) |
+
 
 Perhaps the biggest problem facing those who wish to reform the peer review system is that it all starts with editors who are choosing reviewers. Those editors themselves have their own inherent biases. When they look for reviewers, they are likely to sample from within their own group of peers who have the same biases. Interestingly, bias (in general) is more easily perceived by early career scientists [@zvereva2021biases]. My experience is that soliciting reviews from people that I don’t know and have no connection with (are outside of my field) are more likely to fail - they will say no, or they won’t reply to the request [see @perry2012peer]. This is even for academics that are publishing within the same area. 
 
