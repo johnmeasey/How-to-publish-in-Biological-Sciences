@@ -24,7 +24,7 @@
 <meta name="author" content="John Measey" />
 
 
-<meta name="date" content="2021-08-31" />
+<meta name="date" content="2021-09-01" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -35,6 +35,7 @@
 <link rel="next" href="submit.html"/>
 <script src="libs/header-attrs/header-attrs.js"></script>
 <script src="libs/jquery/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-bookdown.css" rel="stylesheet" />
@@ -42,7 +43,6 @@
 <link href="libs/gitbook/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-fontsettings.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-clipboard.css" rel="stylesheet" />
-
 
 
 
@@ -109,6 +109,7 @@ div.csl-indent {
 <ul>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#contribute"><i class="fa fa-check"></i>Do you have something to contribute?</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#otherbook"><i class="fa fa-check"></i>If you haven’t already, read the other book</a></li>
+<li class="chapter" data-level="" data-path="author.html"><a href="author.html#how-to-cite"><i class="fa fa-check"></i>How to cite</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#creative-commons-license"><i class="fa fa-check"></i>Creative Commons License</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#disclaimer"><i class="fa fa-check"></i>Disclaimer</a></li>
 </ul></li>
@@ -572,7 +573,7 @@ div.csl-indent {
             <section class="normal" id="section-">
 <div id="openaccess1" class="section level1" number="16">
 <h1><span class="header-section-number">Chapter 16</span> Open Access or a paywall for your manuscript?</h1>
-<p>There are many well established benefits to publishing an Open Access (OA) paper where there is no pay wall to any readers. These include, increased citations, increased exposure and coverage by the media, not to mention increased interactions with the public and the moral and ethical duty to be able to share research as widely as possible. Many studies are now suggesting that the advantages go even deeper <span class="citation">(see a collection of studies by <a href="#ref-tennant2017open" role="doc-biblioref">Tennant 2017</a>)</span>. However the current reality is that most publishers will then require you to pay in order to produce your publication open access. There are chapters later on in this book that discuss the importance of <a href="openaccess.html#openaccess">open access</a>. In this chapter, I review the different OA models available. At this period in time, the names are somewhat fluid, and you may not find the specific term mentioned here on the publishers’ website.</p>
+<p>There are many well established benefits to publishing an Open Access (OA) paper where there is no pay wall to any readers. These include, increased citations, increased exposure and coverage by the media, not to mention increased interactions with the public and the moral and ethical duty to be able to share research as widely as possible. Many studies are now suggesting that the advantages go even deeper <span class="citation">(see a collection of studies by <a href="#ref-tennant2017open" role="doc-biblioref">Tennant, 2017</a>)</span>. However the current reality is that most publishers will then require you to pay in order to produce your publication open access. There are chapters later on in this book that discuss the importance of <a href="openaccess.html#openaccess">open access</a>. In this chapter, I review the different OA models available. At this period in time, the names are somewhat fluid, and you may not find the specific term mentioned here on the publishers’ website.</p>
 
 <div class="figure"><span style="display:block;" id="fig:Paywall-graphic"></span>
 <img src="figures/Paywall-graphic.png" alt="The world of Open Access (OA) is built on shaky foundations. Much more of journal content is still within the shadow of the paywall, even for journals that practice Hybrid and Bronze OA. When you are inside your institution, you may not notice the paywall due to seamless integration with many literature databases. You will be far better acquainted with the paywall if you are from a smaller institution or trying to access literature from outside your institution. Once you are the wrong side of the paywall, your options for most content will be Grey and Black OA. There are regular assaults on these two initiatives by publishers." width="95%" />
@@ -608,7 +609,7 @@ FIGURE 16.2: <strong>Reproduction of material is possible if it is published und
 <div id="green" class="section level3" number="16.1.3">
 <h3><span class="header-section-number">16.1.3</span> Green OA</h3>
 <p>This is an option no matter what journal you publish in, including <a href="openaccess1.html#closed">closed journals</a> behind the paywall. The accepted manuscript, before it has been typeset, is deposited in your institutional repository; usually your library hosts this. This is sometimes referred to as a <strong>postprint</strong> (manuscript with changes made following peer review) - the same version that has been accepted by the journal. Once your paper is published by the journal anyone can access the manuscript that was accepted because it is available free from your institutional repository. However the typeset paper will remain behind the publishers’ paywall (i.e. <a href="openaccess1.html#closed">closed</a>). Note that this version will not be the <a href="part3.html#VoR">Version of Record</a>, it may be that some of the text will change with <a href="accepted.html#proofs">copy editing</a>. However, for people who want Open Access your work, this Green OA version should suffice.</p>
-<p>When you deposit your author version to your institutional repository, make sure that you add a <a href="https://creativecommons.org/">Creative Commons Attribution</a> license (CC BY). In theory, this turns your work into something that is <a href="openaccess1.html#libre">Libre</a> Open Access. Although the wording will be the same in the <a href="openaccess1.html#closed">Closed OA</a> version eventually available from the publisher, the prior attribution of CC BY to your Green OA work should mean that all subsequent versions are <a href="openaccess1.html#libre">Libre</a> OA. There are a number of reasons why this may not be the case, and you should be aware of two of these <span class="citation">(<a href="#ref-khoo2021why" role="doc-biblioref">Khoo 2021</a>)</span>. First are your obligations to your funders. For example, your funders may have specific requirements about how you publish, and prior rights attribution may conflict. Funders may have other restrictions on your publishing including embargo periods. With many publishers you may be required to sign an acceptance letter that specifically states that it’s supersedes any previous licensing commitments including self archiving copies that you make CC BY. Your previous CC BY commitments to your pre-print may then place you in a legal conflict. Publishers are unlikely to assert their license unless you try to assert yours.</p>
+<p>When you deposit your author version to your institutional repository, make sure that you add a <a href="https://creativecommons.org/">Creative Commons Attribution</a> license (CC BY). In theory, this turns your work into something that is <a href="openaccess1.html#libre">Libre</a> Open Access. Although the wording will be the same in the <a href="openaccess1.html#closed">Closed OA</a> version eventually available from the publisher, the prior attribution of CC BY to your Green OA work should mean that all subsequent versions are <a href="openaccess1.html#libre">Libre</a> OA. There are a number of reasons why this may not be the case, and you should be aware of two of these <span class="citation">(<a href="#ref-khoo2021why" role="doc-biblioref">Khoo, 2021</a>)</span>. First are your obligations to your funders. For example, your funders may have specific requirements about how you publish, and prior rights attribution may conflict. Funders may have other restrictions on your publishing including embargo periods. With many publishers you may be required to sign an acceptance letter that specifically states that it’s supersedes any previous licensing commitments including self archiving copies that you make CC BY. Your previous CC BY commitments to your pre-print may then place you in a legal conflict. Publishers are unlikely to assert their license unless you try to assert yours.</p>
 <p>If you are unsure about whether or not to deposit a copy in your institutional repository and what license should be attributed to this, then ask your librarian. You may need to furnish them with details of your funding and potential target journals where you’d like to publish.</p>
 </div>
 <div id="bronze" class="section level3" number="16.1.4">
@@ -622,7 +623,7 @@ FIGURE 16.2: <strong>Reproduction of material is possible if it is published und
 <div id="gold" class="section level3" number="16.1.6">
 <h3><span class="header-section-number">16.1.6</span> Gold OA</h3>
 <p>In a journal with gold open access it is compulsory for you to pay the open access fee (or Article Processing Charge, often referred to as APC) in order to publish your paper. These APCs can be very large, often more than $1000 (see <a href="paywall2.html#money">Part IV</a>). If your choice of journal is gold open access then make sure you know where the fees are coming from. The history of Gold OA is an interesting one that you can read in <a href="openaccess.html#PLOS">Part IV</a>.</p>
-<p>Examples of gold open access journals are <em>PLOS ONE</em>, <em>F1000Research</em> and <em>PeerJ</em>, and an increasing hoard of <a href="#noIF">no impact factor journals</a>. The advantage to these journals is that as soon as you publish your work in them, everyone will have access to it without any paywall. The disadvantage is that you may not be able to afford to publish there. The disadvantages of these journals are now becoming very prominent in the Biological Sciences, such that you may be excluded from increasing numbers of journals in your field. Alarmingly, journals with higher impact factors are also charging ever increasing sums to publish Gold OA <span class="citation">(<a href="#ref-gray2020sorry" role="doc-biblioref">Gray 2020</a>)</span>. Gray <span class="citation">(<a href="#ref-gray2020sorry" role="doc-biblioref">2020</a>)</span> makes the important point that prestige (often confused with <a href="impactfactor.html#impactfactor">Impact Factor</a>) is being allocated a higher price in Gold OA, that is likely to disadvantage and disenfranchise scientists from less wealthy institutions and countries. This is likely to reinforce an increasing dichotomy between rich and poor researchers. We will take another look at who pays for OA <a href="openaccess.html#openaccess">later in the book</a>.</p>
+<p>Examples of gold open access journals are <em>PLOS ONE</em>, <em>F1000Research</em> and <em>PeerJ</em>, and an increasing hoard of <a href="#noIF">no impact factor journals</a>. The advantage to these journals is that as soon as you publish your work in them, everyone will have access to it without any paywall. The disadvantage is that you may not be able to afford to publish there. The disadvantages of these journals are now becoming very prominent in the Biological Sciences, such that you may be excluded from increasing numbers of journals in your field. Alarmingly, journals with higher impact factors are also charging ever increasing sums to publish Gold OA <span class="citation">(<a href="#ref-gray2020sorry" role="doc-biblioref">Gray, 2020</a>)</span>. Gray <span class="citation">(<a href="#ref-gray2020sorry" role="doc-biblioref">2020</a>)</span> makes the important point that prestige (often confused with <a href="impactfactor.html#impactfactor">Impact Factor</a>) is being allocated a higher price in Gold OA, that is likely to disadvantage and disenfranchise scientists from less wealthy institutions and countries. This is likely to reinforce an increasing dichotomy between rich and poor researchers. We will take another look at who pays for OA <a href="openaccess.html#openaccess">later in the book</a>.</p>
 <p>Watch out for predatory journals among those journals with Gold OA. Predatory publication will be <a href="predatory.html#predatory">discussed in full later</a>).</p>
 </div>
 <div id="hybrid-oa" class="section level3" number="16.1.7">
@@ -641,7 +642,7 @@ FIGURE 16.2: <strong>Reproduction of material is possible if it is published und
 </div>
 <div id="grey-oa" class="section level3" number="16.1.10">
 <h3><span class="header-section-number">16.1.10</span> Grey OA</h3>
-<p>You can find grey OA repositories of published material on Academic Social Network sites in which you need membership to access such as <a href="https://www.researchgate.net/">ResearchGate</a> and <a href="https://www.academia.edu/">Academia.edu</a>. The legality of such sites is regularly questioned <span class="citation">(see <a href="#ref-piwowar2018state" role="doc-biblioref">Piwowar et al. 2018</a> for more details)</span>. There has been legal action with thousands of members being issues with take-down notices.</p>
+<p>You can find grey OA repositories of published material on Academic Social Network sites in which you need membership to access such as <a href="https://www.researchgate.net/">ResearchGate</a> and <a href="https://www.academia.edu/">Academia.edu</a>. The legality of such sites is regularly questioned <span class="citation">(see <a href="#ref-piwowar2018state" role="doc-biblioref">Piwowar et al., 2018</a> for more details)</span>. There has been legal action with thousands of members being issues with take-down notices.</p>
 </div>
 </div>
 <div id="supplementary-information-and-data" class="section level2" number="16.2">
@@ -655,18 +656,18 @@ FIGURE 16.2: <strong>Reproduction of material is possible if it is published und
 </div>
 </div>
 <h3>References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="refs" class="references csl-bib-body hanging-indent" line-spacing="2">
 <div id="ref-gray2020sorry" class="csl-entry">
-Gray, Russell J. 2020. <span>“Sorry, We’re Open: <span>Golden</span> Open-Access and Inequality in Non-Human Biological Sciences.”</span> <em>Scientometrics</em> 124: 1663–75. https://doi.org/<a href="https://doi.org/10.1007/s11192-020-03540-3">https://doi.org/10.1007/s11192-020-03540-3</a>.
+Gray RJ. 2020. Sorry, we’re open: <span>Golden</span> open-access and inequality in non-human biological sciences. <em>Scientometrics</em> 124:1663–1675. DOI: <a href="https://doi.org/10.1007/s11192-020-03540-3">https://doi.org/10.1007/s11192-020-03540-3</a>.
 </div>
 <div id="ref-khoo2021why" class="csl-entry">
-———. 2021. <span>“Why the <span>Plan</span> <span>S</span> <span>Rights</span> <span>Retention</span> <span>Strategy</span> <span>Probably</span> <span>Won</span>’t <span>Work</span>.”</span> <em>The Scholarly Kitchen</em>. <a href="https://scholarlykitchen.sspnet.org/2021/07/27/guest-post-why-the-plan-s-rights-retention-strategy-probably-wont-work/">https://scholarlykitchen.sspnet.org/2021/07/27/guest-post-why-the-plan-s-rights-retention-strategy-probably-wont-work/</a>.
+Khoo S. 2021. Why the <span>Plan</span> <span>S</span> <span>Rights</span> <span>Retention</span> <span>Strategy</span> <span>Probably</span> <span>Won</span>’t <span>Work</span>. <em>The Scholarly Kitchen</em>.
 </div>
 <div id="ref-piwowar2018state" class="csl-entry">
-Piwowar, Heather, Jason Priem, Vincent Larivière, Juan Pablo Alperin, Lisa Matthias, Bree Norlander, Ashley Farley, Jevin West, and Stefanie Haustein. 2018. <span>“The State of <span>OA</span>: A Large-Scale Analysis of the Prevalence and Impact of <span>Open</span> <span>Access</span> Articles.”</span> <em>PeerJ</em> 6: e4375. https://doi.org/<a href="https://doi.org/10.7717/peerj.4375">https://doi.org/10.7717/peerj.4375</a>.
+Piwowar H, Priem J, Larivière V, Alperin JP, Matthias L, Norlander B, Farley A, West J, Haustein S. 2018. The state of <span>OA</span>: A large-scale analysis of the prevalence and impact of <span>Open</span> <span>Access</span> articles. <em>PeerJ</em> 6:e4375. DOI: <a href="https://doi.org/10.7717/peerj.4375">https://doi.org/10.7717/peerj.4375</a>.
 </div>
 <div id="ref-tennant2017open" class="csl-entry">
-Tennant, Jon. 2017. <span>“The Open Access Citation Advantage.”</span> <em>Collection</em>. <a href="https://doi.org/DOI:	10.14293/S2199-1006.1.SOR-EDU.CLPDPZB.v1">https://doi.org/DOI:	10.14293/S2199-1006.1.SOR-EDU.CLPDPZB.v1</a>.
+Tennant J. 2017. The open access citation advantage. <em>Collection</em>. DOI: <a href="https://doi.org/DOI:	10.14293/S2199-1006.1.SOR-EDU.CLPDPZB.v1">DOI:	10.14293/S2199-1006.1.SOR-EDU.CLPDPZB.v1</a>.
 </div>
 </div>
             </section>
@@ -679,7 +680,6 @@ Tennant, Jon. 2017. <span>“The Open Access Citation Advantage.”</span> <em>C
     </div>
   </div>
 <script src="libs/gitbook/js/app.min.js"></script>
-<script src="libs/gitbook/js/lunr.js"></script>
 <script src="libs/gitbook/js/clipboard.min.js"></script>
 <script src="libs/gitbook/js/plugin-search.js"></script>
 <script src="libs/gitbook/js/plugin-sharing.js"></script>
@@ -717,14 +717,14 @@ gitbook.start({
 },
 "download": null,
 "search": {
-"engine": "lunr",
+"engine": "fuse",
 "options": null
 },
 "toc": {
 "collapse": "none"
 },
 "toolbar": {
-"position": "fixed"
+"position": "static"
 }
 });
 });

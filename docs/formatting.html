@@ -24,7 +24,7 @@
 <meta name="author" content="John Measey" />
 
 
-<meta name="date" content="2021-08-31" />
+<meta name="date" content="2021-09-01" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -35,6 +35,7 @@
 <link rel="next" href="letter.html"/>
 <script src="libs/header-attrs/header-attrs.js"></script>
 <script src="libs/jquery/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-bookdown.css" rel="stylesheet" />
@@ -42,7 +43,6 @@
 <link href="libs/gitbook/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-fontsettings.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-clipboard.css" rel="stylesheet" />
-
 
 
 
@@ -109,6 +109,7 @@ div.csl-indent {
 <ul>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#contribute"><i class="fa fa-check"></i>Do you have something to contribute?</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#otherbook"><i class="fa fa-check"></i>If you haven’t already, read the other book</a></li>
+<li class="chapter" data-level="" data-path="author.html"><a href="author.html#how-to-cite"><i class="fa fa-check"></i>How to cite</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#creative-commons-license"><i class="fa fa-check"></i>Creative Commons License</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#disclaimer"><i class="fa fa-check"></i>Disclaimer</a></li>
 </ul></li>
@@ -575,7 +576,7 @@ div.csl-indent {
 <p>Let’s face it, after spending so much time writing your manuscript, it’s worth making sure that you don’t make silly mistakes in finalising the manuscript.</p>
 <div id="must-do-check-list-before-submitting-your-manuscript" class="section level2" number="12.1">
 <h2><span class="header-section-number">12.1</span> Must do check-list before submitting your manuscript:</h2>
-<p>I am very fond of check lists, in part because their utility has already been proven many times <span class="citation">(<a href="#ref-haynes2009surgical" role="doc-biblioref">Haynes et al. 2009</a>)</span>. I have developed this check list of things to go through before submitting a manuscript. The journal that you submit to is likely to have their own, so you should add that onto the end of this one. Plus, in your subdiscipline there are likely to be some extra points that you can add, so I suggest that you add to this list when making your own.</p>
+<p>I am very fond of check lists, in part because their utility has already been proven many times <span class="citation">(<a href="#ref-haynes2009surgical" role="doc-biblioref">Haynes et al., 2009</a>)</span>. I have developed this check list of things to go through before submitting a manuscript. The journal that you submit to is likely to have their own, so you should add that onto the end of this one. Plus, in your subdiscipline there are likely to be some extra points that you can add, so I suggest that you add to this list when making your own.</p>
 <ul>
 <li><strong>Spell check</strong> - yes, it sounds obvious but doing a final spell check is a good idea. Not only this, but take the time to have your word processor ignore or add all of the special words (e.g. species or site names) that it doesn’t otherwise recognise. This will ensure their consistency throughout (within and between chapters)
 <ul>
@@ -623,9 +624,9 @@ div.csl-indent {
 </div>
 </div>
 <h3>References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="refs" class="references csl-bib-body hanging-indent" line-spacing="2">
 <div id="ref-haynes2009surgical" class="csl-entry">
-Haynes, Alex B., Thomas G. Weiser, William R. Berry, Stuart R. Lipsitz, Abdel-Hadi S. Breizat, E. Patchen Dellinger, Teodoro Herbosa, et al. 2009. <span>“A <span>Surgical</span> <span>Safety</span> <span>Checklist</span> to <span>Reduce</span> <span>Morbidity</span> and <span>Mortality</span> in a <span>Global</span> <span>Population</span>.”</span> <em>New England Journal of Medicine</em> 360 (5): 491–99. <a href="https://doi.org/10.1056/NEJMsa0810119">https://doi.org/10.1056/NEJMsa0810119</a>.
+Haynes AB, Weiser TG, Berry WR, Lipsitz SR, Breizat A-HS, Dellinger EP, Herbosa T, Joseph S, Kibatala PL, Lapitan MCM, Merry AF, Moorthy K, Reznick RK, Taylor B, Gawande AA. 2009. A <span>Surgical</span> <span>Safety</span> <span>Checklist</span> to <span>Reduce</span> <span>Morbidity</span> and <span>Mortality</span> in a <span>Global</span> <span>Population</span>. <em>New England Journal of Medicine</em> 360:491–499. DOI: <a href="https://doi.org/10.1056/NEJMsa0810119">10.1056/NEJMsa0810119</a>.
 </div>
 </div>
             </section>
@@ -638,7 +639,6 @@ Haynes, Alex B., Thomas G. Weiser, William R. Berry, Stuart R. Lipsitz, Abdel-Ha
     </div>
   </div>
 <script src="libs/gitbook/js/app.min.js"></script>
-<script src="libs/gitbook/js/lunr.js"></script>
 <script src="libs/gitbook/js/clipboard.min.js"></script>
 <script src="libs/gitbook/js/plugin-search.js"></script>
 <script src="libs/gitbook/js/plugin-sharing.js"></script>
@@ -676,14 +676,14 @@ gitbook.start({
 },
 "download": null,
 "search": {
-"engine": "lunr",
+"engine": "fuse",
 "options": null
 },
 "toc": {
 "collapse": "none"
 },
 "toolbar": {
-"position": "fixed"
+"position": "static"
 }
 });
 });

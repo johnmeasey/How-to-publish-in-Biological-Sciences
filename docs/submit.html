@@ -24,7 +24,7 @@
 <meta name="author" content="John Measey" />
 
 
-<meta name="date" content="2021-08-31" />
+<meta name="date" content="2021-09-01" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -35,6 +35,7 @@
 <link rel="next" href="peerreview2.html"/>
 <script src="libs/header-attrs/header-attrs.js"></script>
 <script src="libs/jquery/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-bookdown.css" rel="stylesheet" />
@@ -42,7 +43,6 @@
 <link href="libs/gitbook/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-fontsettings.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-clipboard.css" rel="stylesheet" />
-
 
 
 
@@ -109,6 +109,7 @@ div.csl-indent {
 <ul>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#contribute"><i class="fa fa-check"></i>Do you have something to contribute?</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#otherbook"><i class="fa fa-check"></i>If you haven’t already, read the other book</a></li>
+<li class="chapter" data-level="" data-path="author.html"><a href="author.html#how-to-cite"><i class="fa fa-check"></i>How to cite</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#creative-commons-license"><i class="fa fa-check"></i>Creative Commons License</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#disclaimer"><i class="fa fa-check"></i>Disclaimer</a></li>
 </ul></li>
@@ -601,7 +602,7 @@ FIGURE 17.1: <strong>This schematic demonstrates the editorial work-flow of a �
 <p><strong>C - Associate Editor takes over</strong></p>
 <ul>
 <li>The AE <a href="editors.html#editors">should read the manuscript</a> and may <a href="decision.html#desk">desk reject</a> it if they feel that it won’t make it through review. An AE <a href="decision.html#rejection">rejection</a> isn’t great news as AEs don’t always have the best experience in knowing what will and what won’t make it through the review process. The editor usually has more experience. Hopefully, this won’t have taken long (<a href="decision.html#timetaken">1-2 weeks</a>) and so won’t be very painful. This rejection may be fair or unfair, but it’s done and there’s nothing much you can do except return to <strong>A</strong> (above), but see <a href="decision.html#rejection">later sections</a>.</li>
-<li>Normally, your manuscript will be sent out to review and you can expect to wait 4-6 weeks (good), but sometimes <a href="decision.html#timetaken">up to 3 months</a>, for a decision. If it’s away for over 3 months, you should definitely make a query on the editorial management system. Unsurprisingly, authors feel more unhappy with the review results the longer the process takes <span class="citation">(<a href="#ref-jiang2021understanding" role="doc-biblioref">Jiang 2021</a>)</span>.</li>
+<li>Normally, your manuscript will be sent out to review and you can expect to wait 4-6 weeks (good), but sometimes <a href="decision.html#timetaken">up to 3 months</a>, for a decision. If it’s away for over 3 months, you should definitely make a query on the editorial management system. Unsurprisingly, authors feel more unhappy with the review results the longer the process takes <span class="citation">(<a href="#ref-jiang2021understanding" role="doc-biblioref">Jiang, 2021</a>)</span>.</li>
 </ul>
 <p><strong>D - Reading the reviews</strong></p>
 <ul>
@@ -642,9 +643,9 @@ FIGURE 17.1: <strong>This schematic demonstrates the editorial work-flow of a �
 </div>
 </div>
 <h3>References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="refs" class="references csl-bib-body hanging-indent" line-spacing="2">
 <div id="ref-jiang2021understanding" class="csl-entry">
-Jiang, Shan. 2021. <span>“Understanding Authors’ Psychological Reactions to Peer Reviews: A Text Mining Approach.”</span> <em>Scientometrics</em> 126 (May): 6085–6103. <a href="https://doi.org/10.1007/s11192-021-04032-8">https://doi.org/10.1007/s11192-021-04032-8</a>.
+Jiang S. 2021. Understanding authors’ psychological reactions to peer reviews: A text mining approach. <em>Scientometrics</em> 126:6085–6103. DOI: <a href="https://doi.org/10.1007/s11192-021-04032-8">10.1007/s11192-021-04032-8</a>.
 </div>
 </div>
             </section>
@@ -657,7 +658,6 @@ Jiang, Shan. 2021. <span>“Understanding Authors’ Psychological Reactions to 
     </div>
   </div>
 <script src="libs/gitbook/js/app.min.js"></script>
-<script src="libs/gitbook/js/lunr.js"></script>
 <script src="libs/gitbook/js/clipboard.min.js"></script>
 <script src="libs/gitbook/js/plugin-search.js"></script>
 <script src="libs/gitbook/js/plugin-sharing.js"></script>
@@ -695,14 +695,14 @@ gitbook.start({
 },
 "download": null,
 "search": {
-"engine": "lunr",
+"engine": "fuse",
 "options": null
 },
 "toc": {
 "collapse": "none"
 },
 "toolbar": {
-"position": "fixed"
+"position": "static"
 }
 });
 });

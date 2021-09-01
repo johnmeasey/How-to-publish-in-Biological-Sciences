@@ -24,7 +24,7 @@
 <meta name="author" content="John Measey" />
 
 
-<meta name="date" content="2021-08-31" />
+<meta name="date" content="2021-09-01" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -35,6 +35,7 @@
 <link rel="next" href="review.html"/>
 <script src="libs/header-attrs/header-attrs.js"></script>
 <script src="libs/jquery/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-bookdown.css" rel="stylesheet" />
@@ -42,7 +43,6 @@
 <link href="libs/gitbook/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-fontsettings.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-clipboard.css" rel="stylesheet" />
-
 
 
 
@@ -109,6 +109,7 @@ div.csl-indent {
 <ul>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#contribute"><i class="fa fa-check"></i>Do you have something to contribute?</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#otherbook"><i class="fa fa-check"></i>If you haven’t already, read the other book</a></li>
+<li class="chapter" data-level="" data-path="author.html"><a href="author.html#how-to-cite"><i class="fa fa-check"></i>How to cite</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#creative-commons-license"><i class="fa fa-check"></i>Creative Commons License</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#disclaimer"><i class="fa fa-check"></i>Disclaimer</a></li>
 </ul></li>
@@ -584,7 +585,7 @@ div.csl-indent {
 </div>
 <div id="bioRxiv" class="section level2" number="10.2">
 <h2><span class="header-section-number">10.2</span> Who posts preprints on bioRxiv?</h2>
-<p>In an analysis by Abdill and Blekhman <span class="citation">(<a href="#ref-abdill2019tracking" role="doc-biblioref">2019</a>)</span> back in 2018, there were 37648 preprints uploaded to <em>bioRxiv</em>. But in the world of preprints, this information is quite dated as back then there were only ~2000 uploads each month. Luckily, these same authors regularly scrape data regarding submissions to <em>bioRxiv</em> and I’m able to reproduce these live data below. It is interesting to look back at the concern back in 2015 that preprint servers like <em>bioRxiv</em> might not catch on in the biological sciences <span class="citation">(<a href="#ref-vale2015accelerating" role="doc-biblioref">Vale 2015</a>)</span>, and it is still true to say that the number of preprints in the life sciences is still dwarfed by the annual number of publications, whereas physics has seen the opposite trend.</p>
+<p>In an analysis by Abdill and Blekhman <span class="citation">(<a href="#ref-abdill2019tracking" role="doc-biblioref">2019</a>)</span> back in 2018, there were 37648 preprints uploaded to <em>bioRxiv</em>. But in the world of preprints, this information is quite dated as back then there were only ~2000 uploads each month. Luckily, these same authors regularly scrape data regarding submissions to <em>bioRxiv</em> and I’m able to reproduce these live data below. It is interesting to look back at the concern back in 2015 that preprint servers like <em>bioRxiv</em> might not catch on in the biological sciences <span class="citation">(<a href="#ref-vale2015accelerating" role="doc-biblioref">Vale, 2015</a>)</span>, and it is still true to say that the number of preprints in the life sciences is still dwarfed by the annual number of publications, whereas physics has seen the opposite trend.</p>
 
 <div class="figure"><span style="display:block;" id="fig:bioRxiv-line-annotated"></span>
 <iframe src="https://johnmeasey.github.io/bioRxiv-line-annotated/index.html" width="672" height="350px">
@@ -648,9 +649,9 @@ A quick look at the sites will tell you a lot about the level of reviewing that 
 <div id="overlay" class="section level2" number="10.10">
 <h2><span class="header-section-number">10.10</span> The exciting new world of Overlay Journals</h2>
 <p>Having said that preprints won’t replace the role of peer review, what if we did have good, editorially coordinated peer review of preprints? What if, instead of these manuscripts effectively leaving the preprint system, they were updated together with the reviews that prompted the updates, each with their own linked <a href="accepted.html#DOI">DOI</a>? What if the journals themselves were simply pointing to collections of papers that had been curated in this way? Simply a website that throws a veneer of a journal as waypoints to peer reviewed journals. This world has already been imagined and is functioning in mathematics, where Overlay Journals have begun to prosper.</p>
-<p>According to Brown <span class="citation">(<a href="#ref-brown2010introduction" role="doc-biblioref">2010</a>)</span>, the idea of overlaying has been with us for some time, and exists as websites that offer a series of links to other papers. In this way, a review article could be considered an ‘overlay paper,’ the contents of Web of Science as an ‘overlay database.’ But, for me at least, this is not where the real potential lies. Instead, imagine the overlay journal as a way in which academics entirely remove the need for publishers. The need for this is increasingly evident as we become more familiar with the ways in which we rely on traditional publishing models to pervade our scientific project with confirmation bias. Overlay journals no longer require a publisher to store the publication. This is done at the preprint server. The reviews are housed at the same arXiv site (or would be in an ideal and transparent version)<span class="citation">(<a href="#ref-rittman2020fast" role="doc-biblioref">Rittman 2020</a>)</span>, as is the manuscript in its final form after being accepted by the overlay journal editor. The authors themselves are responsible for the final layout. The Overlay Journal co-ordinates the reviews and conducts the editorial work, and then simply acts as a pointer to the finished product: no papers, no publishers, no editorial management software, no costs and all papers are <a href="openaccess1.html#diamond">Diamond OA</a>!</p>
+<p>According to Brown <span class="citation">(<a href="#ref-brown2010introduction" role="doc-biblioref">2010</a>)</span>, the idea of overlaying has been with us for some time, and exists as websites that offer a series of links to other papers. In this way, a review article could be considered an ‘overlay paper,’ the contents of Web of Science as an ‘overlay database.’ But, for me at least, this is not where the real potential lies. Instead, imagine the overlay journal as a way in which academics entirely remove the need for publishers. The need for this is increasingly evident as we become more familiar with the ways in which we rely on traditional publishing models to pervade our scientific project with confirmation bias. Overlay journals no longer require a publisher to store the publication. This is done at the preprint server. The reviews are housed at the same arXiv site (or would be in an ideal and transparent version)<span class="citation">(<a href="#ref-rittman2020fast" role="doc-biblioref">Rittman, 2020</a>)</span>, as is the manuscript in its final form after being accepted by the overlay journal editor. The authors themselves are responsible for the final layout. The Overlay Journal co-ordinates the reviews and conducts the editorial work, and then simply acts as a pointer to the finished product: no papers, no publishers, no editorial management software, no costs and all papers are <a href="openaccess1.html#diamond">Diamond OA</a>!</p>
 <p>The journal <a href="https://discreteanalysisjournal.com/"><em>Discrete Analysis</em></a> (indexed in both Web of Science and Scopus) was the first of these new ‘arXiv overlay journals’ (since 2017), and following this link will allow you to quickly appreciate what an Overlay Journal is. Each ‘published’ paper still sits on its original preprint server. The overlay journal itself offers a brief editorial summary of what you’ll find if you click through to the paper. This is a fantastic idea in that it pitches editors back into being responsible content curators. As an editor I’d want to be motivated to publish a paper that I liked in order to write an editorial summary about it.</p>
-<p>Because the only the accepted version is provided with an ‘article number’ and the style file of the journal layout, the author then produces the final version of record (VoR) of the accepted manuscript by running the style file with LaTeX. All of this is possible with free software, for example by using R Markdown <span class="citation">(<a href="#ref-xie2018r" role="doc-biblioref">Xie, Allaire, and Grolemund 2018</a>)</span>.</p>
+<p>Because the only the accepted version is provided with an ‘article number’ and the style file of the journal layout, the author then produces the final version of record (VoR) of the accepted manuscript by running the style file with LaTeX. All of this is possible with free software, for example by using R Markdown <span class="citation">(<a href="#ref-xie2018r" role="doc-biblioref">Xie, Allaire &amp; Grolemund, 2018</a>)</span>.</p>
 <p>Using preprint servers also allows the entire process to be <a href="transparency2.html#transparency2">transparent</a>, very quickly becoming associated with other great initiatives like the Centre for Open Science - <a href="https://www.cos.io/">OSF</a>.</p>
 <div id="what-do-traditional-publishers-think-of-overlay-journals" class="section level3" number="10.10.1">
 <h3><span class="header-section-number">10.10.1</span> What do traditional publishers think of ‘Overlay Journals?’</h3>
@@ -664,11 +665,11 @@ I think that the real threat to our traditional model… is if Overlay Journals 
 </div>
 <div id="PCI-EvolBiol" class="section level3" number="10.10.2">
 <h3><span class="header-section-number">10.10.2</span> What is happening in biological sciences?</h3>
-<p>One of the original electronic journals, <a href="https://www.jmir.org/">Journal of Medical Internet Research (JMIR)</a>, announced in 2019 that it will launch an overlay journal covering biology, a so called ‘superjournal,’ JMIRx <span class="citation">(<a href="#ref-eysenbach2019celebrating" role="doc-biblioref">Eysenbach 2019</a>)</span>. This overlay journal operates by editors choosing preprints that they want to publish (‘editorial prospecting’), and then approaching authors and reviewers, and also by authors pitching their preprints to the editors. Today <a href="https://bio.jmirx.org/">JMIRx|Bio</a> accepts any preprint published on <a href="preprints2.html#bioRxiv">bioRxiv</a>. Although JMRIx|Bio, and sister journal <a href="https://psy.jmirx.org/">JMRIx|Psy</a>, were launched in 2020, I cannot find any articles submitted (by mid-2021). The sister journal <a href="https://med.jmirx.org/">JMIRx|Med</a>, launched at the same time and in the same area as other JMIR journals, and has a rapidly expanding publication base.</p>
+<p>One of the original electronic journals, <a href="https://www.jmir.org/">Journal of Medical Internet Research (JMIR)</a>, announced in 2019 that it will launch an overlay journal covering biology, a so called ‘superjournal,’ JMIRx <span class="citation">(<a href="#ref-eysenbach2019celebrating" role="doc-biblioref">Eysenbach, 2019</a>)</span>. This overlay journal operates by editors choosing preprints that they want to publish (‘editorial prospecting’), and then approaching authors and reviewers, and also by authors pitching their preprints to the editors. Today <a href="https://bio.jmirx.org/">JMIRx|Bio</a> accepts any preprint published on <a href="preprints2.html#bioRxiv">bioRxiv</a>. Although JMRIx|Bio, and sister journal <a href="https://psy.jmirx.org/">JMRIx|Psy</a>, were launched in 2020, I cannot find any articles submitted (by mid-2021). The sister journal <a href="https://med.jmirx.org/">JMIRx|Med</a>, launched at the same time and in the same area as other JMIR journals, and has a rapidly expanding publication base.</p>
 <p>Another preprint led service is <em>F1000Research</em> (f1000research.com), which grew (via a buy out by Taylor &amp; Francis) from the peer recommendation site Faculty Opinions (facultyopinions.com). <em>F1000Research</em> requires preprint submission on their server, and then co-ordinates postprint peer review which is all accessible online in the same location. Like other <a href="openaccess1.html#gold">Gold OA</a> journals, <em>F1000Research</em> charges an impressive Article Processing Charge, and does not aspire to an <a href="#noIF">Impact Factor</a>.</p>
 <p>There’s an excellent tie-in here with <a href="#transparency">transparency</a>. Because preprints are <a href="openaccess1.html#diamond">Diamond OA</a>, and reviews are OA, the process is all transparent.</p>
 <p>A nearly ‘overlay’ model is <a href="https://evolbiol.peercommunityin.org/">Peer Community in Evolutionary Biology</a>, launched in January 2017. This comes very close to the ‘arXiv Overlay Journal’ model described above. These preprints are submitted to PCI-Evol Biol, and are reviewed and (if they aren’t rejected), a recommendation is given. The site then publishes the recommendation from peers as well as pointing to the preprint. However, unlike <em>Discrete Analysis</em>, the preprint remains ‘unpublished’ despite the peer review and can then be taken onto a traditional journal. There is a growing <a href="https://evolbiol.peercommunityin.org/about/about">list of journals</a> whose editors will accept recommendations from PCI-EvolBiol, and may use the reviews when appropriate. However, it’s also worth noting that there are a small number of journals that will not accept preprints recommended by PCI-EvolBiol. While Peer Community in Evolutionary Biology does not publish their peer reviewed articles, another initiative from Peer Community In takes a step backwards to get a step closer (<a href="preprints2.html#commitment">see below</a>).</p>
-<p>The journal <a href="https://elifesciences.org/">eLife</a> is also taking steps toward becoming an Overlay Journal, with their implementation of a <strong>preprint only</strong> submission route <span class="citation">(<a href="#ref-eisen2020implementing" role="doc-biblioref">Eisen et al. 2020</a>)</span>. Although eLife appears to embrace all the advantages of transparency in their use of preprints, there is still a significant barrier that has recently jumped from $2500 to $3000 for the privilege to publish (eLife has an APC waiver system which is not seen by editors). Again the question of what exactly scholars are paying such high fees for comes to the forefront.</p>
+<p>The journal <a href="https://elifesciences.org/">eLife</a> is also taking steps toward becoming an Overlay Journal, with their implementation of a <strong>preprint only</strong> submission route <span class="citation">(<a href="#ref-eisen2020implementing" role="doc-biblioref">Eisen et al., 2020</a>)</span>. Although eLife appears to embrace all the advantages of transparency in their use of preprints, there is still a significant barrier that has recently jumped from $2500 to $3000 for the privilege to publish (eLife has an APC waiver system which is not seen by editors). Again the question of what exactly scholars are paying such high fees for comes to the forefront.</p>
 </div>
 <div id="commitment" class="section level3" number="10.10.3">
 <h3><span class="header-section-number">10.10.3</span> Preregistration and a commitment to publish</h3>
@@ -711,7 +712,7 @@ I think that the real threat to our traditional model… is if Overlay Journals 
 <li><a href="##PCI-EvolBiol">PCI-Evol Biol</a> in Biological Sciences</li>
 <li><a href="https://bio.jmirx.org/">JMIRx|Bio</a> accepts any preprint published on <a href="preprints2.html#bioRxiv">bioRxiv</a> since 2020</li>
 </ul></li>
-<li>This is the only submission route for some other journals <span class="citation">(e.g. <em>eLife</em> <a href="#ref-eisen2020implementing" role="doc-biblioref">Eisen et al. 2020</a>)</span></li>
+<li>This is the only submission route for some other journals <span class="citation">(e.g. <em>eLife</em> <a href="#ref-eisen2020implementing" role="doc-biblioref">Eisen et al., 2020</a>)</span></li>
 </ul>
 </div>
 <div id="against" class="section level3" number="10.12.2">
@@ -733,33 +734,33 @@ I think that the real threat to our traditional model… is if Overlay Journals 
 </div>
 </div>
 <h3>References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="refs" class="references csl-bib-body hanging-indent" line-spacing="2">
 <div id="ref-abdill2019tracking" class="csl-entry">
-Abdill, Richard J, and Ran Blekhman. 2019. <span>“Tracking the Popularity and Outcomes of All <span class="nocase">bioRxiv</span> Preprints.”</span> Edited by Emma Pewsey, Peter Rodgers, and Casey S Greene. <em>eLife</em> 8 (April): e45133. <a href="https://doi.org/10.7554/eLife.45133">https://doi.org/10.7554/eLife.45133</a>.
+Abdill RJ, Blekhman R. 2019. Tracking the popularity and outcomes of all <span class="nocase">bioRxiv</span> preprints. <em>eLife</em> 8:e45133. DOI: <a href="https://doi.org/10.7554/eLife.45133">10.7554/eLife.45133</a>.
 </div>
 <div id="ref-brown2010introduction" class="csl-entry">
-Brown, J. 2010. <span>“An Introduction to Overlay Journals.”</span> Report. UK: Repositories Support Project. <a href="http://www.rsp.ac.uk/pubs/">http://www.rsp.ac.uk/pubs/</a>.
+Brown J. 2010. <em>An introduction to overlay journals</em>. UK: Repositories Support Project.
 </div>
 <div id="ref-eisen2020implementing" class="csl-entry">
-Eisen, Michael B, Anna Akhmanova, Timothy E Behrens, Diane M Harper, Detlef Weigel, and Mone Zaidi. 2020. <span>“Implementing a "Publish, Then Review" Model of Publishing.”</span> <em>eLife</em> 9 (December): e64910. <a href="https://doi.org/10.7554/eLife.64910">https://doi.org/10.7554/eLife.64910</a>.
+Eisen MB, Akhmanova A, Behrens TE, Harper DM, Weigel D, Zaidi M. 2020. Implementing a "publish, then review" model of publishing. <em>eLife</em> 9:e64910. DOI: <a href="https://doi.org/10.7554/eLife.64910">10.7554/eLife.64910</a>.
 </div>
 <div id="ref-eysenbach2019celebrating" class="csl-entry">
-Eysenbach, Gunther. 2019. <span>“Celebrating 20 <span>Years</span> of <span>Open</span> <span>Access</span> and <span>Innovation</span> at <span>JMIR</span> <span>Publications</span>.”</span> <em>Journal of Medical Internet Research</em> 21 (12): e17578. <a href="https://doi.org/10.2196/17578">https://doi.org/10.2196/17578</a>.
+Eysenbach G. 2019. Celebrating 20 <span>Years</span> of <span>Open</span> <span>Access</span> and <span>Innovation</span> at <span>JMIR</span> <span>Publications</span>. <em>Journal of Medical Internet Research</em> 21:e17578. DOI: <a href="https://doi.org/10.2196/17578">10.2196/17578</a>.
 </div>
 <div id="ref-heesen2020peer" class="csl-entry">
-Heesen, Remco, and Liam Kofi Bright. 2020. <span>“Is <span>Peer</span> <span>Review</span> a <span>Good</span> <span>Idea</span>?”</span> <em>The British Journal for the Philosophy of Science</em> 2019 (July): 1–31. <a href="https://doi.org/10.1093/bjps/axz029">https://doi.org/10.1093/bjps/axz029</a>.
+Heesen R, Bright LK. 2020. Is <span>Peer</span> <span>Review</span> a <span>Good</span> <span>Idea</span>? <em>The British Journal for the Philosophy of Science</em> 2019:1–31. DOI: <a href="https://doi.org/10.1093/bjps/axz029">10.1093/bjps/axz029</a>.
 </div>
 <div id="ref-kriegeskorte2012emerging" class="csl-entry">
-Kriegeskorte, Nikolaus, Alexander Walther, and Diana Deca. 2012. <span>“An Emerging Consensus for Open Evaluation: 18 Visions for the Future of Scientific Publishing.”</span> <em>Frontiers in Computational Neuroscience</em> 6: 94. https://doi.org/<a href="https://doi.org/10.3389/fncom.2012.00094">https://doi.org/10.3389/fncom.2012.00094</a>.
+Kriegeskorte N, Walther A, Deca D. 2012. An emerging consensus for open evaluation: 18 visions for the future of scientific publishing. <em>Frontiers in Computational Neuroscience</em> 6:94. DOI: <a href="https://doi.org/10.3389/fncom.2012.00094">https://doi.org/10.3389/fncom.2012.00094</a>.
 </div>
 <div id="ref-rittman2020fast" class="csl-entry">
-Rittman, Martyn. 2020. <span>“Fast, Citable Feedback: <span>Peer</span> Reviews for Preprints and Other Content Types.”</span> Website. <em>Crossref</em>. <a href="https://www.crossref.org/blog/fast-citable-feedback-peer-reviews-for-preprints-and-other-content-types/">https://www.crossref.org/blog/fast-citable-feedback-peer-reviews-for-preprints-and-other-content-types/</a>.
+Rittman M. 2020. Fast, citable feedback: <span>Peer</span> reviews for preprints and other content types. <em>Crossref</em>.
 </div>
 <div id="ref-vale2015accelerating" class="csl-entry">
-Vale, Ronald D. 2015. <span>“Accelerating Scientific Publication in Biology.”</span> <em>Proceedings of the National Academy of Sciences</em> 112 (44): 13439–46. <a href="https://doi.org/10.1073/pnas.1511912112">https://doi.org/10.1073/pnas.1511912112</a>.
+Vale RD. 2015. Accelerating scientific publication in biology. <em>Proceedings of the National Academy of Sciences</em> 112:13439–13446. DOI: <a href="https://doi.org/10.1073/pnas.1511912112">10.1073/pnas.1511912112</a>.
 </div>
 <div id="ref-xie2018r" class="csl-entry">
-Xie, Yihui, Joseph J Allaire, and Garrett Grolemund. 2018. <em>R Markdown: <span>The</span> Definitive Guide</em>. CRC Press.
+Xie Y, Allaire JJ, Grolemund G. 2018. <em>R markdown: <span>The</span> definitive guide</em>. CRC Press.
 </div>
 </div>
             </section>
@@ -772,7 +773,6 @@ Xie, Yihui, Joseph J Allaire, and Garrett Grolemund. 2018. <em>R Markdown: <span
     </div>
   </div>
 <script src="libs/gitbook/js/app.min.js"></script>
-<script src="libs/gitbook/js/lunr.js"></script>
 <script src="libs/gitbook/js/clipboard.min.js"></script>
 <script src="libs/gitbook/js/plugin-search.js"></script>
 <script src="libs/gitbook/js/plugin-sharing.js"></script>
@@ -810,14 +810,14 @@ gitbook.start({
 },
 "download": null,
 "search": {
-"engine": "lunr",
+"engine": "fuse",
 "options": null
 },
 "toc": {
 "collapse": "none"
 },
 "toolbar": {
-"position": "fixed"
+"position": "static"
 }
 });
 });

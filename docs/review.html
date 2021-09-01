@@ -24,7 +24,7 @@
 <meta name="author" content="John Measey" />
 
 
-<meta name="date" content="2021-08-31" />
+<meta name="date" content="2021-09-01" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -35,6 +35,7 @@
 <link rel="next" href="part2.html"/>
 <script src="libs/header-attrs/header-attrs.js"></script>
 <script src="libs/jquery/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-bookdown.css" rel="stylesheet" />
@@ -42,7 +43,6 @@
 <link href="libs/gitbook/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-fontsettings.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-clipboard.css" rel="stylesheet" />
-
 
 
 
@@ -109,6 +109,7 @@ div.csl-indent {
 <ul>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#contribute"><i class="fa fa-check"></i>Do you have something to contribute?</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#otherbook"><i class="fa fa-check"></i>If you haven’t already, read the other book</a></li>
+<li class="chapter" data-level="" data-path="author.html"><a href="author.html#how-to-cite"><i class="fa fa-check"></i>How to cite</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#creative-commons-license"><i class="fa fa-check"></i>Creative Commons License</a></li>
 <li class="chapter" data-level="" data-path="author.html"><a href="author.html#disclaimer"><i class="fa fa-check"></i>Disclaimer</a></li>
 </ul></li>
@@ -582,7 +583,7 @@ div.csl-indent {
 </div>
 <div id="systematic-reviews" class="section level2" number="11.2">
 <h2><span class="header-section-number">11.2</span> Systematic reviews</h2>
-<p>A systematic review is when you define your search criteria and the databases that you want to use and then consider all of the literature that comes out. You will need to provide clear criteria for the inclusion of literature. As well as explaining exactly how you decide to include or exclude papers that result from your search terms. Systematic reviews require a flow diagram to show how this literature was included or excluded <span class="citation">(<a href="#ref-moher2009preferred" role="doc-biblioref">Moher et al. 2009</a> see Figure <a href="review.html#fig:Prisma-flow">11.1</a>)</span>. Many journals (especially those linked to PubMed) now insist that a Prisma flow-diagram has to be ‘Figure 1’ of any systematic review submitted. Simply replace the text in Figure <a href="review.html#fig:Prisma-flow">11.1</a> with relevant numbers as appropriate in your systematic literature review. You can also add boxes as necessary. Note that the need to produce the Prisma flow-diagram means that you should keep good records of the results (and date) each time you conduct a literature search. You should also retain the actual search term used together with a file of the results.</p>
+<p>A systematic review is when you define your search criteria and the databases that you want to use and then consider all of the literature that comes out. You will need to provide clear criteria for the inclusion of literature. As well as explaining exactly how you decide to include or exclude papers that result from your search terms. Systematic reviews require a flow diagram to show how this literature was included or excluded <span class="citation">(<a href="#ref-moher2009preferred" role="doc-biblioref">Moher et al., 2009</a> see Figure <a href="review.html#fig:Prisma-flow">11.1</a>)</span>. Many journals (especially those linked to PubMed) now insist that a Prisma flow-diagram has to be ‘Figure 1’ of any systematic review submitted. Simply replace the text in Figure <a href="review.html#fig:Prisma-flow">11.1</a> with relevant numbers as appropriate in your systematic literature review. You can also add boxes as necessary. Note that the need to produce the Prisma flow-diagram means that you should keep good records of the results (and date) each time you conduct a literature search. You should also retain the actual search term used together with a file of the results.</p>
 
 <div class="figure"><span style="display:block;" id="fig:Prisma-flow"></span>
 <img src="figures/Prisma-flow.png" alt="The Prisma flow diagram after Moher et al (2009). Text inside the boxes is replaced by the author with the corresponding numbers of records, articles and studies as they were filtered during their systematic literature review, and (if appropriate) the final meta-analysis." width="360" />
@@ -594,9 +595,9 @@ FIGURE 11.1: <strong>The Prisma flow diagram after Moher et al (2009)</strong>. 
 </div>
 <div id="using-google-scholar" class="section level2" number="11.3">
 <h2><span class="header-section-number">11.3</span> Using Google Scholar</h2>
-<p>Google scholar has distinct advantages over other literature databases as it searches words inside the contents of an article, not just in the title, abstract and keywords (like Scopus and WoS). However, the output style of Google Scholar is infuriating as it resists being able to capture search results into a simple table (database) format. In addition, it does not support Boolean search operators, and includes a far broader range of literature, and linking citations <span class="citation">(<a href="#ref-martin-martin2021google" role="doc-biblioref">Martín-Martín et al. 2021</a>)</span>.</p>
-<p>Help is at hand for those of you who would like to use Google Scholar and get a database output with the publication of <a href="https://harzing.com/resources/publish-or-perish">Publish or Perish software</a> <span class="citation">(<a href="#ref-harzing2007publish" role="doc-biblioref">Harzing 2007</a>)</span>. The original purpose of this software was to calculate personal research metrics for promotion purposes, and it still does all this. But it also provides a single platform for searching many different literature databases: Scopus, Web of Science, Microsoft Academic (now discontinued), Google Scholar.</p>
-<p>Google Scholar has an important attribute over many other databases in that it returns results in languages other than English. Using only English to provide the basis for your review might lead you to draw an unreasonable conclusion with a literature bias <span class="citation">(<a href="#ref-nunez2021monolingual" role="doc-biblioref">Nuñez and Amano 2021</a>)</span>. Language is only one of several potential biases in a literature review <span class="citation">(<a href="#ref-amano2013four" role="doc-biblioref">Amano and Sutherland 2013</a>)</span>.</p>
+<p>Google scholar has distinct advantages over other literature databases as it searches words inside the contents of an article, not just in the title, abstract and keywords (like Scopus and WoS). However, the output style of Google Scholar is infuriating as it resists being able to capture search results into a simple table (database) format. In addition, it does not support Boolean search operators, and includes a far broader range of literature, and linking citations <span class="citation">(<a href="#ref-martin-martin2021google" role="doc-biblioref">Martín-Martín et al., 2021</a>)</span>.</p>
+<p>Help is at hand for those of you who would like to use Google Scholar and get a database output with the publication of <a href="https://harzing.com/resources/publish-or-perish">Publish or Perish software</a> <span class="citation">(<a href="#ref-harzing2007publish" role="doc-biblioref">Harzing, 2007</a>)</span>. The original purpose of this software was to calculate personal research metrics for promotion purposes, and it still does all this. But it also provides a single platform for searching many different literature databases: Scopus, Web of Science, Microsoft Academic (now discontinued), Google Scholar.</p>
+<p>Google Scholar has an important attribute over many other databases in that it returns results in languages other than English. Using only English to provide the basis for your review might lead you to draw an unreasonable conclusion with a literature bias <span class="citation">(<a href="#ref-nunez2021monolingual" role="doc-biblioref">Nuñez &amp; Amano, 2021</a>)</span>. Language is only one of several potential biases in a literature review <span class="citation">(<a href="#ref-amano2013four" role="doc-biblioref">Amano &amp; Sutherland, 2013</a>)</span>.</p>
 </div>
 <div id="the-meta-analysis" class="section level2" number="11.4">
 <h2><span class="header-section-number">11.4</span> The meta-analysis</h2>
@@ -622,21 +623,21 @@ FIGURE 11.1: <strong>The Prisma flow diagram after Moher et al (2009)</strong>. 
 
 
 <h3>References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="refs" class="references csl-bib-body hanging-indent" line-spacing="2">
 <div id="ref-amano2013four" class="csl-entry">
-Amano, Tatsuya, and William J. Sutherland. 2013. <span>“Four Barriers to the Global Understanding of Biodiversity Conservation: Wealth, Language, Geographical Location and Security.”</span> <em>Proceedings of the Royal Society B: Biological Sciences</em> 280 (1756): 20122649. <a href="https://doi.org/10.1098/rspb.2012.2649">https://doi.org/10.1098/rspb.2012.2649</a>.
+Amano T, Sutherland WJ. 2013. Four barriers to the global understanding of biodiversity conservation: Wealth, language, geographical location and security. <em>Proceedings of the Royal Society B: Biological Sciences</em> 280:20122649. DOI: <a href="https://doi.org/10.1098/rspb.2012.2649">10.1098/rspb.2012.2649</a>.
 </div>
 <div id="ref-harzing2007publish" class="csl-entry">
-Harzing, Anne W. 2007. <span>“Publish or <span>Perish</span>.”</span> <a href="https://harzing.com/resources/publish-or-perish">https://harzing.com/resources/publish-or-perish</a>.
+Harzing AW. 2007. Publish or <span>Perish</span>.
 </div>
 <div id="ref-martin-martin2021google" class="csl-entry">
-Martín-Martín, Alberto, Mike Thelwall, Enrique Orduna-Malea, and Emilio Delgado López-Cózar. 2021. <span>“Google <span>Scholar</span>, <span>Microsoft</span> <span>Academic</span>, <span>Scopus</span>, <span>Dimensions</span>, <span>Web</span> of <span>Science</span>, and <span>OpenCitations</span>’ <span>COCI</span>: A Multidisciplinary Comparison of Coverage via Citations.”</span> <em>Scientometrics</em> 126 (1): 871–906. <a href="https://doi.org/10.1007/s11192-020-03690-4">https://doi.org/10.1007/s11192-020-03690-4</a>.
+Martín-Martín A, Thelwall M, Orduna-Malea E, Delgado López-Cózar E. 2021. Google <span>Scholar</span>, <span>Microsoft</span> <span>Academic</span>, <span>Scopus</span>, <span>Dimensions</span>, <span>Web</span> of <span>Science</span>, and <span>OpenCitations</span>’ <span>COCI</span>: A multidisciplinary comparison of coverage via citations. <em>Scientometrics</em> 126:871–906. DOI: <a href="https://doi.org/10.1007/s11192-020-03690-4">10.1007/s11192-020-03690-4</a>.
 </div>
 <div id="ref-moher2009preferred" class="csl-entry">
-Moher, David, Alessandro Liberati, Jennifer Tetzlaff, and Douglas G. Altman. 2009. <span>“Preferred <span>Reporting</span> <span>Items</span> for <span>Systematic</span> <span>Reviews</span> and <span>Meta</span>-<span>Analyses</span>: <span>The</span> <span>PRISMA</span> <span>Statement</span>.”</span> <em>Annals of Internal Medicine</em> 151 (4): 264–69. <a href="https://doi.org/10.7326/0003-4819-151-4-200908180-00135">https://doi.org/10.7326/0003-4819-151-4-200908180-00135</a>.
+Moher D, Liberati A, Tetzlaff J, Altman DG. 2009. Preferred <span>Reporting</span> <span>Items</span> for <span>Systematic</span> <span>Reviews</span> and <span>Meta</span>-<span>Analyses</span>: <span>The</span> <span>PRISMA</span> <span>Statement</span>. <em>Annals of Internal Medicine</em> 151:264–269. DOI: <a href="https://doi.org/10.7326/0003-4819-151-4-200908180-00135">10.7326/0003-4819-151-4-200908180-00135</a>.
 </div>
 <div id="ref-nunez2021monolingual" class="csl-entry">
-Nuñez, Martin A., and Tatsuya Amano. 2021. <span>“Monolingual Searches Can Limit and Bias Results in Global Literature Reviews.”</span> <em>Nature Ecology &amp; Evolution</em> 5 (3): 264–64. <a href="https://doi.org/10.1038/s41559-020-01369-w">https://doi.org/10.1038/s41559-020-01369-w</a>.
+Nuñez MA, Amano T. 2021. Monolingual searches can limit and bias results in global literature reviews. <em>Nature Ecology &amp; Evolution</em> 5:264–264. DOI: <a href="https://doi.org/10.1038/s41559-020-01369-w">10.1038/s41559-020-01369-w</a>.
 </div>
 </div>
             </section>
@@ -649,7 +650,6 @@ Nuñez, Martin A., and Tatsuya Amano. 2021. <span>“Monolingual Searches Can Li
     </div>
   </div>
 <script src="libs/gitbook/js/app.min.js"></script>
-<script src="libs/gitbook/js/lunr.js"></script>
 <script src="libs/gitbook/js/clipboard.min.js"></script>
 <script src="libs/gitbook/js/plugin-search.js"></script>
 <script src="libs/gitbook/js/plugin-sharing.js"></script>
@@ -687,14 +687,14 @@ gitbook.start({
 },
 "download": null,
 "search": {
-"engine": "lunr",
+"engine": "fuse",
 "options": null
 },
 "toc": {
 "collapse": "none"
 },
 "toolbar": {
-"position": "fixed"
+"position": "static"
 }
 });
 });
