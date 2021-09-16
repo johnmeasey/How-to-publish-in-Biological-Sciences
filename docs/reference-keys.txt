@@ -74,7 +74,7 @@ letters
 editorials
 impactfactor
 from-a-simple-score-to-a-way-of-life
-five-year-impact-factor
+five-year-impact-factor-5year
 what-can-you-do-if-you-publish-a-journal-with-high-if
 why-is-if-so-important
 increaseIF
@@ -92,7 +92,7 @@ citations
 metrics
 total-citations
 h-index
-normalisaing-the-h-index-and-other-citation-metrics
+normal
 g-index
 r-index
 a-index
@@ -300,6 +300,7 @@ are-some-authors-unfeasibly-prolific
 salami
 is-writing-a-lot-of-papers-a-good-strategy
 badscience
+does-all-of-this-tell-us-that-publishing-more-is-bad
 retract
 corrigendum
 expression-of-concern
