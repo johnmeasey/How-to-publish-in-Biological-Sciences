@@ -45,7 +45,7 @@ whatjournalfor
 peerreview
 history-of-peer-review
 how-high-is-the-peer-review-bar
-who-are-your-peers
+whopeers
 professionals
 scholars
 specialists
@@ -74,7 +74,7 @@ letters
 editorials
 impactfactor
 from-a-simple-score-to-a-way-of-life
-five-year-impact-factor-5year
+fiveyear
 what-can-you-do-if-you-publish-a-journal-with-high-if
 why-is-if-so-important
 increaseIF
@@ -275,6 +275,7 @@ decisions-rest-with-editors
 the-social-side-of-peer-review
 the-invisible-hand-of-peer-review
 fixing
+peer-review-is-here-to-stay
 predatory
 if-the-line-is-so-grey-how-is-it-possible-to-tell-whether-or-not-a-journal-is-predatory
 to-spot-a-predatory-journal-use-the-following-list-in-a-stepwise-fashion
@@ -295,7 +296,7 @@ layout
 giving-up-the-obsession-with-metrics
 publishmore
 at-what-rate-is-the-literature-increasing
-if-more-is-being-published-will-impact-factors-increase
+IFinflation
 are-some-authors-unfeasibly-prolific
 salami
 is-writing-a-lot-of-papers-a-good-strategy
