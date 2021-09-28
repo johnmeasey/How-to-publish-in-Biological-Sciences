@@ -30,7 +30,7 @@ fig:bully
 closedtoopen
 three-fundamentals-of-publishing-in-biological-sciences
 gatekeepers
-is-it-possible-to-purge-the-publishers
+capture
 peer-review
 impact-factor
 cite
@@ -65,7 +65,7 @@ accepting-the-alternative-hypothesis
 inadvertent-bias
 novel-research
 introducing-transparency-in-peer-review
-removing-profit-from-academic-publishing
+openness
 whattowrite
 standard-articles
 reviews
@@ -75,7 +75,7 @@ editorials
 impactfactor
 from-a-simple-score-to-a-way-of-life
 fiveyear
-what-can-you-do-if-you-publish-a-journal-with-high-if
+what-can-you-do-if-you-publish-in-a-journal-with-high-if
 why-is-if-so-important
 increaseIF
 negotiating-your-if
