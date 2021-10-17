@@ -5,6 +5,7 @@ fig:One-round-of-peer-review
 tab:motivations
 fig:review-article
 eq:Impact-Factor
+fig:DORA
 tab:cite
 fig:Dimensions
 fig:Olaf-SA-invasive-fish
