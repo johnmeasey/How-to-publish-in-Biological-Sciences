@@ -101,6 +101,8 @@ i10-index
 h-frac
 other-metrics
 increasingcitations
+open-access
+open-data-and-other-open-resources-in-repositories
 media-release
 social
 academic-social-media-sites
@@ -165,12 +167,12 @@ current-contents
 society
 transparent-credibility
 knowing-the-journal-from-the-inside
-is-there-a-specail-issue
+is-there-a-special-issue
 avoiding-the-predators
 financial-considerations-to-publishing
 type-of-peer-review
 time-to-first-decision
-open-access
+open-access-1
 page-charges
 fee-waiver
 impact-factor-1
@@ -184,10 +186,10 @@ green
 bronze
 delayed
 gold
-hybrid-oa
+hybrid
 diamond
-black-oa
-grey-oa
+black
+grey
 supplementary-information-and-data
 unsure-what-you-can-legally-do-with-a-published-paper
 submit
