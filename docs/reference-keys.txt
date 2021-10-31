@@ -98,6 +98,7 @@ g-index
 r-index
 a-index
 i10-index
+m-index
 h-frac
 other-metrics
 increasingcitations
