@@ -177,7 +177,7 @@ open-access-1
 page-charges
 fee-waiver
 impact-factor-1
-no-impact-factor-journal-noif
+NOif
 shortlist
 openaccess1
 closed
