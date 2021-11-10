@@ -314,6 +314,8 @@ how-do-you-know-if-a-paper-you-cited-is-later-retracted
 notification-of-retraction
 retractionwatch
 fabrication
+fraud-by-individuals-or-laboratories
+by-third-parties
 who-is-responsible
 fraud
 PruittData
