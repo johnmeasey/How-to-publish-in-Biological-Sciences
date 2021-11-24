@@ -120,7 +120,7 @@ mentor
 questions-to-put-to-your-mentor
 networks
 calculating-the-size-of-your-network
-using-social-networks-to-grow-your-nework
+using-social-networks-to-grow-your-network
 website
 preprints2
 what-are-preprints
@@ -194,7 +194,7 @@ grey
 supplementary-information-and-data
 unsure-what-you-can-legally-do-with-a-published-paper
 submit
-a-typical-submmission-work-flow
+a-typical-submission-work-flow
 remember-that-peer-review-is-conducted-by-humans
 peerreview2
 what-are-peer-reviewers-asked-to-do
@@ -222,7 +222,7 @@ what-if-you-dont-agree-with-a-reviewer
 when-reviewers-ask-for-additional-analyses-or-experiments
 conflict
 more-than-two-rounds-of-peer-review
-what-if-you-feel-that-your-reviewer-is-being-unprofessional
+is-your-reviewer-is-being-unprofessional
 unfair
 editors
 why-is-reading-so-important
