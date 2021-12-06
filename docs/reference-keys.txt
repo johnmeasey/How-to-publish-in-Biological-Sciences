@@ -135,8 +135,9 @@ are-preprints-published
 overlay
 what-do-traditional-publishers-think-of-overlay-journals
 PCI-EvolBiol
+peer-community-in
 commitment
-beware-of-publishers-preprint-servers
+beware
 peeriodicals---another-twist-on-the-idea-of-an-overlay-journal
 preprint
 for
@@ -191,6 +192,7 @@ hybrid
 diamond
 black
 grey
+APC
 supplementary-information-and-data
 unsure-what-you-can-legally-do-with-a-published-paper
 submit
