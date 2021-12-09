@@ -284,6 +284,7 @@ fixing
 peer-review-is-here-to-stay
 predatory
 if-the-line-is-so-grey-how-is-it-possible-to-tell-whether-or-not-a-journal-is-predatory
+OMICS
 to-spot-a-predatory-journal-use-the-following-list-in-a-stepwise-fashion
 if-predatory-journals-are-becoming-more-like-legitimate-journals-wheres-the-harm-in-publishing-with-them
 what-do-you-do-if-you-have-already-published-in-a-journal-that-others-consider-predatory
