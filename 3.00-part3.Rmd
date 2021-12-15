@@ -8,7 +8,7 @@ This part of the book gives you information on some actions that you might want 
 
 An important concept to understand in the publication of your article is the Version of Record (VoR). This is the final typeset version of your article that is published. 
 
-In this millennium, the VoR had changed from a hard copy that was printed and bound into an issue of a journal into a pdf that appears at a journal website online. In addition, the VoR no longer has to belong to a volume or an issue, and is usually the first version available online [@haustein2015when]. The VoR can appear online long before it appears in an issue or volume (i.e. without page numbers), but still be the VoR. 
+In this millennium, the VoR had changed from a hard copy, that was printed and bound into an issue of a journal, into a pdf that appears at a journal website online. In addition, the VoR no longer has to belong to a volume or an issue, and is usually the first version available online [@haustein2015when]. The VoR can appear online long before it appears in an issue or volume (i.e. without page numbers), but still be the VoR. 
 
 ### Registration to obtain a DOI
 
@@ -19,4 +19,4 @@ If the publisher is a [Crossref](https://www.crossref.org/) member (most are), t
 
  - This means that if you wanted to make any changes to this first printed version (the VoR), you'd need to publish a separate [corrigendum](#corrigendum)
  - The date of the VoR has an impact on [primacy](#whatjournalfor)
-  + in taxonomy, for example, if there are two descriptions of a species, the earliest one counts as the valid one
+   + in taxonomy, for example, if there are two descriptions of a species, the earliest one counts as the valid one

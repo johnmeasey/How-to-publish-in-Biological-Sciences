@@ -1,6 +1,6 @@
 # Growing your network {#advisorless}
 
-During your PhD you will have had an advisor who would have been central to many of the decisions that you made. Don't give up on that relationship, it is something that you have at the heart of your network. Therefore it is worth maintaining in the best professional relationship possible, as this is someone that you will need to go back to (probably lots of times) for references and other professional help. In short, always keep your advisor sweet. The same could be said about your thesis committee members, if you had one.
+During your PhD you will have had an advisor who would have been central to many of the decisions that you made. Don't give up on that relationship, it is something that you have at the heart of your network. Therefore it is worth maintaining in the best professional relationship possible, as this is someone who you will need to go back to (probably lots of times) for references and other professional help. In short, always keep your advisor sweet. The same could be said about your thesis committee members, if you had one.
 
 Having said this, as an early career researcher, you are now advisor-less, yet it is likely that you will still need advice from someone more experienced. Hopefully, there will always be your advisor, but the chance is that you may well have changed institutions, and so they may not be so close or easy to contact. This is a good reason for expanding your network by looking for a mentor to your role as an early career researcher. Increasing numbers of institutions are now recognising that early career researchers need mentors to advise them about how to move forwards within their academic field. Moreover, mentors can help promote equality and inclusively [@davies2021promoting].
 
@@ -32,9 +32,16 @@ Typical things to discuss with your mentor are:
 You may also want to share some of the more exciting aspects of your work, your findings and how you interpret them. Try to keep away from moaning about other academics, the amount of administration you have, teaching burdens, etc. Make your discussions as positive as possible so that your mentor is more likely to want to maintain and grow the relationship. 
 
 ## The importance of networks in your academic career {#networks}
-There is clear evidence that researchers with good networks collaborate more, publish more and are better cited [@parish2018dynamics]. Your mentor can be one way to increase your academic network. Perhaps more importantly, they can be a guide to help you through the network that you are involved with.
 
-There is a good chance that you are already in a network where your advisor, and perhaps some members of your thesis committee, sit at the hub of an extended network that you have had partial exposure to during the course of your studies. If you haven't realised already, these networks are of profound importance in every step of your academic career. 
+>"Science can be described as a complex, self-organizing, and evolving network of scholars, projects, papers, and ideas."
+>
+>Fortunato et al. [-@fortunato2018science]
+
+There is clear evidence that researchers with good networks collaborate more, publish more and are better cited [@parish2018dynamics; @fortunato2018science]. Your mentor can be one way to increase your academic network. Perhaps more importantly, they can be a guide to help you through the network that you are involved with.
+
+There is a good chance that you are already in a network where your advisor, and perhaps some members of your thesis committee, sit at the hub of an extended network that you have had partial exposure to during the course of your studies. If you haven't realised already, these networks are of profound importance in every step of your academic career. Evidence from studies on the science of science (SciSci) suggest that within networks there is a great importance for small teams to disrupt science [@fortunato2018science]. In order to find team members (and for them to find you), you need to have a network of people to draw from.
+
+
 
 **Benefits of a good network include:**
 
@@ -65,7 +72,7 @@ Always bridge and build relationships. As you should have become aware by now, t
 If you feel that you don't have any network, then I think that you should reassess your position. You likely do have people that you talk to and interact with that are already part of a network, but your question is how to increase the size, and potential scope, of your network. In the same way that everyone will have their own path through their career, the best way to grow your network will be unique to you. 
 
 ### Calculating the size of your network
-A simple metric for your network is the total number of co-authors that you have from all of your publications. Clearly, as you increase the number of people that you work (and hopefully) publish with, you will have a bigger, better functioning network. However, scientometricians have their own ways of interpreting and mapping networks (see Figure \@ref(fig:Olaf-SA-invasive-fish)). 
+A simple metric for your network is the total number of co-authors that you have from all of your publications. Clearly, as you increase the number of people that you work and (hopefully) publish with, you will have a bigger, better functioning network. However, scientometricians have their own ways of interpreting and mapping networks (see Figure \@ref(fig:Olaf-SA-invasive-fish)). 
 
 (ref:Olaf-SA-invasive-fish) **An author network for the Web of Science search for "Invasive fish" AND "South Africa"**. In this author network you will see my friend and colleague, the late Prof. Olaf Weyl, who is at the centre of a large group of people who worked on invasive fish in South Africa. Olaf's wasn't the only research group, but certainly the most influential and joined up. Olaf's collaborations were extensive, spanning continents and generations of researchers. Drawn with VOSviewer [@vaneck2010software].
 
@@ -80,8 +87,8 @@ Another method for determining the size of your network, or those of potential c
 
 Once you start to calculate your own value of **R**, you will appreciate that not only are large networks important, but that it is useful to start these networks early and maintain working with an every increasing group throughout your career. 
 
-### Using social-networks to grow your nework
-The ways in which you can grow your network have never been so great. Social networking is a massive way to reach other researchers and you don't have to wait for a meeting to do this. The #academictwitter groups are already very large and established. Investing time in getting connected is worthwhile, especially when you can meet up in person through conferences and symposia. I don't want to make out that Twitter, and (no doubt) other social networking is easy, but it is a good way of hooking up with a whole lot of other people without having to leave your desk. You can pitch ideas, and get collaborations moving in your area. Once you have it working for you, it is very empowering; remaining aware that it can [go wrong](#social). If social networking is your thing, then I'd suggest trying to find yourself a 'social networking mentor' - someone that already has a good following and can guide you through the various nuances of (often unspoken) rules that happen on these platforms.
+### Using social-networks to grow your network
+The ways in which you can grow your network have never been so great. Social networking is a massive way to reach other researchers and you don't have to wait for a meeting to do this. The #academictwitter groups are already very large and established. Investing time in getting connected is worthwhile, especially when you can meet up in person through conferences and symposia. I don't want to make out that Twitter, and (no doubt) other social networking is easy, but it is a good way of hooking up with a whole lot of other people without having to leave your desk. You can pitch ideas, and get collaborations moving in your area. Once you have it working for you, it is very empowering; remaining aware that it can [go wrong](#social). If social networking is your thing, then I'd suggest trying to find yourself a 'social networking mentor' - someone who already has a good following and can guide you through the various nuances of (often unspoken) rules that happen on these platforms.
 
 ## Creating your own website {#website}
 Whether or not you have your own lab as an Early Career Researcher you would be doing yourself a favour by creating your own website. Having a website is a way of creating your own brand and making you distinct from whatever institution or group you are a member of.
@@ -90,11 +97,11 @@ Websites don't have to be fancy. There are plenty of ways in which to make good-
 
 **What to include on your website**
 
-- Make sure that you have your professional contact details, including your institutional email address. This will help any editors for other colleagues that are trying to contact you. Avoid having a form is the only way of making contact with you
-- Write some general blurb about yourself and your work including all relevant keywords for your subject area
-- Have a list of your publications, conference presentations, popular articles, patents, and any other outputs that are relevant to your professional profile
-- Provide a summary of your professional research experience listing where you did your degrees and any post doctoral work
-- Make sure that your website works on lots of different platforms. Preferably it will work on mobile devices as well as desktops and laptops
+- Make sure that you have your professional contact details, including your institutional email address. This will help any editors for other colleagues that are trying to contact you. Avoid having a form as the only way of making contact with you.
+- Write some general blurb about yourself and your work including all relevant keywords for your subject area. Three to four sentences on what you do is really useful to be able to quickly send to people for a bio about yourself. Once you are happy with your blurb, place different length blurbs on your website so that you can quickly respond to requests for 50, 100 or 200 words.
+- Have a list of your publications, conference presentations, popular articles, patents, and any other outputs that are relevant to your professional profile.
+- Provide a summary of your professional research experience listing where you did your degrees and any post doctoral work. A kind of mini-CV. 
+- Make sure that your website works on lots of different platforms. Preferably it will work on mobile devices as well as desktops and laptops.
 - Link to your various academic profiles: Publons, ORCID, Scopus, ResearchGate, Academia.edu, GitHub, etc.
 - Provide a link back to your institutional website and your current lab, as this will help legitimise your independent website standing. People want to see that you are who you claim to be
 
