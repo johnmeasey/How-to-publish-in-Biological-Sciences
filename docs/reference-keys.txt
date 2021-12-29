@@ -182,6 +182,7 @@ NOif
 shortlist
 openaccess1
 closed
+open-access-2
 gratis
 libre
 green
