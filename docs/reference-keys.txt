@@ -21,13 +21,13 @@ fig:scavans
 fig:PhilTransRoySoc
 fig:journal-video
 tab:profit
-fig:eBook-prices
 fig:authors-writing-more
 tab:retract
 fig:life-sciences-retractions
 fig:retraction1
 fig:retraction2
 fig:bully
+fig:eBook-prices
 closedtoopen
 three-fundamentals-of-publishing-in-biological-sciences
 gatekeepers
@@ -255,10 +255,8 @@ openaccess
 so-what-is-open-access
 PLOS
 so-does-that-mean-that-oa-journals-are-now-free
-nature-publishing---pay-for-review
 wicked
 deals
-what-is-publishing-then
 change
 howpeerreview
 novelty-or-repeatability
@@ -290,10 +288,9 @@ to-spot-a-predatory-journal-use-the-following-list-in-a-stepwise-fashion
 if-predatory-journals-are-becoming-more-like-legitimate-journals-wheres-the-harm-in-publishing-with-them
 what-do-you-do-if-you-have-already-published-in-a-journal-that-others-consider-predatory
 paywall2
-why-dont-all-society-journals-do-without-publishers-and-go-open-access-independently
+why-dont-all-society-journals-publish-independently
 money
 loss
-what-about-academic-books
 what-will-it-take-to-break-the-vicious-cycle
 societies
 can-we-afford-not-to-change
@@ -338,3 +335,4 @@ doctor-of-science-dsc
 tenure
 leavingacademia
 key-insights-if-you-are-looking-for-a-career-outside-academia
+what-about-academic-books
