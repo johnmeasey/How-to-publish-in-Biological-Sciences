@@ -272,8 +272,10 @@ how-long-should-your-review-be
 what-to-do-if-you-suspect-fraud
 onlinecourse
 problempeerreview
-upsetting-comments
-ad-hominem-attacks
+upsetting
+why-do-academics-make-all-of-these-terrible-comments
+adhominem
+sweetheart-reviews
 demonstrated-biases-in-peer-review
 all-reviews-are-not-equal
 decisions-rest-with-editors
