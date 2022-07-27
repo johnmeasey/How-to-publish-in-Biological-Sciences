@@ -1,6 +1,6 @@
 # How to publish in Biological Sciences: A guide for the uninitiated
 
-This is an Open Access book by John Measey, now <b>submitted</b> to CRC Press
+This is an Open Access book by John Measey, and is also available in print from [CRC Press](https://www.routledge.com/How-to-Publish-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032116419) (2022)
 
 ![cover](https://user-images.githubusercontent.com/25199650/131245320-269a0b7d-9c04-415a-967a-bef5f0d4ebb9.jpg)
 
