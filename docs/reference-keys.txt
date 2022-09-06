@@ -13,6 +13,7 @@ fig:bioRxiv-line-annotated
 fig:Prisma-flow
 fig:Paywall-graphic
 fig:Piwowar
+tab:APCs
 fig:Editorial-work-flow
 fig:atlmetric
 fig:impactstory
@@ -27,7 +28,6 @@ fig:life-sciences-retractions
 fig:retraction1
 fig:retraction2
 fig:bully
-fig:eBook-prices
 closedtoopen
 three-fundamentals-of-publishing-in-biological-sciences
 gatekeepers
@@ -193,9 +193,12 @@ hybrid
 diamond
 black
 grey
-APC
+article-processing-charge---apc
 supplementary-information-and-data
 unsure-what-you-can-legally-do-with-a-published-paper
+APC
+shifting-the-real-costs-for-overlay-journal-models
+salaries
 submit
 a-typical-submission-work-flow
 remember-that-peer-review-is-conducted-by-humans
@@ -337,4 +340,3 @@ doctor-of-science-dsc
 tenure
 leavingacademia
 key-insights-if-you-are-looking-for-a-career-outside-academia
-what-about-academic-books
