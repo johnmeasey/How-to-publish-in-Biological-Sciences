@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# ignoring the autowritten _book directory
+_book/
+
+# ignoring bookdown files that came with the download
+_bookdown_files/
+
+# ignoring latex files
+latex/
+
+# ignoring changes to figures (but not in the docs folder)
+figures/
