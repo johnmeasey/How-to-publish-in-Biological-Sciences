@@ -13,8 +13,8 @@ fig:bioRxiv-line-annotated
 fig:Prisma-flow
 fig:Paywall-graphic
 fig:Piwowar
-tab:APCs
 fig:Editorial-work-flow
+tab:APCs
 fig:atlmetric
 fig:impactstory
 tab:Bias
@@ -43,8 +43,8 @@ peer-review-and-citations
 citations-and-peer-review
 openscience
 whatjournalfor
+what-will-journals-be
 peerreview
-history-of-peer-review
 how-high-is-the-peer-review-bar
 whopeers
 professionals
@@ -134,8 +134,8 @@ when-should-evaluation-end
 are-preprints-published
 overlay
 what-do-traditional-publishers-think-of-overlay-journals
+what-is-happening-in-biological-sciences
 PCI-EvolBiol
-peer-community-in
 commitment
 beware
 peeriodicals---another-twist-on-the-idea-of-an-overlay-journal
@@ -196,9 +196,6 @@ grey
 article-processing-charge---apc
 supplementary-information-and-data
 unsure-what-you-can-legally-do-with-a-published-paper
-APC
-shifting-the-real-costs-for-overlay-journal-models
-salaries
 submit
 a-typical-submission-work-flow
 remember-that-peer-review-is-conducted-by-humans
@@ -246,6 +243,11 @@ doi-tools
 ORCID
 once-you-have-a-publication-date
 on-the-day-you-publish
+APC
+what-does-the-article-processing-charge-pay-for
+shifting-the-real-costs-for-overlay-journal-models
+salaries
+what-would-a-reasonable-apc-cost-look-like
 pressrelease
 populararticle
 heres-a-quick-guide-on-how-to-get-started-writing-a-popular-article.
