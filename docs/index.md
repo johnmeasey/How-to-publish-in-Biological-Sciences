@@ -1,7 +1,7 @@
 --- 
 title: "How to publish in Biological Sciences: a guide for the uninitiated"
 author: "John Measey"
-date: "2022-09-21"
+date: "2022-09-30"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -20,7 +20,7 @@ lof: yes
 ---
 
 
-# Preface  {-}
+# How to publish in Biological Sciences  {-}
 
 This book was published in **2022** with CRC Press. The printed version of this book is available from [CRC Press](https://www.routledge.com/How-to-Publish-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032116419). Citation details can be found [here](#how-to-cite).
 
