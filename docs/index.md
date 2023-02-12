@@ -1,23 +1,25 @@
 --- 
 title: "How to publish in Biological Sciences: a guide for the uninitiated"
 author: "John Measey"
-date: "2022-10-12"
-site: bookdown::bookdown_site
+date: "2023-02-12"
 documentclass: book
 bibliography: [book.bib, packages.bib]
-url: https://howtopublishscience.org/
-description: "Publishing a paper in an academic journal should simply consist of submitting a publication worthy manuscript. But having a working knowledge of publishing will enable you to make better decisions about what, where and how to submit manuscripts. This all comes with experience, and in this book, I unravel areas of assumed knowledge and furnish them with explanations pitched at the Early Career Researcher, along with links and citations where you can read more. This book explores the wicked problem of academic publishing, and how to move from a closed to an open, transparent system. I explain the many choices that exist for those wishing to submit a manuscript for publication in the Biological Sciences. I explore the world of publication bias, and how this is evidenced by reviewers and editors. Impact Factors, citations and how the desire to track the performance of academics has led to unethical practices and exploitation of science and scientists. This guide provides an 'everything you wanted to know about publishing but were afraid to ask' approach for anyone who still feels that submitting a manuscript is like posting it into a black box. This book is written to get you onto an even footing."
-github-repo: johnmeasey/How-to-publish-in-Biological-Sciences
-graphics: yes
-cover-image: figures/cover.png
-favicon: figures/favicon.png
 biblio-style: apalike
 csl: peerj.csl
 link-citations: yes
 colorlinks: yes
 lot: yes
 lof: yes
+site: bookdown::bookdown_site
+#output: bookdown::gitbook
+description: "Publishing a paper in an academic journal should simply consist of submitting a publication worthy manuscript. But having a working knowledge of publishing will enable you to make better decisions about what, where and how to submit manuscripts. This all comes with experience, and in this book, I unravel areas of assumed knowledge and furnish them with explanations pitched at the Early Career Researcher, along with links and citations where you can read more. This book explores the wicked problem of academic publishing, and how to move from a closed to an open, transparent system. I explain the many choices that exist for those wishing to submit a manuscript for publication in the Biological Sciences. I explore the world of publication bias, and how this is evidenced by reviewers and editors. Impact Factors, citations and how the desire to track the performance of academics has led to unethical practices and exploitation of science and scientists. This guide provides an 'everything you wanted to know about publishing but were afraid to ask' approach for anyone who still feels that submitting a manuscript is like posting it into a black box. This book is written to get you onto an even footing."
+github-repo: johnmeasey/How-to-publish-in-Biological-Sciences
+graphics: yes
+cover-image: figures/cover.png
+favicon: figures/favicon.png
 ---
+
+
 
 
 # How to publish in Biological Sciences  {-}
@@ -27,12 +29,12 @@ This book was published in **2022** with CRC Press. The printed version of this 
 <a href="http://john.measey.com/" target="_blank"><img src="figures/cover.jpg" style="display: block; margin: auto 0 auto auto;" /></a>
 
 
-You can order your own copy on the [CRC Press website](https://www.routledge.com/How-to-Publish-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032116419), [Amazon](https://www.amazon.com/How-Publish-Biological-Sciences-Uninitiated/dp/1032116447), [Barnes & Noble](https://www.barnesandnoble.com/w/how-to-publish-in-biological-sciences-john-measey/1140172276) and other good book sellers. Note that the printed version dates back to July 2022 and that the online version continues to grow and change. Interested in participating? Take a look [here](#contribute). 
+You can order your own copy on the [CRC Press website](https://www.routledge.com/How-to-Publish-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032116419), [Amazon](https://www.amazon.com/How-Publish-Biological-Sciences-Uninitiated/dp/1032116447), [Barnes & Noble](https://www.barnesandnoble.com/w/how-to-publish-in-biological-sciences-john-measey/1140172276) and other good book sellers. Please note that the printed version of this book dates back to July 2022 and that the online version continues to grow and change. Take a look [here](#contribute).
 
 **Cover illustration**: The Tower of Babel was adapted by the author from an original work by Pieter Bruegel the Elder (1563) painted to represent the demolition and scattering of peoples so as to impair their communication. The collapse is coming, but can we save the scientific project? In my version, a group of Early Career Researchers can be seen (bottom left) deciding how to rebuild the ancient edifice that represents scientific publishing (centre), with an entrance guarded by gatekeepers (centre right). The skies above reflect the choice open to them; to stay in a closed system or to choose a future of open science. 
 
 # Welcome {-}
-
+<br>
 Welcome to my guide on how to publish in the biological sciences. This guide is pitched at the early career researcher. It is not going to tell you what to write, but to open and examine the black box of scientific publishing, and more broadly explore how this impacts the academic context. My intention is to demystify publication in the biological sciences, so that readers become aware of what is happening once they have submitted a manuscript, and how to better interpret the decisions made by colleagues who are reviewing and editing your work.
 
 Publishing has become vital for all academics, such that it is widely recognised that we inhabit a 'publish or perish' academic landscape. For some the process appears effortless, while for others publishing represents a black box leaving them outside in a highly stressful environment. This book is meant to be a guide to those uninitiated members of the academic community, postgraduate students and early career researchers, to bring them up to speed with all the necessary background information on publishing, providing links and references for reading and learning more.
@@ -69,15 +71,11 @@ Once your article is accepted, you can celebrate together with your co-authors! 
 ## Why 'A guide for the uninitiated'? {-}
 Early Career Researchers are within eight years of getting their PhD or within six years of their first academic job. At this time, you will have already experienced the academic life, including publishing, but there will be far more to it than you are aware of. This book considers Early Career Researchers as colleagues who simply lack the experience of a system that has changed in many ways over the last 20 years. To those of you who know the current publishing scene in biological sciences, it offers the perspective of where things have come from. I have written this book as I feel that I would have been able to achieve more had I understood more about the publishing process early on in my own career. If I had only had a guide to tell me what it was all about, I could have saved myself so much stress, time and energy. In short, I feel that I was uninitiated, and this is the guide I wish that I had had. So, this guide is my practical attempt to help you; to get you up to speed in the world of academic publishing, specifically in the biological sciences. After reading this book, I hope that you will avoid the nightmare world of publishing of constant effort ending in dead end rejections that so many academics describe.
 
-
+<br>
 
 ## Acknowledgments {-}
 
-There are a great many people that I need to thank. First and foremost are the members of my lab, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community (especially \#academicTwitter) for sharing and inspiring. Thanks go to the many reviewers and editors who have taken their time to improve my writing. I am still learning. Lots of the text in this book has been improved by feedback from my students and postdocs. A special mention must go to my brother, Richard, who has hosted my lab website for more than a decade, and especially for saving blog posts from hacking attacks. Thanks also to my wife, Thalassa, who proofread many of the blog posts after I had published them late at night, so that I could correct them over breakfast in the morning. Graham Alexander, James Baxter-Gilbert, Dan Bolnick, Jack Dougherty, João Fontiela, Thomas Guillemaud, Anthony Herrel, Michael Hochberg, Andrea Hurst, Allan Ellis, Rachael Lammey (CrossRef), Andrea Melotto, Lisa and Mark O'Connell, Ivan Oransky (Retraction Watch), Heather Piwowar (ImpactStory), Claire Riss (Center for Open Science), Johan Rooryck (cOAltition S), Daniel Shea, Daniel van Blerk, James Vonesh, Carla Wagener all read or commented on different aspects of the book. Thanks are also due to my colleagues at the Centre for Invasion Biology, the Department of Botany and Zoology, and Stellenbosch University. A special thanks to the librarians who have supported many of my more extreme rantings about publishers.
+There are a great many people that I need to thank. First and foremost are the members of my lab, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community (especially \#academicTwitter) for sharing and inspiring. Thanks go to the many reviewers and editors who have taken their time to improve my writing. I am still learning. Lots of the text in this book has been improved by feedback from my students and postdocs. A special mention must go to my brother, Richard, who has hosted my lab website for more than a decade, and especially for saving blog posts from hacking attacks. Thanks also to Thalassa Matthews, who proofread many of the blog posts after I had published them late at night, so that I could correct them over breakfast in the morning. Graham Alexander, James Baxter-Gilbert, Dan Bolnick, Jack Dougherty, João Fontiela, Thomas Guillemaud, Anthony Herrel, Michael Hochberg, Andrea Hurst, Allan Ellis, Rachael Lammey (CrossRef), Andrea Melotto, Lisa and Mark O'Connell, Ivan Oransky (Retraction Watch), Heather Piwowar (ImpactStory), Claire Riss (Center for Open Science), Johan Rooryck (cOAltition S), Daniel Shea, Daniel van Blerk, James Vonesh, Carla Wagener all read or commented on different aspects of the book. Thanks are also due to my colleagues at the Centre for Invasion Biology, the Department of Botany and Zoology, and Stellenbosch University. A special thanks to the librarians who have supported many of my more extreme rantings about publishers.
 
 \BeginKnitrBlock{flushright}<p class="flushright">John Measey  
 Cape Town</p>\EndKnitrBlock{flushright}
-
-
-
-

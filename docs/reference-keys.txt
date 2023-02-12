@@ -13,7 +13,6 @@ fig:bioRxiv-line-annotated
 fig:Prisma-flow
 fig:Paywall-graphic
 fig:Piwowar
-tab:CoIs
 fig:Editorial-work-flow
 tab:APCs
 fig:atlmetric
@@ -85,6 +84,8 @@ pushback
 authors
 ghost
 papermills
+authorship-for-sale
+fabrication-of-research
 honorary
 DORA
 who-should-be-an-author
@@ -123,7 +124,6 @@ networks
 calculating-the-size-of-your-network
 using-social-networks-to-grow-your-network
 website
-bio
 preprints2
 what-are-preprints
 bioRxiv
@@ -198,17 +198,6 @@ grey
 article-processing-charge---apc
 supplementary-information-and-data
 unsure-what-you-can-legally-do-with-a-published-paper
-conflicts-of-interest
-what-does-the-conflict-of-interest-statement-mean
-no-conflict-of-interest
-examples-of-conflict-of-interest
-atrazine-syngenta-and-their-sponsored-research
-ecorisk-and-their-conflicts-of-interest
-duPreez
-how-to-interpret-a-conflict-of-interest-statement
-trust
-tackling-journal-capture-from-the-past
-an-open-science-approach-can-solve-the-crisis-in-conflicts-of-interest
 submit
 a-typical-submission-work-flow
 remember-that-peer-review-is-conducted-by-humans
@@ -295,9 +284,6 @@ why-do-academics-make-all-of-these-terrible-comments
 adhominem
 sweetheart
 demonstrated-biases-in-peer-review
-finding-reviewers
-pestering-bots
-super-reviewers
 all-reviews-are-not-equal
 decisions-rest-with-editors
 the-social-side-of-peer-review
@@ -310,6 +296,7 @@ OMICS
 to-spot-a-predatory-journal-use-the-following-list-in-a-stepwise-fashion
 if-predatory-journals-are-becoming-more-like-legitimate-journals-wheres-the-harm-in-publishing-with-them
 what-do-you-do-if-you-have-already-published-in-a-journal-that-others-consider-predatory
+hijacked
 paywall2
 why-dont-all-society-journals-publish-independently
 money

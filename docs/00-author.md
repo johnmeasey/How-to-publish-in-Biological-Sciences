@@ -1,6 +1,6 @@
 # About the Author {- #author}
 
-John Measey is Associate Professor of Biological Sciences at Stellenbosch University. He has authored or co-authored more than 200 peer reviewed scientific papers and book chapters, and five books. He has been the Editor-in-Chief of an ISI journal for 9 years, and currently serves as Associate Editor for 4 other journals. He has graduated more than 20 postgraduate students, and [his blog](john.measey.com/blog) on writing and publishing in biological sciences is read by thousands globally. British born and educated, he lives and works in the beautiful Western Cape, South Africa.
+John Measey is Professor at the Institute of Biodiversity, Yunnan University, and Professor Extraordinary at Stellenbosch University. He has authored or co-authored [more than 200](https://orcid.org/0000-0001-9939-7615) peer reviewed scientific papers and book chapters, and five books. He has been the Editor-in-Chief of an ISI journal for 9 years, and currently serves as Associate Editor for 4 other journals. He has graduated more than 20 postgraduate students, and [his blog](john.measey.com/blog) on writing and publishing in biological sciences is read by thousands globally. British born and educated, he lives and works in the Spring City, Kunming in Yunnan Province, China and in Cape Town, South Africa.
 
 <a href="http://john.measey.com/About-Me" target="_blank"><img src="figures/john.jpg" width="15%" style="display: block; margin: auto 0 auto auto;" /></a>
 
