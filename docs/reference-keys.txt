@@ -32,6 +32,7 @@ closedtoopen
 three-fundamentals-of-publishing-in-biological-sciences
 gatekeepers
 capture
+perspective-on-ethics-of-big-publishers
 peer-review
 impact-factor
 cite
@@ -223,6 +224,7 @@ rejection
 timetaken
 what-to-do-when-you-receive-your-reviewer-comments
 rebuttal
+your-rebuttal-as-an-open-document
 what-if-you-dont-agree-with-a-reviewer
 when-reviewers-ask-for-additional-analyses-or-experiments
 conflict
