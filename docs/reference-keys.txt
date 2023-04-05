@@ -13,6 +13,7 @@ fig:bioRxiv-line-annotated
 fig:Prisma-flow
 fig:Paywall-graphic
 fig:Piwowar
+tab:conflict
 fig:Editorial-work-flow
 tab:APCs
 fig:atlmetric
@@ -32,7 +33,7 @@ closedtoopen
 three-fundamentals-of-publishing-in-biological-sciences
 gatekeepers
 capture
-perspective-on-ethics-of-big-publishers
+oil
 peer-review
 impact-factor
 cite
@@ -199,6 +200,18 @@ grey
 article-processing-charge---apc
 supplementary-information-and-data
 unsure-what-you-can-legally-do-with-a-published-paper
+conflicts
+what-does-the-conflict-of-interest-statement-mean
+no-conflict-of-interest
+examples-of-conflict-of-interest
+atrazine-syngenta-and-their-sponsored-research
+ecorisk-and-their-conflicts-of-interest
+duPreez
+oil2
+how-to-interpret-a-conflict-of-interest-statement
+trust
+tackling-journal-capture-from-the-past
+an-open-science-approach-can-solve-the-crisis-in-conflicts-of-interest
 submit
 a-typical-submission-work-flow
 remember-that-peer-review-is-conducted-by-humans
