@@ -306,7 +306,7 @@ the-invisible-hand-of-peer-review
 fixing
 peer-review-is-here-to-stay
 predatory
-if-the-line-is-so-grey-how-is-it-possible-to-tell-whether-or-not-a-journal-is-predatory
+Hindawi
 OMICS
 to-spot-a-predatory-journal-use-the-following-list-in-a-stepwise-fashion
 if-predatory-journals-are-becoming-more-like-legitimate-journals-wheres-the-harm-in-publishing-with-them
@@ -341,7 +341,7 @@ notification-of-retraction
 retractionwatch
 fabrication
 fraud-by-individuals-or-laboratories
-by-third-parties
+id_3rdparties
 who-is-responsible
 fraud
 PruittData
