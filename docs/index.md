@@ -1,7 +1,7 @@
 --- 
 title: "How to publish in Biological Sciences: a guide for the uninitiated"
 author: "John Measey"
-date: "2023-05-09"
+date: "2023-06-13"
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -46,12 +46,17 @@ Publishing a paper in an academic journal should simply consist of submitting a 
 
 ## What's not in this book {-}
 
-Depending on just how early you are in your career, there is a lot missing from this book that has been provided in another book [**How to write a PhD in Biological Sciences**](www.howtowriteaphd.org). That book concentrates on getting PhD students started writing data chapters, while this book concentrates on publishing manuscripts. Hence, if you want extra information about writing in the biological sciences, I would point you to the other book. If you are happy with what you have written, but want help to demystify the publishing process, then this is the right book for you.
+Depending on just how early you are in your career, there is a lot missing from this book that has been provided in another book [**How to write a PhD in Biological Sciences**](https://howtowriteaphd.org/). That book concentrates on getting PhD students started writing data chapters, while this book concentrates on publishing manuscripts. Hence, if you want extra information about writing in the biological sciences, I would point you to the other book. If you are happy with what you have written, but want help to demystify the publishing process, then this is the right book for you.
+
+If you want more help with writing the manuscript, then [**How to write a PhD in Biological Sciences**](https://howtowriteaphd.org/) is the content that you need:
+
+<a href="https://howtowriteaphd.org/" target="_blank"><img src="figures/Cover1.jpg" width="50%" /></a>
+
 
 There is common ground in both books, and I will point to important chapters relevant to publishing in the other book that are not reproduced here:
 [Plagiarism](http://www.howtowriteaphd.org/plagiarise.html), [Being aware that you can get it wrong](http://www.howtowriteaphd.org/TypeI.html), [Transparency](http://www.howtowriteaphd.org/transparency.html), and many more.
 
-## Structure of the book {-}
+## Structure of this book {-}
 
 This book is written in four parts:
 
@@ -75,7 +80,7 @@ Early Career Researchers are within eight years of getting their PhD or within s
 
 ## Acknowledgments {-}
 
-There are a great many people that I need to thank. First and foremost are the members of my lab, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community (especially \#academicTwitter) for sharing and inspiring. Thanks go to the many reviewers and editors who have taken their time to improve my writing. I am still learning. Lots of the text in this book has been improved by feedback from my students and postdocs. A special mention must go to my brother, Richard, who has hosted my lab website for more than a decade, and especially for saving blog posts from hacking attacks. Thanks also to Thalassa Matthews, who proofread many of the blog posts after I had published them late at night, so that I could correct them over breakfast in the morning. Graham Alexander, James Baxter-Gilbert, Dan Bolnick, Jack Dougherty, João Fontiela, Thomas Guillemaud, Anthony Herrel, Michael Hochberg, Andrea Hurst, Allan Ellis, Rachael Lammey (CrossRef), Andrea Melotto, Lisa and Mark O'Connell, Ivan Oransky (Retraction Watch), Heather Piwowar (ImpactStory), Claire Riss (Center for Open Science), Johan Rooryck (cOAltition S), Daniel Shea, Daniel van Blerk, James Vonesh, Carla Wagener all read or commented on different aspects of the book. Thanks are also due to my colleagues at the Centre for Invasion Biology, the Department of Botany and Zoology, and Stellenbosch University. A special thanks to the librarians who have supported many of my more extreme rantings about publishers.
+There are a great many people that I need to thank. First and foremost are the members of my lab, past and present, who have inspired me to put together first the blog posts and then the book. It is because you wanted more that I put this together. This book contains lots of links to blogs and articles written and posted freely on the internet by others who also aim to demystify and help. I thank this greater academic community (especially \#academicTwitter) for sharing and inspiring. Thanks go to the many reviewers and editors who have taken their time to improve my writing. I am still learning. Lots of the text in this book has been improved by feedback from my students and postdocs. A special mention must go to my brother, Richard, who has hosted my lab website for more than a decade, and especially for saving blog posts from hacking attacks. Thanks also to Thalassa Matthews, who proofread many of the blog posts after I had published them late at night, so that I could correct them over breakfast in the morning. Graham Alexander, James Baxter-Gilbert, Dan Bolnick, Chris Chambers, Jack Dougherty, João Fontiela, Thomas Guillemaud, Anthony Herrel, Michael Hochberg, Andrea Hurst, Allan Ellis, Rachael Lammey (CrossRef), Krista McCoy (and the McCoy lab group), Andrea Melotto, Lisa and Mark O'Connell, Ivan Oransky (Retraction Watch), Heather Piwowar (ImpactStory), Claire Riss (Center for Open Science), Johan Rooryck (cOAltition S), Daniel Shea, Daniel van Blerk, James Vonesh, Carla Wagener all read or commented on different aspects of the book. Thanks are also due to my colleagues at the Centre for Invasion Biology, the Department of Botany and Zoology, and Stellenbosch University. A special thanks to the librarians who have supported many of my more extreme rantings about publishers.
 
 \BeginKnitrBlock{flushright}<p class="flushright">John Measey  
 Cape Town</p>\EndKnitrBlock{flushright}
