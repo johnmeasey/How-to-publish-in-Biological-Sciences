@@ -20,9 +20,15 @@ I provided an in-depth chapter on how to approach writing a review including dif
  knitr::include_graphics("figures/review-article.png")
 ```
 
+## Natural History observations
+Natural history notes are effectively publications made from unplanned observations. They underpin many of the [Big Ideas](https://howtowriteaphd.org/bigidea.html) in biological sciences, including the theory of evolution [@darwin1859origin]. For an insightful read on the interaction of ecology and natural history, see Anderson [-@anderson2017why].
+
+Natural history observations are accounts of novel information, once-off or multiple/methodical observations and range from a full paper to a few structured paragraphs. They are defined by  not being the outcome of a planned experiment or inquiry. That is, they would not be part of your [research proposal](https://howtowriteaphd.org/proposal.html) or [preregistered plan](https://howtowriteaphd.org/transparency.html#preregistration) for your research. This does not make them any less important than one of your planned studies, but statistically they generally have less power and could potentially be victim of [HARKing](https://howtowriteaphd.org/nohypothesis.html#avoid-harking). As a result, it is important to clearly state in the Methods that they are natural history observations, so that others know how to interpret them. 
+
+Important natural history observations require replication as planned experiments to determine their validity and hence importance moving forwards. They are a good example of how [preregistered plan](https://howtowriteaphd.org/transparency.html#preregistration) for your research do not overly restrict publishing your work, but do keep you honest in your reporting.
 
 ## Commentaries or Opinion pieces {#commentary}
-Your opinion is important, or at least as important as anyone else's. Critical reading is a very important part of science and something that you should maintain throughout your career. From time to time you will come across articles and papers that you know are wrong, or fail to represent sufficient balance. Many journals will accept commentaries or opinion pieces based on articles that they have already published. This is an opportunity for you to make a correction to something that's already published in the literature. Please know that here we are not talking about anything you think might be fraudulent for that there is [another process](#fraud).
+Your opinion is important, or at least as important as anyone else's. Critical reading is a very important part of science and something that you should maintain throughout your career. From time to time you will come across articles and papers that you know are wrong, or fail to represent sufficient balance. Many journals will accept commentaries (also known as rebuttals) or opinion pieces based on articles that they have already published. This is an opportunity for you to make a correction to something that's already published in the literature. Please know that here we are not talking about anything you think might be fraudulent for that there is [another process](#fraud).
 
 There are several things worth considering before putting pen to paper on your commentary and sending it to the editor. 
 
@@ -38,6 +44,8 @@ There are several things worth considering before putting pen to paper on your c
 1. Have a look through at some instances of where this has happened in the literature in your field. If you can talk to the people involved and try to find out whether things worked out positively for them. Although I do not want to say that you shouldn't do this, you should know that what you're doing is not going to backfire on you especially as an Early Career Researcher. 
 
 1. If you do decide to go ahead with this then consider asking other members of your network to join you. Although it's not a sheer game of numbers it may help you to gauge a better and more equitable stance on your commentary.
+
+1. Don't expect that your rebuttal will change the way that people think. A study of seven prominent papers and their rebuttals showed that rebuttals were rarely cited alongside the prominent paper, and most citations were not critical [@banobi2011rebuttals].
 
 The other option you have is publishing a commentary that is very positive about the findings of a particular paper. Some journals published such commentaries about the contents of their journal as well as the contents of journals outside. Again this may be a better way of influencing soft power.
 

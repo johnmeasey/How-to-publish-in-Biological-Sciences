@@ -7,7 +7,7 @@ In keeping with the [spirit of peer review](#spirit), you should suggest people 
 ## Who should you not suggest?
 
  - Anyone who is an author or in the acknowledgements
- - Anyone else you feel may have a conflict of interest 
+ - Anyone else you feel may have a [conflict of interest](#conflicts) 
    + connected with the work but not an author
    + someone who was on your review committee
  - Someone in your department or even at your institution (there may be exceptions here, but often journals will not consider people with matching institutional emails)
@@ -16,11 +16,16 @@ In keeping with the [spirit of peer review](#spirit), you should suggest people 
  
 ## Who should you oppose?
 
-In addition to allowing you to suggest reviewers, many journals allow you to oppose reviewers. I usually leave this blank. If you have a particular lab or persons who you know will not follow the [spirit of peer review](#spirit), you could enter them here. 
+In addition to allowing you to suggest reviewers, many journals allow you to oppose reviewers. Most people leave this blank [@fox2017author-suggested]. If you have a particular lab or persons who you know will not follow the [spirit of peer review](#spirit), you could enter them here. 
  
  
 ## Who will the editor use?
-It is worth bearing in mind that whoever you suggest, the editor may not use them. I have talked to editors who will never consider anyone recommended by authors as a matter of course, because they assume that these people will be positively biased towards the authors. This same editor said that they'd always use at least one of the opposed reviewers. This rarely fits with journal policy. 
+
+It is worth bearing in mind that whoever you suggest, the editor may not use them. I have talked to editors who will never consider anyone recommended by authors as a matter of course, because they assume that these people will be positively biased towards the authors. Other editors say that they always use at least one of the opposed reviewers. Such extreme editors do exist, but most appear to fall somewhere in between.
+
+Studies show that author suggested reviewers are less likely to reject a manuscript in the initial stages of peer review than those chosen by the editorial team, even though the quality and tone between the two sets of reviewers are no different [@wager2006are; @schroter2006differences; @rivara2007comparison; @fox2017author-suggested; @liang2018should]. According to Fox et al. [-@fox2017author-suggested], for the journal _Functional Ecology_, editors approach author proposed reviewers about a quarter of the time. Because proposed reviewers are more likely to accept invitations [@liang2018should], the likelihood of them reviewing your manuscript is higher.
+
+Editorial policy will dictate whether or not opposed reviewers are used, but analyses in some biological journals report that opposed reviewers are occasionally used [@fox2017author-suggested; @hausmann2018reviewer]. These differences in editorial policy may explain why some journals find that opposing reviewers increases the chances of acceptance [@grimm2005suggesting]. 
 
 As an editor, I will often use one of the reviewers suggested by the authors if they fit my (following) criteria. I will make sure that I balance this with another reviewer or two not suggested by the authors. To select reviewers, I will [read the submission](#editors) and look for citations of similar studies, or techniques (depending on the type of paper). From the citation, I will find the paper (preferably published in the last 3 years) and use the corresponding author's address. I will also try to visit the website of the senior (last) author to see whether they have a lab that is still active in this area, and especially I will be looking for post-docs or Early Career Scientists who cover the same topic. If they are there, I will invite them. If not, I will write to the lab head in the hope that they may well recommend one of their post-docs. This process can take a long time, especially [hunting down email addresses](#website) that constantly bounce back from the journal's editorial manager software. 
 

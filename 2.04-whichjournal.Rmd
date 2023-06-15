@@ -16,16 +16,18 @@ As an ECR, you are likely to need to think of review, promotion and [tenure](#te
 I'm going to suggest that you keep a spreadsheet with the answers to the steps below as columns, and different journals as rows. If your submission is rejected from the first journal choice, you can then use this spreadsheet so that you know where to submit next (i.e. just do the work once). This spreadsheet may well come in handy for future similar submissions.
 
 
-### Indexing
+### Indexing {#indexing}
 
-You want other people to be able to find the work that you publish, and so selecting a journal that is already indexed in one of the major literature databases (Web of Science or Scopus) is important. Be aware that when new journals are indexed, they are usually done with their entire back catalogue. Thus, if a journal advertises that it will be listed by one of major literature databases, your submission will likely be listed eventually, even if not immediately.
+You want other people to be able to find the work that you publish, and so selecting a journal that is already indexed in one of the major literature databases (Web of Science or Scopus) is important. You can read more about literature databases and what you can do with them [here](https://howtowriteaphd.org/databases.html). You can search one of these databases to determine whether or not your journal in indexed there, but many of the journals advertise on their home pages where they are indexed. Be aware that when new journals are indexed, they are usually done with their entire back catalogue. Thus, if a journal advertises that it will be listed by one of major literature databases, your submission will likely be listed eventually, even if not immediately.
 
 
 ### The Subject Area
 
 No matter what your paper is about it will fall within an existing subject area. A good way of determining your subject area is to look at those listed by literature database like Web of Science or Scopus. These databases have subject areas which contain groups of journals. You can look through the journals that you cite in your references, then check with Web of Science or Scopus to see which subject area the majority of them are grouped into.
 
-Journals have different hierarchies of scope. Some journals attempt to take on the full gambit of science (e.g. *Science* and *Nature*) while others are only interested in a particular taxonomic group. In general, the impact factor of the journal is likely to be linked to the diversity of the scope. This is not always the case. There are some taxonomically specific journals with high impact factors, and there are some general journals with low impact factors.
+Journals have different hierarchies of scope. Some journals attempt to take on the full gambit of science (e.g. *Science* and *Nature*) while others are only interested in a particular taxonomic group. In general, the impact factor of the journal is likely to be linked to the diversity of the scope. This is not always the case. There are some taxonomically specific journals with high impact, and there are some general journals with low impact.
+
+[JANE (Journal/Author Name Estimator)](https://jane.biosemantics.org/) is a useful tool to help you determine an appropriate target journal. You can enter your title, abstract or keywords into a search box and get a list of journal names with articles having similar titles, together with links to their [PubMed](https://pubmed.ncbi.nlm.nih.gov/) records. Because JANE is only linked to PubMed, it may be of limited use in your area of Biological Sciences. However, you can use similar search methods in other literature databases (Web of Sciences, Dimensions, Scopus, etc.) to get similar results.
 
 Once you have determined your subject area make a list of the journals within this area. Based on your reading of literature pertinent to your manuscript, try to decide whether your manuscript is likely to be accepted by a journal with a high rank. Many databases rank journals into quartiles (Q1 to Q4) based on their subject area. For example, you might see that a journal is ranked Q1 for Biodiversity Conservation, but Q2 for Ecology. These groupings will change depending on the database. These quartiles can be useful groups to set your aims at, but make sure that they correspond with the subject area chosen for your submission. 
 
@@ -61,7 +63,7 @@ Academic publishing started with society journals, and I think that they are sti
 
 
 ### Knowing the journal from the inside
-Your mentor or co-authors could be an Editor or Associate Editor (past or present) of one of your target journals. Or there may be someone in your department or institute that you could consult. I am not suggesting that you use their influence to help you get published, this conflict of interest strictly prohibited by most journals. Instead, these people can help you decide whether or not your submission will be welcomed or [desk rejected](#desk). 
+Your mentor or co-authors could be an Editor or Associate Editor (past or present) of one of your target journals. Or there may be someone in your department or institute that you could consult. I am not suggesting that you use their influence to help you get published, this [conflict of interest](#conflicts) strictly prohibited by most journals. Instead, these people can help you decide whether or not your submission will be welcomed or [desk rejected](#desk). 
 
 Reject without review is typical for manuscripts whose authors have not followed steps 2 to 4. It can still happen, even if you have. Reject without review is such a waste of everybody’s time that you should avoid it if at all possible.
 
@@ -76,7 +78,7 @@ You must make sure that the journal you plan to submit to is not a predatory jou
 
 ### Financial considerations to publishing
 
-In an ideal world, there wouldn’t be any more barriers to you publishing your contribution to the collective of scientific knowledge. Not only is it not an ideal world, but I would argue that there has never been a less ideal time for publishing science. Greedy publishers have taken publicly funded science and made the content creators pay for it time and again. Read more on this [later in the book](#paywall).
+In an ideal world, there wouldn’t be any more barriers to you publishing your contribution to the collective of scientific knowledge. Not only is it not an ideal world, but I would argue that there has never been a less ideal time for publishing science. Read more on this [later in the book](#paywall).
 
 ### Type of peer review
 Another factor that may influence your choice of where to publish is the type of reviewing done by each journal. These [reviewer flavours](#flavours) are discussed in detail elsewhere. See a full description of these types of peer review in [part 1](#flavours).

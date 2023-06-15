@@ -1,5 +1,5 @@
 # What is peer review? {#peerreview}
-
+<br>
 Peer review is often considered to be the 'gold standard' of science [@mayden2012peer]. Manuscripts that have passed peer review are often considered to have been scrutinised to the highest level. If one's peers in the scientific community consider that a manuscript is worthy of publication, then it meets the high standards of peer review. In theory, the review of peers acts as the gatekeeper to all that is good in science, and excludes all that is bad. A lot has been written about peer review (>23000 articles!), and there's plenty more to read out there [@eve2021reading].
 
 While the views in the above paragraph are generally held, there is also a universal acknowledgement that there are a lot of problems with peer review. That this has been widely acknowledged is probably an understatement, as most people who have experienced would likely already know. These problems will be address in [another chapter](#problempeerreview) in the last section of this book. The myriad of failures means that peer review shouldn't ever be exulted as the 'gold standard' touted by many publishers. Peer review does provide a filter of sorts, with the result being better considered as a '[silver standard](#fixing)'. 
@@ -12,7 +12,7 @@ But peer review is here to stay and will remain as a fundamental aspect of publi
 - [problems with peer review](#problempeerreview)
 
 This chapter provides an overview of the topic, but you may need to refer to the other chapters first depending on what your current need is. 
-
+<br>
 ## History of peer review
 The history of peer review is surprisingly modern. We have already seen that journals themselves only date back to the 17th century (see chapter in [Part IV](#whatjournalfor)). These journals included a form of peer review in that letters concerning studies could be published, along with comments made at presentations. However, the type of systematic enforced peer review described in this book is very recent [@eve2021reading]. The journal Nature for example only started systematic peer review for its articles in 1973, and mainstream editor led peer review only really started in the late 1940s [see @tennant2017open]. Typical society journals have followed a similar form of evolution from newsletters to scholarly journals [@measey2011past]. 
 
@@ -46,7 +46,7 @@ The editor has an important role to play (see Figure \@ref(fig:One-round-of-peer
    + Is it sound enough to send to peer review?
    + Whether to use a specialist associate editor
  - To choose the peer reviewers
-   + Without potential conflicts of interest
+   + Without potential [conflicts of interest](#conflicts)
    + Who can cover the content of the manuscript
    + Who agree to doing the review within the prescribed time-frame
  - To assess the reviews of the reviewers
@@ -110,13 +110,21 @@ Double blind reviewers do not know who the authors are, and are anonymous to the
 ### Triple blind reviewers {#triple}
 In theory, it is possible for the editor, after having chosen the reviewers, to be blinded from their identity once they submit their review. This may prevent the editor putting more importance to a more senior reviewer, and ignoring more junior viewpoints. 
 
-### Open reviewers
-Open reviewers know who the authors are, and are known by the authors and editor. Note that this is a simplification of a complex set of potential openness. For a thorough discussion see Ross-Hellauer [-@ross-hellauer2017what]. The open reviewer model does encourage good behaviour (or the avoidance of some of the worst problems) on the part of reviewers. However, reviewers remain brutally direct even when they are named, such that even open comments may be construed as bruising by the authors [@eve2021reading].
+### Open Peer Review {#OPR}
+In Open Peer Review (OPR) authors know who reviewers are, reviewers know who authors are, and reviews alongside rebuttals are published with discrete [DOIs](#DOI) together with a published manuscript. It should be noted that manuscripts that are not accepted never have their review history published, an important flaw in the system that we will return to later. This description of Open Peer Review refers to only one (most transparent) variant, and there are at least 22 subvarients available in the literature, and a lack of common definition (for a thorough discussion see Ross-Hellauer [-@ross-hellauer2017what]). For example, some reviewers can still choose to remain anonymous in many publications (although authors cannot - for obvious reasons), and some journals force reviewers into [double-blind reviewing](#double) and then publish their comments anonymously as Open Peer Review. Other publishers allow any volunteer reviews or comments to be published alongside an article. Hence Open Peer Review generally means that reviews and comments are published alongside the article with varying degrees of reviewer anonymity. Note that it can be very difficult to find reviewers who are prepared to reveal their names to authors [see @delikoura2021open], ~40% at _PeerJ_. 
 
-### Public reviewers {#publicreviewers}
+A mixture of OPR and closed reviews in the same journal allows the benefits of OPR to be studied. A study that compared _PeerJ_ publications in which reviews were made public, compared to those that authors chose to keep closed, suggested that the subsequent number of citations increased by a third for OPR model [@zong2020does]. While another study found no improvement in citations for articles published in _Nature Communications_ [@ni2021influence]. Yet another study of _PLoS_ publications found a positive association between the OPR model and higher article page views, saving, sharing, and a greater HTML to PDF conversion rate, but no benefit to citations [@wei2023what]. Wei et al. [-@wei2023what] also noted that the citation index used changed whether positive benefits were found or not. 
+
+It is only possible to speculate about why more sharing and citing may be a result of OPR. The decision at _PeerJ_ to open reviews is made first both by reviewers (who opt not to be anonymous), and then by authors (who opt to open reviews). In studies where both groups co-operate, we might hope that this results in a higher quality product. Indeed, public reviews tend to be longer, although positive comments are more frequent in closed reviews [@bornmann2012closed]. It is equally possible that authors who choose to open their peer review are more progressive and active within research (leading to more citations).
+
+OPR could be considered the most transparent system for any journal. It has also been called Open Evaluation (OE) by Kriegeskorte et al. [-@kriegeskorte2012emerging]. [_PeerJ_](www.peerj.com) PLoS and [_eLife_](www.elifesciences.org) are among a very small handful of journals that have tried to instigate this model. Interesting developments of this model have seen _PeerJ_ drop the option for authors to decline OPR as of [February 2023](https://peerj.com/about/policies-and-procedures/#open-peer-review), and _eLife_ drop the rejection of manuscripts that are reviewed as of March 2023 [@abbott2023strife], alleviating the problem noted above. 
+
+The OPR model does encourage good behaviour (or the avoidance of some of the worst problems) on the part of reviewers. However, reviewers remain brutally direct even when they are named, such that even open comments may be construed as bruising by the authors [@eve2021reading]. Another downside to OPR is that there is still the potential for [bullying](#bullying) behaviour if reviewers know who authors are when conducting a review (see [Part IV](#bullypeer)). This is then aggravated by bullies who also choose to remain anonymous, and can only be mediated by insightful editors. A solution for this might be a [double-blind reviewing](#double) model followed by Open Review Publishing of comments and rebuttal. This would encourage reviewers to interact with the publication after review and might alleviate some potential for bullying. I am not aware of this model being practised by any journal in the Biological Sciences today.
+
+
+### Public reviews {#publicreviewers}
 Public reviewers know who the authors are, and are known by the authors and editor, and their names (and often their reviews) are made available to the public. This model is relatively recent, and comes along with the possibility of making the reviews with their own [DOIs](#DOI) available along with the accepted manuscript. It is worth noting that, to date, reviews for manuscripts that are rejected do not get posted using this or any other current publishing model. It does exist in the world of [preprints](#preprints2). 
 
-This could be considered the most transparent system for any journal. It has also been called Open Evaluation (OE) by Kriegeskorte et al. [-@kriegeskorte2012emerging]. [_PeerJ_](www.peerj.com) and [_eLife_](www.elifesciences.org) are among a very small handful of journals that have tried to instigate this model. Nevertheless it can be very difficult to find reviewers who are prepared to reveal their names to the authors. A study that compared _PeerJ_ publications in which reviews were made public, compared to those that authors chose to keep closed, suggested that the subsequent number of citations increased by a third for open reviews [@zong2020does]. It is only possible to speculate about why this might be. The decision at _PeerJ_ to open reviews is made first both by reviewers (who opt not to be anonymous), and then by authors (who opt to open reviews). In studies where both groups co-operate, we might hope that this results in a higher quality product. Indeed, public reviews tend to be longer, although positive comments are more frequent in closed reviews [@bornmann2012closed]. It is equally possible that authors who choose to open their peer review are more progressive and active within research (leading to more citations).
 
 ## Learn more about peer review by doing it {#reviewit}
 
@@ -139,6 +147,6 @@ Table \@ref(tab:motivations) suggests that reviewers receive the least out of th
 
 Note that what reviewers get out of participating in peer review is almost identical to editors (see Table \@ref(tab:motivations)). Editors benefit at a higher level, mostly as their names are seen more often by more people, but with the drawback that they do a lot more work than the peer reviewer.
 
-I have heard some members of the community claim that they will continue to accept peer review requests until these cover what they are demanding of the community (i.e. reviews offered per year = submissions per year x ~2.5). Although this sounds very fair, I would suggest that the reality is more subtle. You shouldn't be accepting to conduct peer reviews for articles where you feel that you lack specialist knowledge. Neither should you be conducting peer review when you feel that you have a conflict of interest. 
+I have heard some members of the community claim that they will continue to accept peer review requests until these cover what they are demanding of the community (i.e. reviews offered per year = submissions per year x ~2.5). Although this sounds very fair, I would suggest that the reality is more subtle. You shouldn't be accepting to conduct peer reviews for articles where you feel that you lack specialist knowledge. Neither should you be conducting peer review when you feel that you have a [conflict of interest](#conflicts). 
 
 If you do have to turn down the invitation of peer review, then do it as soon as possible, and try to suggest someone else that you think could do it. 
