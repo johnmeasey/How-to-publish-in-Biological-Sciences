@@ -4,7 +4,7 @@ This is an Open Access book by John Measey, and is also available in print from 
 
 ![cover](https://user-images.githubusercontent.com/25199650/131245320-269a0b7d-9c04-415a-967a-bef5f0d4ebb9.jpg)
 
-You can read this book for free online at http://www.howtopublishscience.org/, or purchase print or ebook edition from CRC (at some point in the future).
+You can read this book for free online at https://howtopublishscience.org/, or purchase print or ebook edition from CRC Press [here](https://www.routledge.com/How-to-Publish-in-Biological-Sciences-A-Guide-for-the-Uninitiated/Measey/p/book/9781032116419).
 
 View open-source code for source text and templates at https://github.com/johnmeasey/How-to-publish-in-Biological-Sciences
 
