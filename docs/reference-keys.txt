@@ -58,7 +58,7 @@ flavours
 blind-reviewers
 double
 triple
-open-reviewers
+OPR
 publicreviewers
 reviewit
 what-do-peer-reviewers-get-out-of-participation
@@ -72,6 +72,7 @@ openness
 whattowrite
 standard-articles
 reviews
+natural-history-observations
 commentary
 letters
 editorials
@@ -208,6 +209,7 @@ atrazine-syngenta-and-their-sponsored-research
 ecorisk-and-their-conflicts-of-interest
 duPreez
 oil2
+running-a-citation-database-and-charging-increasing-apcs-for-higher-impact-journals
 how-to-interpret-a-conflict-of-interest-statement
 trust
 tackling-journal-capture-from-the-past
@@ -347,8 +349,11 @@ fraud
 PruittData
 bullying
 how-to-spot-a-bully
+bullypeer
 what-to-do-about-bullying
-what-to-do-if-the-procedure-against-bullying-at-your-institution-doesnt-work
+in-your-institution
+bullypeer2
+bullyme
 mentalhealth
 being-physically-active-improves-mental-wellbeing
 time-to-think

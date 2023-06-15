@@ -20,7 +20,15 @@ One of the amazing potentials for [bookdown books](https://bookdown.org/) is tha
 Embarking on a PhD is intimidating as, for most students, it will be their first experience working within the academic system. The voyage of discovery is often made very frustrating as much of what goes on in academia is assumed knowledge. Academics accumulate knowledge throughout their careers, but what can be done for those who are uninitiated? What is needed is a guide that postgraduate students can refer to before, during and while making decisions about their time within academia. Note that this is not a rulebook. There are times when the guide will be accurate and others when it will be vague, but providing some insight to point you in directions where you can explore more. The intention then is to provide you with a starting point from which you can establish your confidence in the academic writing process, and build your own creativity.
 
 ## How to cite {-}
+
+**The printed book**
+
 Measey, J. (2022) _How to publish in Biological Sciences: a guide for the uninitiated_. CRC Press, Boca Raton. 294pp. ISBN: 9781032116419  [https://doi.org/10.1201/9781003212560](https://doi.org/10.1201/9781003212560)
+
+**This online version**
+
+Measey, J. (2023) _How to publish in Biological Sciences: a guide for the uninitiated_. Available from: https://howtopublishscience.org/ Accessed on: 15 June 2023.
+
 
 ## Creative Commons License {-}
 "**How to publish in Biological Sciences: A guide for the uninitiated**" is copyright to John Measey and distributed under a Creative Commons BY-NC-ND 4.0 International License. You may freely share this content for non-commercial purposes, with a source credit to www.john.measey.com
