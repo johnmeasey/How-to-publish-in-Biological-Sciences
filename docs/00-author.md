@@ -27,11 +27,15 @@ Measey, J. (2022) _How to publish in Biological Sciences: a guide for the uninit
 
 **This online version**
 
-Measey, J. (2023) _How to publish in Biological Sciences: a guide for the uninitiated_. Available from: https://howtopublishscience.org/ Accessed on: 15 June 2023.
+Measey, J. (2023) _How to publish in Biological Sciences: a guide for the uninitiated_. Available from: https://howtopublishscience.org/ Updated on: 20 June 2023.
 
 
 ## Creative Commons License {-}
-"**How to publish in Biological Sciences: A guide for the uninitiated**" is copyright to John Measey and distributed under a Creative Commons BY-NC-ND 4.0 International License. You may freely share this content for non-commercial purposes, with a source credit to www.john.measey.com
+"**How to publish in Biological Sciences: A guide for the uninitiated**" is copyright to John Measey and distributed under a [Creative Commons BY-NC-ND 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may freely share this content for non-commercial purposes, with a source credit to [howtopublishscience.org](https://howtopublishscience.org/)
+
+<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="figures/BY-NC-ND.png" width="66%" /></a>
+
+
 
 ## Disclaimer {-}
 
