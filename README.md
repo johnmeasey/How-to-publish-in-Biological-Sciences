@@ -15,5 +15,18 @@ Publishing a paper in an academic journal should simply consist of submitting a 
 
 This book was written with http://bookdown.org and https://www.rstudio.com
 
+
+## Copyright
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![BY NC ND 4.0][cc-by-image]][cc-by]
+
+[cc-by]: https://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-image]: http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png
+[cc-by-shield]: http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-nc-nd.svg
+
+
+
 # Disclaimer
 This open-source repository is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. No installation or technical support will be provided.
