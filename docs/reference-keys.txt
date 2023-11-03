@@ -153,6 +153,8 @@ against
 review
 having-a-purpose
 systematic-reviews
+meta-analysis
+meta-analysis-for-publication-bias
 using-google-scholar
 the-meta-analysis
 combining-topics-by-combining-people
@@ -349,7 +351,14 @@ confirmation
 theorymaturation
 the-attractiveness-of-facial-symmetry
 citebias
+Fahrig
 filedrawer
+elite
+gini-coefficient-for-citation-imbalance
+why-do-elite-scientists-garner-more-citations
+not-every-one-of-an-elites-papers-will-be-a-hit-the-pareto-rule
+more-prizes-funding-and-other-benefits-to-the-elite
+what-can-you-do-to-prevent-maintaining-a-citation-elite
 badscience
 retract
 corrigendum
@@ -364,6 +373,10 @@ id_3rdparties
 who-is-responsible
 fraud
 PruittData
+social-spiders
+monkey-business-researching-monkey-business
+climate-change-and-ocean-systems
+the-conflict-position-of-institutions-between-cash-cows-and-misconduct
 bullying
 how-to-spot-a-bully
 bullypeer
@@ -382,4 +395,3 @@ doctor-of-science-dsc
 tenure
 leavingacademia
 key-insights-if-you-are-looking-for-a-career-outside-academia
-history-of-peer-review
