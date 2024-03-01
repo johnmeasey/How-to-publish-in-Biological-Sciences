@@ -1,7 +1,7 @@
 --- 
 title: "How to publish in Biological Sciences: a guide for the uninitiated"
 author: "John Measey"
-date: "2023-11-07"
+date: "2024-03-01"
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike

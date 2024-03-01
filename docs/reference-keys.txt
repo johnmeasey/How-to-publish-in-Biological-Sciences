@@ -6,6 +6,7 @@ tab:motivations
 fig:review-article
 eq:Impact-Factor
 fig:DORA
+tab:CRediT
 tab:cite
 fig:Dimensions
 fig:Olaf-SA-invasive-fish
@@ -27,6 +28,7 @@ fig:authors-writing-more
 fig:funnel
 fig:funnel-ve
 fig:TheoryMaturation
+fig:Pareto
 tab:retract
 fig:life-sciences-retractions
 fig:retraction1
@@ -50,6 +52,7 @@ openscience
 whatjournalfor
 what-will-journals-be
 peerreview
+history-of-peer-review
 how-high-is-the-peer-review-bar
 whopeers
 professionals
@@ -299,6 +302,7 @@ there-are-ethical-considerations-for-reviewers
 remain-objective-and-rational
 remember-to-accentuate-the-positive
 how-long-should-your-review-be
+following-the-instructions-for-peer-reviewers-given-by-the-journal
 what-to-do-if-you-suspect-fraud
 onlinecourse
 problempeerreview
